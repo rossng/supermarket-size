@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "public/data/supermarket-buildings.geojson",
+    "tile": {
+      "z": 10,
+      "x": 525,
+      "y": 332
+    },
+    "featureCount": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.868895598791433,
+              53.15430288109463
+            ],
+            [
+              4.869116744372403,
+              53.154488379863224
+            ],
+            [
+              4.868664134485353,
+              53.154683789720465
+            ],
+            [
+              4.868707736980403,
+              53.15472029021632
+            ],
+            [
+              4.8686068343393645,
+              53.15476383983875
+            ],
+            [
+              4.868485405267734,
+              53.15481625053753
+            ],
+            [
+              4.868220387908252,
+              53.154594392569926
+            ],
+            [
+              4.868341801836341,
+              53.15454197308537
+            ],
+            [
+              4.868895598791433,
+              53.15430288109463
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1401225217,
+        "name": "PLUS",
+        "brand": "PLUS",
+        "bag_addressable_object_id": "0448010000012927",
+        "bag_pand_id": "0448100000017027",
+        "bag_pand_status": "Pand in gebruik",
+        "bag_pand_bouwjaar": 2014,
+        "floor_area_m2": 1585,
+        "bag_raw_area_m2": 1585,
+        "bag_display_name": "Molenlaan 14, 1795AM De Cocksdorp",
+        "bag_match_status": "resolved",
+        "area_status": "area_attached",
+        "has_area": true
+      }
+    }
+  ]
+}

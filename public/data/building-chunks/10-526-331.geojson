@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "public/data/supermarket-buildings.geojson",
+    "tile": {
+      "z": 10,
+      "x": 526,
+      "y": 331
+    },
+    "featureCount": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.215395647127352,
+              53.36035342003166
+            ],
+            [
+              5.215346427824102,
+              53.36043977766379
+            ],
+            [
+              5.215337866578513,
+              53.360454806535266
+            ],
+            [
+              5.215326417069956,
+              53.360478474968545
+            ],
+            [
+              5.2153138840181015,
+              53.36047630963513
+            ],
+            [
+              5.215271271701425,
+              53.36046893491265
+            ],
+            [
+              5.215283069670531,
+              53.36044452121708
+            ],
+            [
+              5.215270221428176,
+              53.36044230151836
+            ],
+            [
+              5.215276872767813,
+              53.36042787192774
+            ],
+            [
+              5.2152769485125035,
+              53.36042771030373
+            ],
+            [
+              5.215317326408373,
+              53.36034004622201
+            ],
+            [
+              5.215395647127352,
+              53.36035342003166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5078766656,
+        "name": "SPAR Berghuis",
+        "brand": "SPAR",
+        "bag_addressable_object_id": "0093010000225177",
+        "bag_pand_id": "0093100000213301",
+        "bag_pand_status": "Pand in gebruik",
+        "bag_pand_bouwjaar": 1860,
+        "floor_area_m2": 740,
+        "bag_raw_area_m2": 740,
+        "bag_display_name": "Boomstraat 9, 8881BS West-Terschelling",
+        "bag_match_status": "resolved",
+        "area_status": "area_attached",
+        "has_area": true
+      }
+    }
+  ]
+}
