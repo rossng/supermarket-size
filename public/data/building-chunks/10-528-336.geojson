@@ -85,7 +85,8 @@
         "bag_display_name": "Harderwijkerweg 18, 8071GA Nunspeet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -255,7 +256,8 @@
         "bag_display_name": "Dreef 1, 8256AW Biddinghuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -397,7 +399,8 @@
         "bag_display_name": "Krommekamp 115, 3848DP Harderwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -607,7 +610,8 @@
         "bag_display_name": "Dorpsstraat 69D, 8171BM Vaassen",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1303,7 +1307,8 @@
         "bag_display_name": "Branderskamp 9, 3851XV Ermelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1505,7 +1510,8 @@
         "bag_display_name": "Sportlaan 5, 8084VA 't Harde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1655,7 +1661,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1849,7 +1856,8 @@
         "bag_display_name": "P.C. Hooftplein 20, 3842HB Harderwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1903,7 +1911,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2021,7 +2030,8 @@
         "bag_display_name": "Beltmolen 1, 8071TL Nunspeet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2119,7 +2129,8 @@
         "bag_display_name": "Zuiderzeestraatweg 126, 8096CD Oldebroek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2225,7 +2236,8 @@
         "bag_display_name": "Torenstraat 25, 8171CP Vaassen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2399,7 +2411,8 @@
         "bag_display_name": "Knardijk West 10, 3841LA Harderwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2517,7 +2530,8 @@
         "bag_display_name": "Nassaulaan 10, 3843DC Harderwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2779,7 +2793,8 @@
         "bag_display_name": "Industrieweg 15, 8071CS Nunspeet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2881,7 +2896,8 @@
         "bag_display_name": "Kosterstraat 3, 8171CB Vaassen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3003,7 +3019,8 @@
         "bag_display_name": "Zwolscheweg 1A, 8081CG Elburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3489,7 +3506,8 @@
         "bag_display_name": "Garsteland 4, 3851MJ Ermelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3671,7 +3689,8 @@
         "bag_display_name": "Haverkamp 10, 8071CB Nunspeet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3785,7 +3804,8 @@
         "bag_display_name": "Verlengde Baan 10, 8256HB Biddinghuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3959,7 +3979,8 @@
         "bag_display_name": "Knardijk West 8, 3841LA Harderwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4225,7 +4246,8 @@
         "bag_display_name": "Vooronder 14, 8081NK Elburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4355,7 +4377,8 @@
         "bag_display_name": "Centrumplein 7, 8084AZ 't Harde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4449,7 +4472,8 @@
         "bag_display_name": "Veldweg 6, 8071BG Nunspeet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4643,7 +4667,8 @@
         "bag_display_name": "P.C. Hooftplein 10, 3842HB Harderwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4909,7 +4934,8 @@
         "bag_display_name": "Klokbekerweg 164, 8081JJ Elburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4999,7 +5025,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5113,7 +5140,8 @@
         "bag_display_name": "Zuiderzeestraatweg 133D, 8096BE Oldebroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5167,7 +5195,8 @@
         "bag_display_name": "Uddelerweg 71, 8075CH Elspeet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5277,7 +5306,8 @@
         "bag_display_name": "Zuiderzeestraatweg 143, 3849AD Hierden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5379,7 +5409,8 @@
         "bag_display_name": "Vaassenseweg 12A, 8166AV Emst",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5429,7 +5460,8 @@
         "bag_display_name": "Oude Hogeweg 2A, 8085PA Doornspijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

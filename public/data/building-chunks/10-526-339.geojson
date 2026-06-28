@@ -253,7 +253,8 @@
         "bag_display_name": "Voorstraat 2a, 4286AL Almkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -383,7 +384,8 @@
         "bag_display_name": "Bloemenoordplein 50, 5143TC Waalwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -453,7 +455,8 @@
         "bag_display_name": "De Els 46a, 5141HH Waalwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -539,7 +542,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1069,7 +1073,8 @@
         "bag_display_name": "Mexicoplein 1, 5152LC Drunen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1171,7 +1176,8 @@
         "bag_display_name": "Helftheuvelpassage 1, 5224AA 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1277,7 +1283,8 @@
         "bag_display_name": "van der Duinstraat 115, 5161BN Sprang-Capelle",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -1375,7 +1382,8 @@
         "bag_display_name": "Looiershof 1, 5104HV Dongen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1501,7 +1509,8 @@
         "bag_display_name": "Nieuwe Es 7a, 4254AW Sleeuwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1835,7 +1844,8 @@
         "bag_display_name": "Gasthuisstraat 124, 5171GJ Kaatsheuvel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2025,7 +2035,8 @@
         "bag_display_name": "Grotestraat 164B, 5151BP Drunen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2151,7 +2162,8 @@
         "bag_display_name": "Oliemaat 5, 5251AG Vlijmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2277,7 +2289,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2339,7 +2352,8 @@
         "bag_display_name": "Parallelweg 2a, 4261GA Wijk en Aalburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2517,7 +2531,8 @@
         "bag_display_name": "Raadhuis 5, 5321HL Hedel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2575,7 +2590,8 @@
         "bag_display_name": "Helftheuvelpassage 90, 5224AP 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2725,7 +2741,8 @@
         "bag_display_name": "Jan de Rooijstraat 15A, 5171DR Kaatsheuvel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2847,7 +2864,8 @@
         "bag_display_name": "Dorpsplein 21, 5165CJ Waspik",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2981,7 +2999,8 @@
         "bag_display_name": "Oliemaat 6, 5251AG Vlijmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3151,7 +3170,8 @@
         "bag_display_name": "Vincent van Goghplein 5, 5268BZ Helvoirt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3249,7 +3269,8 @@
         "bag_display_name": "Tinie de Munnikstraat 6, 5151VW Drunen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3315,7 +3336,8 @@
         "bag_display_name": "Binnenweg 4, 5317JW Nederhemert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3437,7 +3459,8 @@
         "bag_display_name": "E.P. van Ooijenstraat 5, 5308KD Aalst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3539,7 +3562,8 @@
         "bag_display_name": "De Haar 40, 5324DB Ammerzoden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3729,7 +3753,8 @@
         "bag_display_name": "Raadhuisplein 4, 4285CT Woudrichem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3831,7 +3856,8 @@
         "bag_display_name": "Molendijk 1B, 5109RL 's Gravenmoer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3933,7 +3959,8 @@
         "bag_display_name": "Rijksweg 118d, 4255GN Nieuwendijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3995,7 +4022,8 @@
         "bag_display_name": "Ammerzodenseweg 13a, 5321GA Hedel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4129,7 +4157,8 @@
         "bag_display_name": "Kooikersweg 561, 5224AT 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4387,7 +4416,8 @@
         "bag_display_name": "Helftheuvelpassage 346, 5224AR 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4465,7 +4495,8 @@
         "bag_display_name": "Hoofdpoort 22, 5171DN Kaatsheuvel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4591,7 +4622,8 @@
         "bag_display_name": "Middelkampseweg 6, 5311PC Gameren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4717,7 +4749,8 @@
         "bag_display_name": "Kasteellaan 5, 5321GL Hedel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4859,7 +4892,8 @@
         "bag_display_name": "Fiep Westendorpplein 12, 5302TA Zaltbommel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4969,7 +5003,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5111,7 +5146,8 @@
         "bag_display_name": "Plein 16, 5251AT Vlijmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5381,7 +5417,8 @@
         "bag_display_name": "Markt 67, 4261DC Wijk en Aalburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5471,7 +5508,8 @@
         "bag_display_name": "Mgr. Schaepmanlaan 8, 5104JZ Dongen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5601,7 +5639,8 @@
         "bag_display_name": "Aalbersestraat 5, 5151EE Drunen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5751,7 +5790,8 @@
         "bag_display_name": "Groeneweg 1a, 4264RN Veen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5853,7 +5893,8 @@
         "bag_display_name": "Postweide 137, 4285DV Woudrichem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5935,7 +5976,8 @@
         "bag_display_name": "Grotestraat 50, 5151JE Drunen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6157,7 +6199,8 @@
         "bag_display_name": "Gasthuisstraat 24, 5171GG Kaatsheuvel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6259,7 +6302,8 @@
         "bag_display_name": "Windmolenweg 4, 5102AJ Dongen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6349,7 +6393,8 @@
         "bag_display_name": "Suze Groenewegstraat 2, 5142TN Waalwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6435,7 +6480,8 @@
         "bag_display_name": "Steenweg 10, 5301HL Zaltbommel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6537,7 +6583,8 @@
         "bag_display_name": "Kanaalstraat 115, 5104AB Dongen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6639,7 +6686,8 @@
         "bag_display_name": "Burgemeester Verwielstraat 5a, 5141BD Waalwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6721,7 +6769,8 @@
         "bag_display_name": "Dorpshuisstraat 4, 4175EA Haaften",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6879,7 +6928,8 @@
         "bag_display_name": "Burgemeester van Houtplein 66, 5251PV Vlijmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7009,7 +7059,8 @@
         "bag_display_name": "Oranjeplein 47, 5175BX Loon op Zand",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7207,7 +7258,8 @@
         "bag_display_name": "Achterstraat 20, 5268EC Helvoirt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7349,7 +7401,8 @@
         "bag_display_name": "Molenkampsweg 3, 5306VN Brakel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7491,7 +7544,8 @@
         "bag_display_name": "De Vergt 12, 4181RA Waardenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7641,7 +7695,8 @@
         "bag_display_name": "Raadhuisplein 29a, 5161CG Sprang-Capelle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7719,7 +7774,8 @@
         "bag_display_name": "Dien van Hemertstraat 1, 5221JN 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7789,7 +7845,8 @@
         "bag_display_name": "Kerkstraat 27, 5165CE Waspik",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7839,7 +7896,8 @@
         "bag_display_name": "Reigerbosweg 2a, 5144MA Waalwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7941,7 +7999,8 @@
         "bag_display_name": "Westwagenstraat 40, 4201HJ Gorinchem",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -8119,7 +8178,8 @@
         "bag_display_name": "Laagstraat 3, 5156NH Oudheusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8217,7 +8277,8 @@
         "bag_display_name": "Burgemeester van der Schansstraat 18a, 4281LJ Andel",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8279,7 +8340,8 @@
         "bag_display_name": "Parelplein 10, 4284GA Rijswijk (NB)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8393,7 +8455,8 @@
         "bag_display_name": "van der Dussenlaan 2, 4271AP Dussen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8475,7 +8538,8 @@
         "bag_display_name": "Achterweg 29a, 4171BA Herwijnen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8565,7 +8629,8 @@
         "bag_display_name": "Mildijk 111a, 4214DR Vuren",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

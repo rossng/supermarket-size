@@ -397,7 +397,8 @@
         "bag_display_name": "Thiemsbrug 19, 7551EZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -467,7 +468,8 @@
         "bag_display_name": "Langenkamp 8, 7581JE Losser",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -661,7 +663,8 @@
         "bag_display_name": "Willem de Mérodestraat 10, 7552WZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1015,7 +1018,8 @@
         "bag_display_name": "Zonstraat 28, 7521HH Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1081,7 +1085,8 @@
         "bag_display_name": "Boekeloseweg 26, 7553DN Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1267,7 +1272,8 @@
         "bag_display_name": "Kevelhamhoek 71, 7546EN Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1365,7 +1371,8 @@
         "bag_display_name": "De Kolk 3, 7491XN Delden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1427,7 +1434,8 @@
         "bag_display_name": "Wethouder Nijhuisstraat 164, 7545NM Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1561,7 +1569,8 @@
         "bag_display_name": "Veldhoflanden 2, 7542LA Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1667,7 +1676,8 @@
         "bag_display_name": "Gronausestraat 1130, 7534AS Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2381,7 +2391,8 @@
         "bag_display_name": "Wesseler-nering 20A, 7544JB Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2995,7 +3006,8 @@
         "bag_display_name": "Noord Esmarkerrondweg 421-1, 7533BL Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3157,7 +3169,8 @@
         "bag_display_name": "Jhr.von Heijdenstraat 22, 7481ED Haaksbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3291,7 +3304,8 @@
         "bag_display_name": "Veldhoflanden 5C, 7542LA Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -3337,7 +3351,8 @@
         "bag_display_name": "Mozartlaan 1, 7557DK Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3383,7 +3398,8 @@
         "bag_display_name": "Dikkersplein 11, 7553CZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3469,7 +3485,8 @@
         "bag_display_name": "Haaksbergerstraat 202, 7513EC Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3631,7 +3648,8 @@
         "bag_display_name": "Jan Vermeerstraat 3, 7545BN Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4245,7 +4263,8 @@
         "bag_display_name": "Noord Esmarkerrondweg 421-15, 7533BL Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4455,7 +4474,8 @@
         "bag_display_name": "Lage Bothofstraat 181, 7533AS Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4585,7 +4605,8 @@
         "bag_display_name": "Schuttersveld 3, 7514AC Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4671,7 +4692,8 @@
         "bag_display_name": "Burgemeester Buijvoetsplein 4, 7497LD Bentelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5237,7 +5259,8 @@
         "bag_display_name": "Rijnstraat 84, 7523GH Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -5387,7 +5410,8 @@
         "bag_display_name": "Oogstplein 26, 7545HP Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5485,7 +5509,8 @@
         "bag_display_name": "Kortestraat 5, 7491AX Delden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5671,7 +5696,8 @@
         "bag_display_name": "De Heurne 59, 7511GS Enschede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5721,7 +5747,8 @@
         "bag_display_name": "de Wetstraat 39, 7551GA Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5827,7 +5854,8 @@
         "bag_display_name": "Beckumerstraat 13A, 7548BD Enschede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6013,7 +6041,8 @@
         "bag_display_name": "Schoolstraat 60, 7534CC Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6727,7 +6756,8 @@
         "bag_display_name": "Wesseler-nering 21A, 7544JB Enschede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6889,7 +6919,8 @@
         "bag_display_name": "Burgemeester Van Veenlaan 100, 7543AB Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7219,7 +7250,8 @@
         "bag_display_name": "Noorderhagen 75, 7511EK Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7357,7 +7389,8 @@
         "bag_display_name": "Brouwerijplein 55, 7523MA Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7431,7 +7464,8 @@
         "bag_display_name": "Lage Bothofstraat 161, 7533AS Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7617,7 +7651,8 @@
         "bag_display_name": "De Coöperatie 15-3, 7514JK Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7803,7 +7838,8 @@
         "bag_display_name": "de Brink 46, 7581JB Losser",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7997,7 +8033,8 @@
         "bag_display_name": "Willem de Mérodestraat 40, 7552WZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8123,7 +8160,8 @@
         "bag_display_name": "Magnoliastraat 100, 7531KA Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8201,7 +8239,8 @@
         "bag_display_name": "Oude Molenweg 40, 7551HC Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8263,7 +8302,8 @@
         "bag_display_name": "Kuipersdijk 118, 7512CL Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8369,7 +8409,8 @@
         "bag_display_name": "Wethouder Nijhuisstraat 238, 7545NP Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8415,7 +8456,8 @@
         "bag_display_name": "Dikkersplein 9, 7553CZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8549,7 +8591,8 @@
         "bag_display_name": "Stationsstraat 12, 7481JA Haaksbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8795,7 +8838,8 @@
         "bag_display_name": "Zonstraat 48B, 7521HJ Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8849,7 +8893,8 @@
         "bag_display_name": "Waarbekenweg 19, 7553KH Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8971,7 +9016,8 @@
         "bag_display_name": "Slijpsteen 11, 7513JB Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9685,7 +9731,8 @@
         "bag_display_name": "Wesseler-nering 2B, 7544JA Enschede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9779,7 +9826,8 @@
         "bag_display_name": "Brinkstraat 336, 7541AX Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9861,7 +9909,8 @@
         "bag_display_name": "Enschedesestraat 230, 7552CM Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9979,7 +10028,8 @@
         "bag_display_name": "Hortensiastraat 140, 7531GX Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10109,7 +10159,8 @@
         "bag_display_name": "Spaansland 15, 7543BE Enschede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10211,7 +10262,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10441,7 +10493,8 @@
         "bag_display_name": "Esmarkelaan 14, 7534JH Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20371,7 +20424,8 @@
         "bag_display_name": "Agathaplein 100, 7555HH Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20517,7 +20571,8 @@
         "bag_display_name": "Veldmaterstraat 174, 7481AD Haaksbergen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20611,7 +20666,8 @@
         "bag_display_name": "De Hems 16-90, 7522NL Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20781,7 +20837,8 @@
         "bag_display_name": "Scholten Reimerstraat 53, 7524CR Enschede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

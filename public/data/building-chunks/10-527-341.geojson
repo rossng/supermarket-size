@@ -437,7 +437,8 @@
         "bag_display_name": "De Bus 38, 5581GP Waalre",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -535,7 +536,8 @@
         "bag_display_name": "Hof 94, 5571CA Bergeijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -745,7 +747,8 @@
         "bag_display_name": "Den Hof 4, 5582JZ Waalre",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -903,7 +906,8 @@
         "bag_display_name": "Corridor 24A, 5554HN Valkenswaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1061,7 +1065,8 @@
         "bag_display_name": "Kapelstraat 35a, 5591HC Heeze",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1155,7 +1160,8 @@
         "bag_display_name": "Margrietlaan 3c, 5595EA Leende",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1257,7 +1263,8 @@
         "bag_display_name": "Goorkes 2, 5554NW Valkenswaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1307,7 +1314,8 @@
         "bag_display_name": "Strijperstraat 51a, 5595GB Leende",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1409,7 +1417,8 @@
         "bag_display_name": "Elsenhof 50, 5571LA Bergeijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1499,7 +1508,8 @@
         "bag_display_name": "Nieuwe Waalreseweg 93, 5552EE Valkenswaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1685,7 +1695,8 @@
         "bag_display_name": "Smits van Oyenlaan 2g, 6026CP Maarheeze",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1747,7 +1758,8 @@
         "bag_display_name": "Leenderweg 120, 5555CG Valkenswaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1933,7 +1945,8 @@
         "bag_display_name": "Dr. Ant. Mathijsenstraat 9a, 6021CJ Budel",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2047,7 +2060,8 @@
         "bag_display_name": "Willibrorduslaan 8, 5521KC Eersel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2109,7 +2123,8 @@
         "bag_display_name": "Nieuwstraat 47a, 5521CB Eersel",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -2207,7 +2222,8 @@
         "bag_display_name": "Nieuwstraat 25a, 5521CA Eersel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2353,7 +2369,8 @@
         "bag_display_name": "De Bus 4, 5581GP Waalre",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2539,7 +2556,8 @@
         "bag_display_name": "Smits van Oyenlaan 2a, 6026CP Maarheeze",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2629,7 +2647,8 @@
         "bag_display_name": "Meester Pankenstraat 8, 5571CP Bergeijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3051,7 +3070,8 @@
         "bag_display_name": "De Kerverij 21, 5554CM Valkenswaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3149,7 +3169,8 @@
         "bag_display_name": "Kard. de Jongstraat 17, 5554RB Valkenswaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3259,7 +3280,8 @@
         "bag_display_name": "Nieuwstraat 9, 5521CA Eersel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3405,7 +3427,8 @@
         "bag_display_name": "ten Borchwardplein 20, 5591ML Heeze",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3523,7 +3546,8 @@
         "bag_display_name": "Parallelweg 1b, 6023BA Budel-Schoot",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3613,7 +3637,8 @@
         "bag_display_name": "van Bruhezedal 13, 5551EW Valkenswaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3723,7 +3748,8 @@
         "bag_display_name": "Dorpstraat 70, 5595CJ Leende",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3817,7 +3843,8 @@
         "bag_display_name": "Dorpstraat 65, 5575AE Luyksgestel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

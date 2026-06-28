@@ -1733,7 +1733,8 @@
         "bag_display_name": "Hof van Holland 30, 3332EH Zwijndrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1839,7 +1840,8 @@
         "bag_display_name": "Oudeland 84, 3335VH Zwijndrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1905,7 +1907,8 @@
         "bag_display_name": "Sigmondstraat 52, 4251ZB Werkendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1999,7 +2002,8 @@
         "bag_display_name": "Arkendonk 53, 4907XP Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2141,7 +2145,8 @@
         "bag_display_name": "Zuiderhout 103, 4904AW Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2279,7 +2284,8 @@
         "bag_display_name": "Nieuwstraat 104, 4921CZ Made",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2517,7 +2523,8 @@
         "bag_display_name": "Keiweg 11, 4901JD Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2627,7 +2634,8 @@
         "bag_display_name": "Van Eesterenplein 99, 3315KT Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2709,7 +2717,8 @@
         "bag_display_name": "Korte Parallelweg 165, 3311JN Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2943,7 +2952,8 @@
         "bag_display_name": "Talmastraat 16, 3371VG Hardinxveld-Giessendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3273,7 +3283,8 @@
         "bag_display_name": "Admiraalsplein 162, 3317BC Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3479,7 +3490,8 @@
         "bag_display_name": "Sophiapromenade 14, 3344PM Hendrik-Ido-Ambacht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3789,7 +3801,8 @@
         "bag_display_name": "Achterom 42, 3311KC Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4087,7 +4100,8 @@
         "bag_display_name": "Heksenwaag 2, 4823JV Breda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4181,7 +4195,8 @@
         "bag_display_name": "Burgemeester Winklerplein 24, 3362AA Sliedrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4283,7 +4298,8 @@
         "bag_display_name": "het Anker 7, 4941RG Raamsdonksveer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4553,7 +4569,8 @@
         "bag_display_name": "Slangenburg 5, 3328DN Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4839,7 +4856,8 @@
         "bag_display_name": "Molenstraat 17a, 4761CJ Zevenbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4929,7 +4947,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4991,7 +5010,8 @@
         "bag_display_name": "Grote Waardweg 1a, 4251NV Werkendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5045,7 +5065,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5123,7 +5144,8 @@
         "bag_display_name": "Merwedestraat 50B, 3313CS Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5193,7 +5215,8 @@
         "bag_display_name": "Rijnstraat 319, 3363EJ Sliedrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5275,7 +5298,8 @@
         "bag_display_name": "Dubbeldamseweg Zuid 72, 3314JA Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5513,7 +5537,8 @@
         "bag_display_name": "Heksenwaag 1, 4823JT Breda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7239,7 +7264,8 @@
         "bag_display_name": "Hof van Holland 144, 3332EH Zwijndrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7309,7 +7335,8 @@
         "bag_display_name": "Patrijslaan 2B, 4901AT Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7403,7 +7430,8 @@
         "bag_display_name": "Zandheuvel 95, 4901HV Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7637,7 +7665,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7715,7 +7744,8 @@
         "bag_display_name": "Peulenplein 1, 3371XV Hardinxveld-Giessendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7785,7 +7815,8 @@
         "bag_display_name": "Burgemeester Jansenlaan 59A, 3331HD Zwijndrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7915,7 +7946,8 @@
         "bag_display_name": "Markt van Matena 18, 3356DL Papendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7981,7 +8013,8 @@
         "bag_display_name": "Kort-Ambachtlaan 24A, 3333EP Zwijndrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8195,7 +8228,8 @@
         "bag_display_name": "Fazantplein 3, 3362BA Sliedrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8537,7 +8571,8 @@
         "bag_display_name": "Meentpassage 14, 3353HH Papendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8671,7 +8706,8 @@
         "bag_display_name": "Van Oldenbarneveltplein 50, 3317ER Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8877,7 +8913,8 @@
         "bag_display_name": "Sophiapromenade 78, 3344PM Hendrik-Ido-Ambacht",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8975,7 +9012,8 @@
         "bag_display_name": "Brouwersdijk 30A, 3314GR Dordrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9153,7 +9191,8 @@
         "bag_display_name": "Den Bogerd 24A, 3371AM Hardinxveld-Giessendam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9343,7 +9382,8 @@
         "bag_display_name": "Cornelis de Wittstraat 84, 3311GD Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9461,7 +9501,8 @@
         "bag_display_name": "Molenstraat 1, 4761CJ Zevenbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9623,7 +9664,8 @@
         "bag_display_name": "Langestraat 5, 3295BJ 's-Gravendeel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9765,7 +9807,8 @@
         "bag_display_name": "Juliana van Stolbergstraat 93, 3372CJ Hardinxveld-Giessendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9907,7 +9950,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9989,7 +10033,8 @@
         "bag_display_name": "Zuiderhout 4, 4904AS Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11715,7 +11760,8 @@
         "bag_display_name": "Brabant 1, 3332GG Zwijndrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -11973,7 +12019,8 @@
         "bag_display_name": "Arkendonk 36, 4907XT Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12055,7 +12102,8 @@
         "bag_display_name": "Merwedestraat 50B, 3313CS Dordrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12193,7 +12241,8 @@
         "bag_display_name": "Kerkbuurt 41, 3361BC Sliedrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12535,7 +12584,8 @@
         "bag_display_name": "Meentpassage 4, 3353HH Papendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12677,7 +12727,8 @@
         "bag_display_name": "Heksenwaag 37, 4823JT Breda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12795,7 +12846,8 @@
         "bag_display_name": "Krispijnseweg 68, 3314KL Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12933,7 +12985,8 @@
         "bag_display_name": "Zandberg 4, 4761TW Zevenbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13027,7 +13080,8 @@
         "bag_display_name": "Hoofdstraat 61, 4844CB Terheijden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13081,7 +13135,8 @@
         "bag_display_name": "Pastoor van Hooijdonklaan 3, 4926CG Lage Zwaluwe",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14223,7 +14278,8 @@
         "bag_display_name": "Nieuwe Bouwlingstraat 2, 4901KJ Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14325,7 +14381,8 @@
         "bag_display_name": "Kerkstraat 43, 4273CA Hank",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14423,7 +14480,8 @@
         "bag_display_name": "Populierenhof 84, 3363HN Sliedrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14489,7 +14547,8 @@
         "bag_display_name": "Boterpolderlaan 11a, 4941ZL Raamsdonksveer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14711,7 +14770,8 @@
         "bag_display_name": "Kort-Ambachtlaan 97A, 3333EK Zwijndrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15529,7 +15589,8 @@
         "bag_display_name": "P.A. de Kok-plein 152, 3318JW Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15655,7 +15716,8 @@
         "bag_display_name": "Kerkstraat 37, 3295BD 's-Gravendeel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15849,7 +15911,8 @@
         "bag_display_name": "Oudeland 122, 3335VJ Zwijndrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15975,7 +16038,8 @@
         "bag_display_name": "Pearl Buck-erf 22, 3315BA Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16197,7 +16261,8 @@
         "bag_display_name": "Karel Doormanlaan 63, 3333AK Zwijndrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16315,7 +16380,8 @@
         "bag_display_name": "Overtoompassage 1, 3353HE Papendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16397,7 +16463,8 @@
         "bag_display_name": "Raadhuisstraat 1, 4844AA Terheijden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16567,7 +16634,8 @@
         "bag_display_name": "Zuiderhout 111, 4904AW Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17385,7 +17453,8 @@
         "bag_display_name": "P.A. de Kok-plein 127, 3318JW Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -17511,7 +17580,8 @@
         "bag_display_name": "Touwbaan 36, 4941LT Raamsdonksveer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17657,7 +17727,8 @@
         "bag_display_name": "Lijnbaan 5, 4251CS Werkendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17743,7 +17814,8 @@
         "bag_display_name": "Patrijslaan 86, 4901AV Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17797,7 +17869,8 @@
         "bag_display_name": "Damplein 16, 3319HC Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17875,7 +17948,8 @@
         "bag_display_name": "Nieuwstraat 5, 4921CT Made",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17973,7 +18047,8 @@
         "bag_display_name": "Sint Antoniushof 74, 4902RZ Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18035,7 +18110,8 @@
         "bag_display_name": "Markkant 10, 4906KD Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18185,7 +18261,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18447,7 +18524,8 @@
         "bag_display_name": "Burgemeester Krijgsmangeerde 7, 4942AV Raamsdonksveer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18637,7 +18715,8 @@
         "bag_display_name": "Dubbelsteynlaan West 86, 3319EM Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18927,7 +19006,8 @@
         "bag_display_name": "Van Eesterenplein 23, 3315KS Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19021,7 +19101,8 @@
         "bag_display_name": "Prof. Waterinklaan 45, 3312KM Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19209,7 +19290,8 @@
         "bag_display_name": "Vogelplein 18, 3312GP Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19279,7 +19361,8 @@
         "bag_display_name": "Grote Markt 75, 3311BG Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

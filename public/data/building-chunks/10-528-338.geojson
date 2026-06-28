@@ -217,7 +217,8 @@
         "bag_display_name": "Stadsbrink 375, 6707AA Wageningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -355,7 +356,8 @@
         "bag_display_name": "Van Lawick van Pabststraat 76, 6814HK Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -449,7 +451,8 @@
         "bag_display_name": "Velperbuitensingel 4, 6828CT Arnhem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -535,7 +538,8 @@
         "bag_display_name": "Jonagoldstraat 57, 6515EN Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -637,7 +641,8 @@
         "bag_display_name": "Groningensingel 959, 6835GL Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -795,7 +800,8 @@
         "bag_display_name": "Pastoor Bruggemanlaan 1, 6861GR Oosterbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -873,7 +879,8 @@
         "bag_display_name": "Beatrixplein 15, 6671KA Zetten",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -1023,7 +1030,8 @@
         "bag_display_name": "Swaenenstate 4, 4043KE Opheusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1177,7 +1185,8 @@
         "bag_display_name": "Molenweg 11, 6542PP Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1591,7 +1600,8 @@
         "bag_display_name": "Stadspoort 1, 6716RH Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1917,7 +1927,8 @@
         "bag_display_name": "Julianastraat 12, 6691AV Gendt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2119,7 +2130,8 @@
         "bag_display_name": "Rozenplein 8, 6713EN Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2301,7 +2313,8 @@
         "bag_display_name": "Klarendalseweg 139, 6822GG Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2363,7 +2376,8 @@
         "bag_display_name": "Drieslag 4, 6832AM Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2485,7 +2499,8 @@
         "bag_display_name": "Bunschoterplein 1A, 6711CD Ede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2659,7 +2674,8 @@
         "bag_display_name": "van Schevichavenstraat 3B, 6511LM Nijmegen",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2909,7 +2925,8 @@
         "bag_display_name": "Hoofdstraat 232, 6881TS Velp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3063,7 +3080,8 @@
         "bag_display_name": "Buitengracht 2, 6681JJ Bemmel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3381,7 +3399,8 @@
         "bag_display_name": "Valburgseweg 20a, 6661EV Elst",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3555,7 +3574,8 @@
         "bag_display_name": "Dorpsstraat 118, 6871AR Renkum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3693,7 +3713,8 @@
         "bag_display_name": "Polenplein 24a, 6665CN Driel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3747,7 +3768,8 @@
         "bag_display_name": "Parkweide 14, 6718DJ Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3813,7 +3835,8 @@
         "bag_display_name": "Fortunastraat 17, 6846XZ Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3959,7 +3982,8 @@
         "bag_display_name": "Dorpsstraat 36, 6721JL Bennekom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4053,7 +4077,8 @@
         "bag_display_name": "Vossenstraat 1A, 6811JL Arnhem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4347,7 +4372,8 @@
         "bag_display_name": "Langestraat 82, 6851AS Huissen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4621,7 +4647,8 @@
         "bag_display_name": "Hanzestraat 411, 6826ML Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4707,7 +4734,8 @@
         "bag_display_name": "Velperweg 47A, 6824BG Arnhem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4777,7 +4805,8 @@
         "bag_display_name": "Bloemerstraat 133, 6511EH Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5059,7 +5088,8 @@
         "bag_display_name": "Kerkplein 72, 6641BH Beuningen Gld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5133,7 +5163,8 @@
         "bag_display_name": "de Klef 22, 6644CT Ewijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5203,7 +5234,8 @@
         "bag_display_name": "Daalseweg 200, 6521GR Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5321,7 +5353,8 @@
         "bag_display_name": "Nobelweg 2A, 6706GA Wageningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6563,7 +6596,8 @@
         "bag_display_name": "Kronenburgpassage 86, 6831ER Arnhem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6633,7 +6667,8 @@
         "bag_display_name": "Keesomstraat 3A, 6717AH Ede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6719,7 +6754,8 @@
         "bag_display_name": "Oranje Marieplein 8, 6663RL Lent",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6789,7 +6825,8 @@
         "bag_display_name": "Verlengde Blokkenweg 16, 6717AD Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6947,7 +6984,8 @@
         "bag_display_name": "Europaplein 4, 6662DD Elst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7077,7 +7115,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7191,7 +7230,8 @@
         "bag_display_name": "Jacobaweg 3, 6862HE Oosterbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7545,7 +7585,8 @@
         "bag_display_name": "Brink 13, 6852EE Huissen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7655,7 +7696,8 @@
         "bag_display_name": "van der Mondeweg 89, 6685BM Haalderen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7713,7 +7755,8 @@
         "bag_display_name": "Geertjesweg 4, 6706EC Wageningen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -7791,7 +7834,8 @@
         "bag_display_name": "Middelgraaflaan 20, 6832AR Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7921,7 +7965,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8007,7 +8052,8 @@
         "bag_display_name": "Johan de Wittlaan 258, 6828WS Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8073,7 +8119,8 @@
         "bag_display_name": "Parkweide 28, 6718DJ Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8347,7 +8394,8 @@
         "bag_display_name": "Hanzestraat 405, 6826ML Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8489,7 +8537,8 @@
         "bag_display_name": "Hamsestraat 16, 4043LH Opheusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8547,7 +8596,8 @@
         "bag_display_name": "Oranje Marieplein 9, 6663RL Lent",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8617,7 +8667,8 @@
         "bag_display_name": "Hoofdstraat 21, 6671CD Zetten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8679,7 +8730,8 @@
         "bag_display_name": "Fuchsiastraat 7, 6542NX Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9921,7 +9973,8 @@
         "bag_display_name": "Kronenburgpassage 112, 6831ES Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9971,7 +10024,8 @@
         "bag_display_name": "Johan de Wittlaan 53, 6828XC Arnhem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10181,7 +10235,8 @@
         "bag_display_name": "Koningsplein 26, 6654BX Afferden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10271,7 +10326,8 @@
         "bag_display_name": "Hoefbladlaan 27, 6841CC Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10397,7 +10453,8 @@
         "bag_display_name": "Marktplein 9, 6721JG Bennekom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10511,7 +10568,8 @@
         "bag_display_name": "Ziekerstraat 79A, 6511LG Nijmegen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10601,7 +10659,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10775,7 +10834,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10873,7 +10933,8 @@
         "bag_display_name": "De Halte 269, 6711NZ Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11023,7 +11084,8 @@
         "bag_display_name": "Utrechtseweg 282, 6812AR Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11189,7 +11251,8 @@
         "bag_display_name": "Tarthorst 1223, 6708HZ Wageningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11515,7 +11578,8 @@
         "bag_display_name": "Beemdhof 38a, 6666DL Heteren",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11929,7 +11993,8 @@
         "bag_display_name": "Stadspoort 45, 6716RH Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12131,7 +12196,8 @@
         "bag_display_name": "Dr. C. Lelyweg 9C, 6827BH Arnhem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12245,7 +12311,8 @@
         "bag_display_name": "Amsterdamseweg 33, 6814GB Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12423,7 +12490,8 @@
         "bag_display_name": "Kloosterplaats 1, 6681BN Bemmel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12561,7 +12629,8 @@
         "bag_display_name": "IJsselstraat 30, 6882LG Velp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12699,7 +12768,8 @@
         "bag_display_name": "Bellestein 63, 6714DP Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12809,7 +12879,8 @@
         "bag_display_name": "Hoog Maanen 45, 6717HZ Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12947,7 +13018,8 @@
         "bag_display_name": "Fenikshof 3, 6541RW Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13137,7 +13209,8 @@
         "bag_display_name": "Leegstraat 7c, 6645BA Winssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13251,7 +13324,8 @@
         "bag_display_name": "Elderveldplein 12, 6843JA Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13401,7 +13475,8 @@
         "bag_display_name": "Op het Toneel 2, 6836ND Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13483,7 +13558,8 @@
         "bag_display_name": "Oostburgwal 12, 6845CZ Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13593,7 +13669,8 @@
         "bag_display_name": "Rosendaalseweg 696, 6824KT Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13947,7 +14024,8 @@
         "bag_display_name": "Brink 14, 6852EE Huissen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -14061,7 +14139,8 @@
         "bag_display_name": "Frankrijkstraat 1, 6663MB Lent",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14659,7 +14738,8 @@
         "bag_display_name": "Thorbeckeplein 14, 6641CA Beuningen Gld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14863,7 +14943,8 @@
         "bag_display_name": "Basilica 19, 6661TT Elst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15249,7 +15330,8 @@
         "bag_display_name": "Mozartlaan 66, 6865GC Doorwerth",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15391,7 +15473,8 @@
         "bag_display_name": "Julianaplein 8, 6671CA Zetten",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -16633,7 +16716,8 @@
         "bag_display_name": "Kronenburgpassage 110, 6831ES Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16751,7 +16835,8 @@
         "bag_display_name": "Broeklanden 8, 6931XS Westervoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16857,7 +16942,8 @@
         "bag_display_name": "Amsterdamseweg 109, 6814GC Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17119,7 +17205,8 @@
         "bag_display_name": "Stadsbrink 4, 6701AL Wageningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17337,7 +17424,8 @@
         "bag_display_name": "Kerkhoflaan 13, 6721EW Bennekom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17455,7 +17543,8 @@
         "bag_display_name": "Hoog Maanen 42, 6717HZ Ede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17657,7 +17746,8 @@
         "bag_display_name": "Dr. C. Lelyweg 9C, 6827BH Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -17783,7 +17873,8 @@
         "bag_display_name": "Kruidenplein 5, 6833GV Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17969,7 +18060,8 @@
         "bag_display_name": "Elderveldplein 5, 6843JA Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18023,7 +18115,8 @@
         "bag_display_name": "Dorpsplein 70, 6931CZ Westervoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18153,7 +18246,8 @@
         "bag_display_name": "Bellestein 109, 6714DP Ede",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18275,7 +18369,8 @@
         "bag_display_name": "Nordlaan 33, 6881RM Velp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18469,7 +18564,8 @@
         "bag_display_name": "de Pollenbrink 13, 6681JA Bemmel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18811,7 +18907,8 @@
         "bag_display_name": "Mauritsplein 43, 6641BK Beuningen Gld",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -18909,7 +19006,8 @@
         "bag_display_name": "Stationsstraat 19, 6678AA Oosterhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19295,7 +19393,8 @@
         "bag_display_name": "van der Molenallee 101, 6865CB Doorwerth",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -19393,7 +19492,8 @@
         "bag_display_name": "Fortunastraat 44, 6846XZ Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19527,7 +19627,8 @@
         "bag_display_name": "Dorpstraat 68a, 6691BA Gendt",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19669,7 +19770,8 @@
         "bag_display_name": "Brouwerstraat 21A, 6711AS Ede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19787,7 +19889,8 @@
         "bag_display_name": "Het Dorpsplein 8, 6674BW Herveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20109,7 +20212,8 @@
         "bag_display_name": "Spijkerlaan 26, 6828EC Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20311,7 +20415,8 @@
         "bag_display_name": "Tooropstraat 16, 6521NP Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20437,7 +20542,8 @@
         "bag_display_name": "Molenpad 1, 6669BP Dodewaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21003,7 +21109,8 @@
         "bag_display_name": "Passage Molenpoort 2, 6511HV Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21121,7 +21228,8 @@
         "bag_display_name": "Utrechtseweg 94, 6862AP Oosterbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21223,7 +21331,8 @@
         "bag_display_name": "Hommelseweg 100, 6821LN Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21273,7 +21382,8 @@
         "bag_display_name": "Beethovenlaan 61, 6815BL Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21399,7 +21509,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21537,7 +21648,8 @@
         "bag_display_name": "Kroonse Wal 10, 6844GS Arnhem",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21763,7 +21875,8 @@
         "bag_display_name": "Dorpsstraat 55, 6721JJ Bennekom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21885,7 +21998,8 @@
         "bag_display_name": "Burghardt van den Berghstraat 78, 6512DP Nijmegen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22011,7 +22125,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22201,7 +22316,8 @@
         "bag_display_name": "Muntstraat 13, 6851JW Huissen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22279,7 +22395,8 @@
         "bag_display_name": "Utrechtseweg 45, 6866CJ Heelsum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

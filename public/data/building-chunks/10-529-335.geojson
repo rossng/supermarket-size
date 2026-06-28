@@ -201,7 +201,8 @@
         "bag_display_name": "Pijmanstraat 18, 8014VB Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -287,7 +288,8 @@
         "bag_display_name": "Forelkolk 108T-1, 8017PK Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -381,7 +383,8 @@
         "bag_display_name": "Burg.Backxlaan 307, 7711AD Nieuwleusen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2031,7 +2034,8 @@
         "bag_display_name": "Klein Grachtje 16A, 8021JC Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3173,7 +3177,8 @@
         "bag_display_name": "Dobbe 61, 8032JX Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3339,7 +3344,8 @@
         "bag_display_name": "Raadhuisstraat 13, 7721AX Dalfsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3417,7 +3423,8 @@
         "bag_display_name": "Klaas Fuitestraat 42, 8281BZ Genemuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4583,7 +4590,8 @@
         "bag_display_name": "Katwolderplein 1, 8011BT Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4809,7 +4817,8 @@
         "bag_display_name": "Deventerstraatweg 24, 8012AH Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4947,7 +4956,8 @@
         "bag_display_name": "Wade 10, 8043LS Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5065,7 +5075,8 @@
         "bag_display_name": "Bisschop Willebrandlaan 28A, 8021GA Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5423,7 +5434,8 @@
         "bag_display_name": "Rijnlaan 125, 8032MX Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5509,7 +5521,8 @@
         "bag_display_name": "Meestersweg 1h, 7951BR Staphorst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5619,7 +5632,8 @@
         "bag_display_name": "Kerkplein 17, 7721AC Dalfsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5693,7 +5707,8 @@
         "bag_display_name": "Rembrandtplein 34, 7944GG Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5823,7 +5838,8 @@
         "bag_display_name": "Grote Markt 22, 7711CZ Nieuwleusen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5901,7 +5917,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6003,7 +6020,8 @@
         "bag_display_name": "Gasthuisdijk 1, 8041AE Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6077,7 +6095,8 @@
         "bag_display_name": "Vechtstraat 50G-1, 8021AX Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7219,7 +7238,8 @@
         "bag_display_name": "Dobbe 3, 8032JV Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7373,7 +7393,8 @@
         "bag_display_name": "Veemarkt 20, 8011AH Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7443,7 +7464,8 @@
         "bag_display_name": "Petuniaplein 23, 8042AV Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7621,7 +7643,8 @@
         "bag_display_name": "Assendorperstraat 71A, 8012DG Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7839,7 +7862,8 @@
         "bag_display_name": "Sellekamp 26, 8014DR Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8001,7 +8025,8 @@
         "bag_display_name": "Rembrandtplein 81, 7944GG Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8319,7 +8344,8 @@
         "bag_display_name": "Bachplein 14, 8031HR Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8417,7 +8443,8 @@
         "bag_display_name": "Wilhelminastraat 18, 7721CH Dalfsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8687,7 +8714,8 @@
         "bag_display_name": "Hogenkampspassage 10, 8022EL Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8781,7 +8809,8 @@
         "bag_display_name": "Buiten de Venepoort 5, 8061KM Hasselt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8919,7 +8948,8 @@
         "bag_display_name": "Wade 102, 8043LS Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -10061,7 +10091,8 @@
         "bag_display_name": "Dobbe 10, 8032JV Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -10379,7 +10410,8 @@
         "bag_display_name": "Bachplein 11, 8031HR Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -10461,7 +10493,8 @@
         "bag_display_name": "Smidswegje 5, 7721CM Dalfsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10563,7 +10596,8 @@
         "bag_display_name": "Van der Capellenstraat 45, 8014VV Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10645,7 +10679,8 @@
         "bag_display_name": "Rijksparallelweg 6, 7951KB Staphorst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10751,7 +10786,8 @@
         "bag_display_name": "Hendrik van Viandenplein 6, 8061CX Hasselt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10805,7 +10841,8 @@
         "bag_display_name": "Ebbinge Wubbenlaan 3-a3, 7951AA Staphorst",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10963,7 +11000,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11289,7 +11327,8 @@
         "bag_display_name": "Deventerstraatweg 20, 8012AH Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -11439,7 +11478,8 @@
         "bag_display_name": "Vechtstraat 60, 8021AZ Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11593,7 +11633,8 @@
         "bag_display_name": "Molenstraat 19, 8064DH Zwartsluis",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11683,7 +11724,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11769,7 +11811,8 @@
         "bag_display_name": "Dorpsstraat 61, 7957AS de Wijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11843,7 +11886,8 @@
         "bag_display_name": "Campherbeeklaan 54, 8024BZ Zwolle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11921,7 +11965,8 @@
         "bag_display_name": "Markt 10, 7951HR Staphorst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12007,7 +12052,8 @@
         "bag_display_name": "Roemer Visscherstraat 19, 8023AL Zwolle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12101,7 +12147,8 @@
         "bag_display_name": "J.Schaapmanstraat 12A, 7722SW Dalfsen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

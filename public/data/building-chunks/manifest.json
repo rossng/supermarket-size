@@ -1,7 +1,7 @@
 {
   "type": "building-chunk-manifest",
   "source": "public/data/supermarket-buildings.geojson",
-  "generatedAt": "2026-06-28T11:28:32.488Z",
+  "generatedAt": "2026-06-28T16:38:45.592Z",
   "zoom": 10,
   "featureCount": 3924,
   "chunkCount": 91,

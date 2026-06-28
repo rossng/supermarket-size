@@ -105,7 +105,8 @@
         "bag_display_name": "Spoelerstraat 6, 7442AA Nijverdal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -271,7 +272,8 @@
         "bag_display_name": "Dorpsstraat 48b, 7447CT Hellendoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -577,7 +579,8 @@
         "bag_display_name": "De Gors 27, 7609DZ Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -723,7 +726,8 @@
         "bag_display_name": "Binnenhof 33, 7608KH Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -825,7 +829,8 @@
         "bag_display_name": "Anjelierstraat 3, 7641CD Wierden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -891,7 +896,8 @@
         "bag_display_name": "Pastoor Heimerikxstraat 3, 7468EB Enter",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -993,7 +999,8 @@
         "bag_display_name": "Nieuwstraat 169, 7605AD Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1067,7 +1074,8 @@
         "bag_display_name": "Stationsdwarsweg 19, 7461AR Rijssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1121,7 +1129,8 @@
         "bag_display_name": "Larenseweg 102D, 7451EN Holten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1303,7 +1312,8 @@
         "bag_display_name": "Watermolen 2, 7461AZ Rijssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1413,7 +1423,8 @@
         "bag_display_name": "Schoolstraat 25, 7642AS Wierden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1459,7 +1470,8 @@
         "bag_display_name": "Julianaplein 35, 7681AX Vroomshoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1717,7 +1729,8 @@
         "bag_display_name": "Vincent van Goghplein 3, 7606HN Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1811,7 +1824,8 @@
         "bag_display_name": "Bornerbroeksestraat 81, 7601BD Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1893,7 +1907,8 @@
         "bag_display_name": "Dorpsstraat 122a, 7468CP Enter",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2039,7 +2054,8 @@
         "bag_display_name": "De Gors 20, 7609DV Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2153,7 +2169,8 @@
         "bag_display_name": "Ootmarsumsestraat 240, 7603AP Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2231,7 +2248,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2457,7 +2475,8 @@
         "bag_display_name": "Zwartepad 14, 7451BJ Holten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2543,7 +2562,8 @@
         "bag_display_name": "Westeinde 30, 7671CC Vriezenveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2689,7 +2709,8 @@
         "bag_display_name": "'n Tip 9, 7688RR Daarle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2947,7 +2968,8 @@
         "bag_display_name": "Vincent van Goghplein 9, 7606HN Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3093,7 +3115,8 @@
         "bag_display_name": "Binnenhof 11, 7608KG Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3603,7 +3626,8 @@
         "bag_display_name": "Hogepad 1-60, 7462TA Rijssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3685,7 +3709,8 @@
         "bag_display_name": "Butzelaarstraat 21, 8105AP Luttenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3795,7 +3820,8 @@
         "bag_display_name": "Krijgerstraat 74, 7671XZ Vriezenveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3861,7 +3887,8 @@
         "bag_display_name": "Linderflier 25c, 7681ZK Vroomshoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3951,7 +3978,8 @@
         "bag_display_name": "Kervelplein 45, 7676DA Westerhaar-Vriezenveensewijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4069,7 +4097,8 @@
         "bag_display_name": "Grotestraat 2, 7683BB Den Ham",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4235,7 +4264,8 @@
         "bag_display_name": "Grotestraat 135, 7443BE Nijverdal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4385,7 +4415,8 @@
         "bag_display_name": "Boomkamp 32A, 7461AX Rijssen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4463,7 +4494,8 @@
         "bag_display_name": "Dikkensweg 10, 7641CC Wierden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4517,7 +4549,8 @@
         "bag_display_name": "Laan oud-Indiëgangers 5, 7463CH Rijssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4603,7 +4636,8 @@
         "bag_display_name": "Kuperserf 13, 7443HC Nijverdal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4749,7 +4783,8 @@
         "bag_display_name": "Bornerbroeksestraat 79, 7601BD Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4851,7 +4886,8 @@
         "bag_display_name": "Grotestraat 76, 7443BK Nijverdal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4981,7 +5017,8 @@
         "bag_display_name": "Nijverdalsestraat 56, 7642AE Wierden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5295,7 +5332,8 @@
         "bag_display_name": "Eskerplein 5, 7603WH Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5361,7 +5399,8 @@
         "bag_display_name": "Linderflier 25a, 7681ZK Vroomshoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5559,7 +5598,8 @@
         "bag_display_name": "Bornsestraat 206a-1, 7601GM Almelo",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5737,7 +5777,8 @@
         "bag_display_name": "Westeinde 123, 7671EM Vriezenveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5831,7 +5872,8 @@
         "bag_display_name": "Hendrik Jan van Opstallstraat 18, 7462DM Rijssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5937,7 +5979,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6103,7 +6146,8 @@
         "bag_display_name": "Apollolaan 9a, 7604EH Almelo",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6237,7 +6281,8 @@
         "bag_display_name": "Smidsweg 7a, 7441EJ Nijverdal",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6343,7 +6388,8 @@
         "bag_display_name": "Westeinde 20a, 7671CC Vriezenveen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6417,7 +6463,8 @@
         "bag_display_name": "De Koele 5, 7681DE Vroomshoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6543,7 +6590,8 @@
         "bag_display_name": "Kroonplein 18, 8151AZ Lemelerveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6613,7 +6661,8 @@
         "bag_display_name": "Dorpsstraat 51a, 7468CD Enter",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6667,7 +6716,8 @@
         "bag_display_name": "Portlandweg 9, 7442VB Nijverdal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6785,7 +6835,8 @@
         "bag_display_name": "Hexelseweg 35, 7641PN Wierden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7127,7 +7178,8 @@
         "bag_display_name": "Van Riemsdijkplein 30a, 7606ZA Almelo",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7273,7 +7325,8 @@
         "bag_display_name": "Dorpsstraat 20, 7451BV Holten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7587,7 +7640,8 @@
         "bag_display_name": "Eskerplein 11, 7603WH Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7797,7 +7851,8 @@
         "bag_display_name": "Bornsestraat 50, 7607KP Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7947,7 +8002,8 @@
         "bag_display_name": "Vriezenveenseweg 84, 7602AJ Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8053,7 +8109,8 @@
         "bag_display_name": "Kloosterdijk 178a, 7693PS Sibculo",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

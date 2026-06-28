@@ -125,7 +125,8 @@
         "bag_display_name": "Meeuwenstraat 2, 1781XA Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -263,7 +264,8 @@
         "bag_display_name": "Waalderstraat 48, 1791EC Den Burg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -965,7 +967,8 @@
         "bag_display_name": "Marsdiepstraat 262, 1784AV Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1411,7 +1414,8 @@
         "bag_display_name": "Vrede en Vrijheid 19, 1785RL Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2309,7 +2313,8 @@
         "bag_display_name": "Julianaplein 9, 1781HA Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2399,7 +2404,8 @@
         "bag_display_name": "Wilhelminalaan 99, 1791AM Den Burg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2845,7 +2851,8 @@
         "bag_display_name": "Vrede en Vrijheid 12, 1785RM Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3291,7 +3298,8 @@
         "bag_display_name": "Vrede en Vrijheid 2, 1785RM Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3993,7 +4001,8 @@
         "bag_display_name": "Marsdiepstraat 260, 1784AV Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4071,7 +4080,8 @@
         "bag_display_name": "Hogerstraat 15, 1791CH Den Burg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4249,7 +4259,8 @@
         "bag_display_name": "Vogelenzang 11B, 1791EZ Den Burg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4327,7 +4338,8 @@
         "bag_display_name": "Nikadel 73, 1796BR De Koog",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4425,7 +4437,8 @@
         "bag_display_name": "Nikadel 19, 1796BP De Koog",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4719,7 +4732,8 @@
         "bag_display_name": "Texelstroomlaan 128, 1784EE Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4781,7 +4795,8 @@
         "bag_display_name": "Kerkstraat 3, 1794AM Oosterend",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4963,7 +4978,8 @@
         "bag_display_name": "Vlamkast 15, 1792CR Oudeschild",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5105,7 +5121,8 @@
         "bag_display_name": "De Naal 1, 1797AX Den Hoorn",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -5239,7 +5256,8 @@
         "bag_display_name": "Vijzelstraat 191, 1781TR Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5389,7 +5407,8 @@
         "bag_display_name": "Koningdwarsstraat 70, 1781LC Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5683,7 +5702,8 @@
         "bag_display_name": "Texelstroomlaan 116, 1784EE Den Helder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     }
   ]

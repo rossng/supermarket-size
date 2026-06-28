@@ -229,7 +229,8 @@
         "bag_display_name": "Einsteinstraat 103, 1433KJ Kudelstaart",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -607,7 +608,8 @@
         "bag_display_name": "Amstelplein 37, 1421SB Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -917,7 +919,8 @@
         "bag_display_name": "Zijdelwaardplein 84, 1422DN Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -971,7 +974,8 @@
         "bag_display_name": "Leicester 13, 3641LH Mijdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1061,7 +1065,8 @@
         "bag_display_name": "Oude Gemeneweg 5, 2391BE Hazerswoude-Dorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1347,7 +1352,8 @@
         "bag_display_name": "De Passage 26, 3641AK Mijdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1533,7 +1539,8 @@
         "bag_display_name": "Koninginneweg 11B, 2771DN Boskoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1623,7 +1630,8 @@
         "bag_display_name": "Oud-Bodegraafseweg 23, 2411HS Bodegraven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1897,7 +1905,8 @@
         "bag_display_name": "Wagenstraat 24, 3441BM Woerden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2199,7 +2208,8 @@
         "bag_display_name": "Herenhof 74, 2402DN Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2697,7 +2707,8 @@
         "bag_display_name": "De Aarhof 61A, 2406BT Alphen aan den Rijn",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2783,7 +2794,8 @@
         "bag_display_name": "Reghthuysplein 3, 2421BE Nieuwkoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3233,7 +3245,8 @@
         "bag_display_name": "Ridderhof 2, 2402EN Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3299,7 +3312,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3765,7 +3779,8 @@
         "bag_display_name": "Industrieweg 2A, 3442AE Woerden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4215,7 +4230,8 @@
         "bag_display_name": "Ridderhof 55, 2402EN Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4277,7 +4293,8 @@
         "bag_display_name": "Ondernemingsweg 9, 3641RZ Mijdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4347,7 +4364,8 @@
         "bag_display_name": "Westkanaalweg 100A, 2461EJ Ter Aar",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4433,7 +4451,8 @@
         "bag_display_name": "Doortocht 9, 2411DS Bodegraven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4603,7 +4622,8 @@
         "bag_display_name": "Westpark 3A, 2771RV Boskoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4665,7 +4685,8 @@
         "bag_display_name": "Sportlaan 19, 1421TE Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4767,7 +4788,8 @@
         "bag_display_name": "Laan van Rapijnen 27, 3461GH Linschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4885,7 +4907,8 @@
         "bag_display_name": "Dorpsplein 23, 2451BC Leimuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4995,7 +5018,8 @@
         "bag_display_name": "Plein 1, 2355BT Hoogmade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5185,7 +5209,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5327,7 +5352,8 @@
         "bag_display_name": "Meerkreuk 4, 2377VA Oude Wetering",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5637,7 +5663,8 @@
         "bag_display_name": "Zijdelwaardplein 52B, 1422AN Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5879,7 +5906,8 @@
         "bag_display_name": "Kerkstraat 4, 2405CD Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6137,7 +6165,8 @@
         "bag_display_name": "Linnaeusweg 106, 2771HH Boskoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6211,7 +6240,8 @@
         "bag_display_name": "Willem Kloosstraat 66, 2394BD Hazerswoude-Rijndijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6501,7 +6531,8 @@
         "bag_display_name": "Provinciepassage 108, 2408EV Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6759,7 +6790,8 @@
         "bag_display_name": "Burgemeester Colijnstraat 32, 2771GG Boskoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6817,7 +6849,8 @@
         "bag_display_name": "Prins Bernhardstraat 9, 2396GA Koudekerk aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7267,7 +7300,8 @@
         "bag_display_name": "Ridderhof 47, 2402EN Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7401,7 +7435,8 @@
         "bag_display_name": "Goudse Rijweg 83, 2771AN Boskoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7515,7 +7550,8 @@
         "bag_display_name": "Kalslagerring 25, 2151TA Nieuw-Vennep",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7597,7 +7633,8 @@
         "bag_display_name": "Baronie 88, 2404XH Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -8131,7 +8168,8 @@
         "bag_display_name": "Julianastraat 45, 2405CG Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8209,7 +8247,8 @@
         "bag_display_name": "Beethovenlaan 52, 1431WZ Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8263,7 +8302,8 @@
         "bag_display_name": "Kerkvaart 7, 3641EN Mijdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8689,7 +8729,8 @@
         "bag_display_name": "De Symfonie 65, 2151ME Nieuw-Vennep",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8899,7 +8940,8 @@
         "bag_display_name": "Ophelialaan 124, 1431HN Aalsmeer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9049,7 +9091,8 @@
         "bag_display_name": "Molenvlietbrink 18, 3448HM Woerden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9159,7 +9202,8 @@
         "bag_display_name": "Tournoysveld 92, 3443EW Woerden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9269,7 +9313,8 @@
         "bag_display_name": "da Costasingel 36, 2394BL Hazerswoude-Rijndijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9727,7 +9772,8 @@
         "bag_display_name": "La Fontaineplein 19, 3446BX Woerden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9813,7 +9859,8 @@
         "bag_display_name": "Molmlaan 2, 3648XK Wilnis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10027,7 +10074,8 @@
         "bag_display_name": "Herenhof 183, 2402DK Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10125,7 +10173,8 @@
         "bag_display_name": "Kennedyplein 1, 2421EN Nieuwkoop",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11067,7 +11116,8 @@
         "bag_display_name": "Raadhuisplein 15, 2411BD Bodegraven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11157,7 +11207,8 @@
         "bag_display_name": "Vromade 27, 2411LG Bodegraven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11467,7 +11518,8 @@
         "bag_display_name": "Zijdelwaardplein 60, 1422DN Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -11581,7 +11633,8 @@
         "bag_display_name": "Iepenlaan 1A, 3442EK Woerden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11655,7 +11708,8 @@
         "bag_display_name": "Prinses Margrietlaan 44, 3641HD Mijdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11717,7 +11771,8 @@
         "bag_display_name": "Ouvertureweg 81, 2402DT Alphen aan den Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11939,7 +11994,8 @@
         "bag_display_name": "Stationsweg 8, 1431EG Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12017,7 +12073,8 @@
         "bag_display_name": "De Lindeboom 25, 3641EX Mijdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12119,7 +12176,8 @@
         "bag_display_name": "Werf 15, 1435KP Rijsenhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12321,7 +12379,8 @@
         "bag_display_name": "Simon van Capelweg 153, 2431AE Noorden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12447,7 +12506,8 @@
         "bag_display_name": "Molendijk 105, 3466NB Waarder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12629,7 +12689,8 @@
         "bag_display_name": "Dorpsstraat 9, 2441CE Nieuwveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12787,7 +12848,8 @@
         "bag_display_name": "Hallehuis 1A, 3471EC Kamerik",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12981,7 +13043,8 @@
         "bag_display_name": "Noordplein 25, 2371DA Roelofarendsveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13091,7 +13154,8 @@
         "bag_display_name": "Batehof 2, 2481AP Woubrugge",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13353,7 +13417,8 @@
         "bag_display_name": "Prinses Irenelaan 1, 1421AN Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13475,7 +13540,8 @@
         "bag_display_name": "Centrumoever 2, 2371JC Roelofarendsveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13521,7 +13587,8 @@
         "bag_display_name": "Kerkweg 28B, 2461GD Ter Aar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13567,7 +13634,8 @@
         "bag_display_name": "Legmeerplein 18, 1422RG Uithoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

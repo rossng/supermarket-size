@@ -149,7 +149,8 @@
         "bag_display_name": "Doorsteek 9, 4791HR Klundert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -455,7 +456,8 @@
         "bag_display_name": "Zomerakker 105, 3206TL Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -633,7 +635,8 @@
         "bag_display_name": "Pieter Repelaerstraat 63, 3297BL Puttershoek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -763,7 +766,8 @@
         "bag_display_name": "Kerkstraat 18, 3291AL Strijen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -897,7 +901,8 @@
         "bag_display_name": "Beijersehof 19, 3262VR Oud-Beijerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1031,7 +1036,8 @@
         "bag_display_name": "Weth. Van der Veldenweg 8, 3281AN Numansdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1097,7 +1103,8 @@
         "bag_display_name": "Westvoorstraat 50, 4671CE Dinteloord",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -1211,7 +1218,8 @@
         "bag_display_name": "Gravin Sabinastraat 52A, 3284AP Zuid-Beijerland",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1369,7 +1377,8 @@
         "bag_display_name": "Zoomwijckplein 7, 3262DA Oud-Beijerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1719,7 +1728,8 @@
         "bag_display_name": "Oudemolensedijk 9a, 4793TE Fijnaart",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2037,7 +2047,8 @@
         "bag_display_name": "Mr P J Oudweg 10, 3214XN Zuidland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2371,7 +2382,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2929,7 +2941,8 @@
         "bag_display_name": "Rozemarijndonk 33, 3206PM Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2987,7 +3000,8 @@
         "bag_display_name": "Achterstraat 3a, 4797AP Willemstad",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3593,7 +3607,8 @@
         "bag_display_name": "Hadewychplaats 32, 3207KG Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3987,7 +4002,8 @@
         "bag_display_name": "Vlinderveen 436, 3205EM Spijkenisse",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4081,7 +4097,8 @@
         "bag_display_name": "Kadedijk 120b, 4793RR Fijnaart",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4215,7 +4232,8 @@
         "bag_display_name": "Koninginneplein 17, 3261AZ Oud-Beijerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4821,7 +4839,8 @@
         "bag_display_name": "Hadewychplaats 18, 3207KG Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4943,7 +4962,8 @@
         "bag_display_name": "Máximaplein 2, 3297CX Puttershoek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5073,7 +5093,8 @@
         "bag_display_name": "Polderlaan 6, 3261ZA Oud-Beijerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5171,7 +5192,8 @@
         "bag_display_name": "Striene 1, 3291TZ Strijen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5233,7 +5255,8 @@
         "bag_display_name": "Boonsweg 26, 3274LH Heinenoord",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5351,7 +5374,8 @@
         "bag_display_name": "Kerkstraat 35, 3264AH Nieuw-Beijerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5445,7 +5469,8 @@
         "bag_display_name": "Rehobothplein 1, 3281XV Numansdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5543,7 +5568,8 @@
         "bag_display_name": "J.A. Tiggelmanstraat 2A, 3271SG Mijnsheerenland",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5637,7 +5663,8 @@
         "bag_display_name": "Weespad 33, 3257KJ Ooltgensplaat",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5815,7 +5842,8 @@
         "bag_display_name": "Winterakker 25, 3206TG Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6113,7 +6141,8 @@
         "bag_display_name": "Voorstraat 34, 3286AX Klaaswaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6167,7 +6196,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6313,7 +6343,8 @@
         "bag_display_name": "Haagje 7, 3273AE Westmaas",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

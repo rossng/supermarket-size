@@ -1565,7 +1565,8 @@
         "bag_display_name": "In den Vijfhoek 1, 7571DT Oldenzaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1847,7 +1848,8 @@
         "bag_display_name": "Denekamperstraat 5A, 7631AA Ootmarsum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2445,7 +2447,8 @@
         "bag_display_name": "Christiaan Langefeldstraat 83, 7558CZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2591,7 +2594,8 @@
         "bag_display_name": "Uitslagsweg 95-1, 7556LN Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2833,7 +2837,8 @@
         "bag_display_name": "Marktplein 27, 7622CL Borne",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2943,7 +2948,8 @@
         "bag_display_name": "Straatsburg 48, 7559NM Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2997,7 +3003,8 @@
         "bag_display_name": "Johanna van Burenlaan 222, 7576AW Oldenzaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3155,7 +3162,8 @@
         "bag_display_name": "Burgemeester Wallerstraat 133, 7574AM Oldenzaal",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -3269,7 +3277,8 @@
         "bag_display_name": "Grotestraat 232, 7622GV Borne",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3415,7 +3424,8 @@
         "bag_display_name": "Uitslagsweg 95-9, 7556LN Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3497,7 +3507,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4095,7 +4106,8 @@
         "bag_display_name": "Christiaan Langefeldstraat 77, 7558CZ Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4217,7 +4229,8 @@
         "bag_display_name": "Waldeckstraat 6, 7651EE Tubbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4419,7 +4432,8 @@
         "bag_display_name": "Nordhornsestraat 12, 7591BG Denekamp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4505,7 +4519,8 @@
         "bag_display_name": "Straatsburg 14, 7559NM Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4707,7 +4722,8 @@
         "bag_display_name": "Deken Scholtenstraat 38, 7572ZA Oldenzaal",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -4821,7 +4837,8 @@
         "bag_display_name": "Woolderesweg 149, 7555LL Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4963,7 +4980,8 @@
         "bag_display_name": "Lange Voor 10, 7591GE Denekamp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5561,7 +5579,8 @@
         "bag_display_name": "Christiaan Langefeldstraat 29, 7558CW Hengelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5643,7 +5662,8 @@
         "bag_display_name": "Nieuwe Markt 2, 7622DD Borne",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5793,7 +5813,8 @@
         "bag_display_name": "Molenstraat 16a, 7571CN Oldenzaal",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5911,7 +5932,8 @@
         "bag_display_name": "De Meierij 6, 7631AL Ootmarsum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5977,7 +5999,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6091,7 +6114,8 @@
         "bag_display_name": "Ootmarsumsestraat 384, 7603AW Almelo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6245,7 +6269,8 @@
         "bag_display_name": "De Höfte 4, 7622TL Borne",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6375,7 +6400,8 @@
         "bag_display_name": "Zenderseweg 8, 7665TM Albergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6509,7 +6535,8 @@
         "bag_display_name": "Oude Hengeloseweg 36, 7622HV Borne",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6643,7 +6670,8 @@
         "bag_display_name": "Kloosterland 2a, 7577DP Oldenzaal",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6749,7 +6777,8 @@
         "bag_display_name": "Oldenzaalsestraat 40A, 7591GM Denekamp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6843,7 +6872,8 @@
         "bag_display_name": "De Eendracht 11, 7651CZ Tubbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6949,7 +6979,8 @@
         "bag_display_name": "Bisschopstraat 39A, 7595AR Weerselo",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7087,7 +7118,8 @@
         "bag_display_name": "Denekamperweg 190, 7661RL Vasse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7425,7 +7457,8 @@
         "bag_display_name": "De Veldstegge 5, 7678AX Geesteren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

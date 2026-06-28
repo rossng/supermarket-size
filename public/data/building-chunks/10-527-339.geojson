@@ -617,7 +617,8 @@
         "bag_display_name": "Arena 16, 5211XT 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -687,7 +688,8 @@
         "bag_display_name": "Kloosterpad 3, 5271AX Sint-Michielsgestel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -769,7 +771,8 @@
         "bag_display_name": "'t Dorp 40, 5384MC Heesch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -883,7 +886,8 @@
         "bag_display_name": "Stationsstraat 31, 5261VB Vught",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1077,7 +1081,8 @@
         "bag_display_name": "Gruttostraat 23, 5212VM 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1215,7 +1220,8 @@
         "bag_display_name": "Molenhoekpassage 5, 5242CZ Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1309,7 +1315,8 @@
         "bag_display_name": "Vughterstraat 46, 5211GJ 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1411,7 +1418,8 @@
         "bag_display_name": "Burchtplein 80, 5341VE Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1541,7 +1549,8 @@
         "bag_display_name": "Rompertpassage 45, 5233AP 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1639,7 +1648,8 @@
         "bag_display_name": "Kerkstraat 8, 5391AA Nuland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2049,7 +2059,8 @@
         "bag_display_name": "Baron van Hövellplein 2, 5261GH Vught",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2191,7 +2202,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2621,7 +2633,8 @@
         "bag_display_name": "Sterrebos 2, 5344AM Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2983,7 +2996,8 @@
         "bag_display_name": "Markt 19, 5401GN Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3049,7 +3063,8 @@
         "bag_display_name": "Lokerenpassage 25, 5235KR 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3099,7 +3114,8 @@
         "bag_display_name": "Mgr. Van Roosmalenplein 19, 5213GC 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3225,7 +3241,8 @@
         "bag_display_name": "Het Frontier 176, 5245EE Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3343,7 +3360,8 @@
         "bag_display_name": "Schaepmanlaan 109, 5344BC Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3421,7 +3439,8 @@
         "bag_display_name": "Manis Krijgsmanhof 176, 5233BV 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3839,7 +3858,8 @@
         "bag_display_name": "Wolfskooi 3, 5345MH Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3977,7 +3997,8 @@
         "bag_display_name": "Rivierenplein 12, 5215CR 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4055,7 +4076,8 @@
         "bag_display_name": "Rompertpassage 48, 5233AR 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4161,7 +4183,8 @@
         "bag_display_name": "Oude Schoolstraat 6, 5271AN Sint-Michielsgestel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4323,7 +4346,8 @@
         "bag_display_name": "Osseweg 1, 5384NA Heesch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4381,7 +4405,8 @@
         "bag_display_name": "Bitswijk 10A, 5401JB Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4455,7 +4480,8 @@
         "bag_display_name": "Slauerhoffstraat 7, 5242EB Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4641,7 +4667,8 @@
         "bag_display_name": "Lietingstraat 21, 5368AA Haren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4903,7 +4930,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5097,7 +5125,8 @@
         "bag_display_name": "Gruttostraat 37, 5212VM 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5375,7 +5404,8 @@
         "bag_display_name": "Gasthuisstraat 21a, 5331BK Kerkdriel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5481,7 +5511,8 @@
         "bag_display_name": "Dorpsstraat 47, 5472PJ Loosbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5547,7 +5578,8 @@
         "bag_display_name": "Vughterstraat 154, 5211GN 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5629,7 +5661,8 @@
         "bag_display_name": "Kruisstraat 22, 5341HD Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6119,7 +6152,8 @@
         "bag_display_name": "Margrietstraat 14, 5401DH Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6529,7 +6563,8 @@
         "bag_display_name": "Raadhuisstraat 16, 5261EH Vught",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6679,7 +6714,8 @@
         "bag_display_name": "Schoonstraat 8, 5384AN Heesch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6809,7 +6845,8 @@
         "bag_display_name": "Maaskantje 29A, 5271XD Sint-Michielsgestel",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6955,7 +6992,8 @@
         "bag_display_name": "Pastoor van Thiellaan 20, 5246BR Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7105,7 +7143,8 @@
         "bag_display_name": "Sint Servatiusstraat 39a, 5473GA Heeswijk-Dinther",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7231,7 +7270,8 @@
         "bag_display_name": "Rivierenplein 26, 5215CZ 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8841,7 +8881,8 @@
         "bag_display_name": "Mercuriusplein 67A, 5258AW Berlicum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8995,7 +9036,8 @@
         "bag_display_name": "Lokerenpassage 138, 5235KS 's-Hertogenbosch",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9185,7 +9227,8 @@
         "bag_display_name": "Vreeburg 10, 5241EJ Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9291,7 +9334,8 @@
         "bag_display_name": "Vierhoeksingel 7, 5341PN Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9641,7 +9685,8 @@
         "bag_display_name": "Wolfskooi 49, 5345MH Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10135,7 +10180,8 @@
         "bag_display_name": "Stationsstraat 11A, 5461JS Veghel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10365,7 +10411,8 @@
         "bag_display_name": "Moleneindplein 109, 5262CM Vught",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10415,7 +10462,8 @@
         "bag_display_name": "Rompertpassage 21, 5233AN 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10681,7 +10729,8 @@
         "bag_display_name": "Sint Jorisplein 4, 5481AS Schijndel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10823,7 +10872,8 @@
         "bag_display_name": "Parkstraat 10, 5388HS Nistelrode",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11065,7 +11115,8 @@
         "bag_display_name": "De Bunders 68, 5467JZ Veghel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11163,7 +11214,8 @@
         "bag_display_name": "Kardinaal de Jongstraat 38, 5348BH Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11673,7 +11725,8 @@
         "bag_display_name": "Losplaats 2, 5404NJ Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11803,7 +11856,8 @@
         "bag_display_name": "Muziekplein 11, 5402CR Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11929,7 +11983,8 @@
         "bag_display_name": "Raadhuisstraat 3G, 5261EH Vught",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12011,7 +12066,8 @@
         "bag_display_name": "Hofvijver 2, 5223MC 's-Hertogenbosch",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12249,7 +12305,8 @@
         "bag_display_name": "Harry Coppensstraat 55, 5241BE Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12387,7 +12444,8 @@
         "bag_display_name": "Meester Gielenplein 1, 5351EH Berghem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12565,7 +12623,8 @@
         "bag_display_name": "Kloosterpad 9, 5271AX Sint-Michielsgestel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12739,7 +12798,8 @@
         "bag_display_name": "Het Frontier 161, 5245ED Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12945,7 +13005,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13247,7 +13308,8 @@
         "bag_display_name": "Visstraat 54, 5211DN 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13377,7 +13439,8 @@
         "bag_display_name": "Aloysiusplein 1, 5386BD Geffen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13891,7 +13954,8 @@
         "bag_display_name": "Het Wielsem 19, 5231BV 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14065,7 +14129,8 @@
         "bag_display_name": "Oude Molenstraat 45, 5342GB Oss",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14151,7 +14216,8 @@
         "bag_display_name": "Rouppe van der Voortlaan 46A, 5262HE Vught",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14297,7 +14363,8 @@
         "bag_display_name": "Pastoor van Thiellaan 38, 5246BS Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -14363,7 +14430,8 @@
         "bag_display_name": "Mercuriusplein 30, 5258AX Berlicum",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -14521,7 +14589,8 @@
         "bag_display_name": "Gasthuisstraat 56, 5331BL Kerkdriel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14627,7 +14696,8 @@
         "bag_display_name": "Schoonstraat 18, 5384AN Heesch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14725,7 +14795,8 @@
         "bag_display_name": "St. Janstraat 54, 5401BB Uden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14963,7 +15034,8 @@
         "bag_display_name": "Harry Coppensstraat 27, 5241BE Rosmalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15077,7 +15149,8 @@
         "bag_display_name": "Oude Vlijmenseweg 108, 5223GS 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15159,7 +15232,8 @@
         "bag_display_name": "Gruttostraat 21, 5212VM 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -15589,7 +15663,8 @@
         "bag_display_name": "Sterrebos 32, 5344AM Oss",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15851,7 +15926,8 @@
         "bag_display_name": "Goulmy en Baarplein 74, 5237PW 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15953,7 +16029,8 @@
         "bag_display_name": "Kapelaan Koopmansplein 218, 5212NH 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16455,7 +16532,8 @@
         "bag_display_name": "Botermarkt 9, 5404NV Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16649,7 +16727,8 @@
         "bag_display_name": "Plein 1969 13a, 5473CA Heeswijk-Dinther",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17131,7 +17210,8 @@
         "bag_display_name": "Sesterlaan 4, 5406AE Uden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17261,7 +17341,8 @@
         "bag_display_name": "Heschepad 49, 5341GS Oss",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17379,7 +17460,8 @@
         "bag_display_name": "Burgemeester van Randwijckstraat 21a, 5328AS Rossum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17545,7 +17627,8 @@
         "bag_display_name": "Buitenpepersdreef 353, 5231HE 's-Hertogenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17711,7 +17794,8 @@
         "bag_display_name": "Monseigneur Bekkersstraat 11, 5397EJ Lith",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17921,7 +18005,8 @@
         "bag_display_name": "Brink 5, 5236AR 's-Hertogenbosch",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17995,7 +18080,8 @@
         "bag_display_name": "Kerkstraat 2a, 6627AL Maasbommel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18053,7 +18139,8 @@
         "bag_display_name": "Papaverstraat 32, 5482MD Schijndel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18247,7 +18334,8 @@
         "bag_display_name": "Brugstraat 4, 5382JD Vinkel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

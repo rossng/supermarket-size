@@ -133,7 +133,8 @@
         "bag_display_name": "Sluishoofd 2, 3961KW Wijk bij Duurstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -203,7 +204,8 @@
         "bag_display_name": "Molenstraatje 2, 4001CB Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -261,7 +263,8 @@
         "bag_display_name": "Kamperfoelie 1, 4007TK Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -363,7 +366,8 @@
         "bag_display_name": "Hoofdstraat 162a, 3972LG Driebergen-Rijsenburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -577,7 +581,8 @@
         "bag_display_name": "Veenslag 7, 3905SH Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -907,7 +912,8 @@
         "bag_display_name": "M.W. van de Waalstraat 2, 3911LP Rhenen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1165,7 +1171,8 @@
         "bag_display_name": "Passage 50, 3901AZ Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1287,7 +1294,8 @@
         "bag_display_name": "Schoolweg 2B, 3921CE Elst Ut",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1345,7 +1353,8 @@
         "bag_display_name": "Achter 't Veer 6, 4191AD Geldermalsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1455,7 +1464,8 @@
         "bag_display_name": "Dorpsstraat 25, 3941JK Doorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1825,7 +1835,8 @@
         "bag_display_name": "Steenstraat 5, 3961VM Wijk bij Duurstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1903,7 +1914,8 @@
         "bag_display_name": "Scharenburg 21, 6652AK Druten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2153,7 +2165,8 @@
         "bag_display_name": "Stuivenbergheem 15, 3907NH Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2267,7 +2280,8 @@
         "bag_display_name": "Prinses Máximaplein 8, 4191XT Geldermalsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2329,7 +2343,8 @@
         "bag_display_name": "Rijksstraatweg 70, 4194SL Meteren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3055,7 +3070,8 @@
         "bag_display_name": "Scheepjeshof 40, 3901CV Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3109,7 +3125,8 @@
         "bag_display_name": "Marktpassage 5, 6651VD Druten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3171,7 +3188,8 @@
         "bag_display_name": "Dr. Slotemaker de Bruïnestraat 2, 3904CB Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3241,7 +3259,8 @@
         "bag_display_name": "Dokter M van Drielplein 3, 4051AX Ochten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3339,7 +3358,8 @@
         "bag_display_name": "Adelsweg 6, 4033BN Lienden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3821,7 +3841,8 @@
         "bag_display_name": "Westledeplein 20, 4006BB Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3911,7 +3932,8 @@
         "bag_display_name": "van Heemstraweg 44-T, 6658KH Beneden-Leeuwen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3981,7 +4003,8 @@
         "bag_display_name": "Veerweg 14b, 4024BP Eck en Wiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4047,7 +4070,8 @@
         "bag_display_name": "Graafschapsstraat 2b, 4116GE Buren",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -4773,7 +4797,8 @@
         "bag_display_name": "Scheepjeshof 30, 3901CV Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4895,7 +4920,8 @@
         "bag_display_name": "J.P.C. Leinweberstraat 6, 3905EJ Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5149,7 +5175,8 @@
         "bag_display_name": "Brouwersgracht 100, 3901TJ Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5211,7 +5238,8 @@
         "bag_display_name": "Sportlaan 5A, 6631BD Horssen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5329,7 +5357,8 @@
         "bag_display_name": "Raadhuisstraat 54, 4021EJ Maurik",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5407,7 +5436,8 @@
         "bag_display_name": "Nijverheidsstraat 4a, 6658EM Beneden-Leeuwen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5529,7 +5559,8 @@
         "bag_display_name": "Koenestraat 36, 3958XH Amerongen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5675,7 +5706,8 @@
         "bag_display_name": "Ronde Erf 66, 3902CZ Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5761,7 +5793,8 @@
         "bag_display_name": "Marktpassage 15, 6651VD Druten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5995,7 +6028,8 @@
         "bag_display_name": "Ekershof 5, 6621CJ Dreumel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6057,7 +6091,8 @@
         "bag_display_name": "Dr. Slotemaker de Bruïnestraat 20, 3904CB Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6227,7 +6262,8 @@
         "bag_display_name": "Plein 1923 26, 3941ES Doorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6329,7 +6365,8 @@
         "bag_display_name": "Verbrughweg 16, 4033GP Lienden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6403,7 +6440,8 @@
         "bag_display_name": "De Sluis 12a, 3972CV Driebergen-Rijsenburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6493,7 +6531,8 @@
         "bag_display_name": "Langbroekseweg 3a, 3962EH Wijk bij Duurstede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6975,7 +7014,8 @@
         "bag_display_name": "Westledeplein 12, 4006BB Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7225,7 +7265,8 @@
         "bag_display_name": "Plantsoenstraat 69, 3911KA Rhenen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7347,7 +7388,8 @@
         "bag_display_name": "Paddestoelenlaan 40, 3903GG Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7477,7 +7519,8 @@
         "bag_display_name": "Prins Willem-Alexanderpark 617, 3905CT Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8019,7 +8062,8 @@
         "bag_display_name": "De Kranshof 1, 4005DE Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8173,7 +8217,8 @@
         "bag_display_name": "Achter 't Veer 36, 4191AD Geldermalsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8259,7 +8304,8 @@
         "bag_display_name": "Zijveld 1, 6658DD Beneden-Leeuwen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -8349,7 +8395,8 @@
         "bag_display_name": "Hoogstraat 14, 3962ES Wijk bij Duurstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8599,7 +8646,8 @@
         "bag_display_name": "Stuivenbergheem 1, 3907NH Veenendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8673,7 +8721,8 @@
         "bag_display_name": "Dokter M van Drielplein 1a, 4051AX Ochten",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8795,7 +8844,8 @@
         "bag_display_name": "Honingraat 57, 3956HH Leersum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8865,7 +8915,8 @@
         "bag_display_name": "Stationsstraat 1a, 4041CH Kesteren",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9007,7 +9058,8 @@
         "bag_display_name": "Laan van Westroijen 61, 4003AX Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9105,7 +9157,8 @@
         "bag_display_name": "Wilhelmina Druckerstraat 1, 4003ZN Tiel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9203,7 +9256,8 @@
         "bag_display_name": "Markt 20a, 4112JS Beusichem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9337,7 +9391,8 @@
         "bag_display_name": "Herman Kuijkstraat 49, 4191AJ Geldermalsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9419,7 +9474,8 @@
         "bag_display_name": "Heuvel 10, 6651DE Druten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9561,7 +9617,8 @@
         "bag_display_name": "Schoneveld 35, 3911XR Rhenen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9679,7 +9736,8 @@
         "bag_display_name": "Hollenhof 1, 6659BB Wamel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

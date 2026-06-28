@@ -601,7 +601,8 @@
         "bag_display_name": "Neringpassage 127, 8224JB Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -675,7 +676,8 @@
         "bag_display_name": "Kempenaar 03 41, 8242BD Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -837,7 +839,8 @@
         "bag_display_name": "Kamp 42 22, 8225HN Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -911,7 +914,8 @@
         "bag_display_name": "Nagel 42, 8321RG Urk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1177,7 +1181,8 @@
         "bag_display_name": "Ranonkellaan 1, 8245HE Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1299,7 +1304,8 @@
         "bag_display_name": "Tjalk 15 2, 8232LK Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1429,7 +1435,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1495,7 +1502,8 @@
         "bag_display_name": "Nagel 34, 8321RG Urk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1685,7 +1693,8 @@
         "bag_display_name": "Weversstraat 34, 8223AC Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1943,7 +1952,8 @@
         "bag_display_name": "Waagpassage 76, 8232DV Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2025,7 +2035,8 @@
         "bag_display_name": "Flevostraat 7a, 8321HH Urk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2171,7 +2182,8 @@
         "bag_display_name": "Jol 37 1A, 8243HP Lelystad",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2293,7 +2305,8 @@
         "bag_display_name": "Voorstraat 282, 8226HG Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2431,7 +2444,8 @@
         "bag_display_name": "Tjalk 15 9, 8232LK Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2545,7 +2559,8 @@
         "bag_display_name": "Passage 1, 8223AJ Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2687,7 +2702,8 @@
         "bag_display_name": "Tjalk 15 1, 8232LK Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2961,7 +2977,8 @@
         "bag_display_name": "'t Klif 3, 8321KG Urk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3079,7 +3096,8 @@
         "bag_display_name": "Botter 44 31, 8243JE Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3985,7 +4003,8 @@
         "bag_display_name": "Neringweg 391, 8224KJ Lelystad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

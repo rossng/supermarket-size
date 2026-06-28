@@ -495,7 +495,8 @@
         "bag_display_name": "Emmaplein 2, 3701DA Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -601,7 +602,8 @@
         "bag_display_name": "De Clomp 3104, 3704KA Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -919,7 +921,8 @@
         "bag_display_name": "Hoog Kanje 110, 3708DL Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1065,7 +1068,8 @@
         "bag_display_name": "Händelstraat 63, 3533GH Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1439,7 +1443,8 @@
         "bag_display_name": "Hammarskjöldhof 64, 3527HE Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1925,7 +1930,8 @@
         "bag_display_name": "Godebaldkwartier 149, 3511DP Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3437,7 +3443,8 @@
         "bag_display_name": "Hondsrug 60, 3524BR Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3555,7 +3562,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3669,7 +3677,8 @@
         "bag_display_name": "Burgemeester Reigerstraat 57, 3581KM Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3727,7 +3736,8 @@
         "bag_display_name": "Amsterdamsestraatweg 56A, 3513AH Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4437,7 +4447,8 @@
         "bag_display_name": "Hindersteinlaan 23, 3451EV Vleuten",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4515,7 +4526,8 @@
         "bag_display_name": "Voorstraat 38, 3512AP Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4585,7 +4597,8 @@
         "bag_display_name": "Willem van Noortplein 6, 3514GK Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4723,7 +4736,8 @@
         "bag_display_name": "Paduaweg 3D, 3734GG Den Dolder",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4777,7 +4791,8 @@
         "bag_display_name": "Seinstraat 13, 1223DE Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5071,7 +5086,8 @@
         "bag_display_name": "Vondellaan 200, 3521GZ Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5307,7 +5323,8 @@
         "bag_display_name": "Mereveldplein 13, 3454CJ De Meern",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5377,7 +5394,8 @@
         "bag_display_name": "Zevenend 2e-2, 1251RN Laren",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5439,7 +5457,8 @@
         "bag_display_name": "Voorstraat 10a, 1394CS Nederhorst den Berg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5581,7 +5600,8 @@
         "bag_display_name": "Gijsbrecht van Amstelstraat 177, 1214AX Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5843,7 +5863,8 @@
         "bag_display_name": "Van Hogendorplaan 44A, 1215EH Hilversum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6105,7 +6126,8 @@
         "bag_display_name": "Kapittelweg 105, 1216HX Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6795,7 +6817,8 @@
         "bag_display_name": "Bisonspoor 1078, 3605KJ Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6977,7 +7000,8 @@
         "bag_display_name": "Dr. Plesmanlaan 138, 3601DE Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -7183,7 +7207,8 @@
         "bag_display_name": "Meenthof 37, 1241CZ Kortenhoef",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7317,7 +7342,8 @@
         "bag_display_name": "Herenweg 71A, 3645DG Vinkeveen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7399,7 +7425,8 @@
         "bag_display_name": "Oosterengweg 70, 1212CP Hilversum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7473,7 +7500,8 @@
         "bag_display_name": "Amsterdamsestraatweg 367A, 3551CK Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7831,7 +7859,8 @@
         "bag_display_name": "'t Goylaan 66G, 3525AH Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7985,7 +8014,8 @@
         "bag_display_name": "van Hardenbroeklaan 3, 3981EN Bunnik",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8607,7 +8637,8 @@
         "bag_display_name": "Damstraat 37, 3531BS Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8653,7 +8684,8 @@
         "bag_display_name": "Biltstraat 90, 3572BH Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8743,7 +8775,8 @@
         "bag_display_name": "Oudenoord 1, 3513EG Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9453,7 +9486,8 @@
         "bag_display_name": "Middenburcht 14, 3452MT Vleuten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9583,7 +9617,8 @@
         "bag_display_name": "Oud-Loosdrechtsedijk 182, 1231NG Loosdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9705,7 +9740,8 @@
         "bag_display_name": "Bodemanstraat 9B, 1216AH Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9895,7 +9931,8 @@
         "bag_display_name": "Langestraat 53, 1211GV Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10009,7 +10046,8 @@
         "bag_display_name": "Herenweg 8, 3732CM De Bilt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10303,7 +10341,8 @@
         "bag_display_name": "Markt 10, 3621AB Breukelen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10573,7 +10612,8 @@
         "bag_display_name": "De Kwinkelier 30, 3722AR Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -10635,7 +10675,8 @@
         "bag_display_name": "Doornburglaan 2, 3554EP Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11233,7 +11274,8 @@
         "bag_display_name": "Ella Fitzgeraldplein 6, 3543EP Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11439,7 +11481,8 @@
         "bag_display_name": "Stationsplein 24, 3511ED Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11877,7 +11920,8 @@
         "bag_display_name": "Potterstraat 1, 3512TA Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13171,7 +13215,8 @@
         "bag_display_name": "Troosterhof 14, 3571NC Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13245,7 +13290,8 @@
         "bag_display_name": "Roelantdreef 41, 3562KC Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13451,7 +13497,8 @@
         "bag_display_name": "Euterpedreef 5, 3561CV Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -13553,7 +13600,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13691,7 +13739,8 @@
         "bag_display_name": "Noordse Bosje 23, 1211BD Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13873,7 +13922,8 @@
         "bag_display_name": "Dr. Plesmanlaan 188, 3601DG Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -13975,7 +14025,8 @@
         "bag_display_name": "De Clomp 3208, 3704KB Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14189,7 +14240,8 @@
         "bag_display_name": "Leyenseweg 125, 3721BC Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -14347,7 +14399,8 @@
         "bag_display_name": "Haroekoeplein 12, 3531WN Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15161,7 +15214,8 @@
         "bag_display_name": "Ella Fitzgeraldplein 191, 3543EN Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15207,7 +15261,8 @@
         "bag_display_name": "Amsterdamsestraatweg 297, 3551CG Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15509,7 +15564,8 @@
         "bag_display_name": "Gildenkwartier 175B, 3511DG Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15647,7 +15703,8 @@
         "bag_display_name": "Ganzenmarkt 6, 3512GD Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15709,7 +15766,8 @@
         "bag_display_name": "Abel Tasmanstraat 13-BS, 3531GR Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15823,7 +15881,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15937,7 +15996,8 @@
         "bag_display_name": "De Clomp 3308, 3704KB Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16179,7 +16239,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16269,7 +16330,8 @@
         "bag_display_name": "Zambesidreef 181, 3564CB Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16667,7 +16729,8 @@
         "bag_display_name": "Hilvertshof 69, 1211ER Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16825,7 +16888,8 @@
         "bag_display_name": "Harmonieplein 27, 3603BM Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17515,7 +17579,8 @@
         "bag_display_name": "Bisonspoor 1116, 3605KN Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -17629,7 +17694,8 @@
         "bag_display_name": "Hessenweg 88, 3731JL De Bilt",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -17703,7 +17769,8 @@
         "bag_display_name": "Vasco da Gamalaan 1, 3526ER Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17905,7 +17972,8 @@
         "bag_display_name": "Roelantdreef 265, 3562KK Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18167,7 +18235,8 @@
         "bag_display_name": "Kapittelweg 133, 1216HX Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -18305,7 +18374,8 @@
         "bag_display_name": "Amsterdamsestraatweg 15, 3513AA Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18387,7 +18457,8 @@
         "bag_display_name": "Hessenweg 135, 3731JG De Bilt",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18501,7 +18572,8 @@
         "bag_display_name": "Julianalaan 35, 3722GD Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18955,7 +19027,8 @@
         "bag_display_name": "Troosterhof 7, 3571NC Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19061,7 +19134,8 @@
         "bag_display_name": "Nachtegaalstraat 16-BS, 3581AG Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19115,7 +19189,8 @@
         "bag_display_name": "Stationsstraat 5, 1211EK Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -20627,7 +20702,8 @@
         "bag_display_name": "Hondsrug 18, 3524BP Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20741,7 +20817,8 @@
         "bag_display_name": "Admiraal de Ruyterlaan 16A, 1215NA Hilversum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20887,7 +20964,8 @@
         "bag_display_name": "Groest 7, 1211CX Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21033,7 +21111,8 @@
         "bag_display_name": "Boomstede 211, 3608AK Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21147,7 +21226,8 @@
         "bag_display_name": "Steenovenweg 2A, 3532AE Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21201,7 +21281,8 @@
         "bag_display_name": "Seinstraat 3, 1223DE Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -21415,7 +21496,8 @@
         "bag_display_name": "Leyenseweg 127, 3721BC Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -21489,7 +21571,8 @@
         "bag_display_name": "Antonlaan 187, 3707KA Zeist",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21623,7 +21706,8 @@
         "bag_display_name": "Ina Boudier-Bakkerhof 64, 3582VX Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21859,7 +21943,8 @@
         "bag_display_name": "Mereveldplein 3, 3454CJ De Meern",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -22021,7 +22106,8 @@
         "bag_display_name": "Stephensonlaan 45, 1222NV Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22295,7 +22381,8 @@
         "bag_display_name": "Maertensplein 31, 3738GM Maartensdijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22409,7 +22496,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22547,7 +22635,8 @@
         "bag_display_name": "Verlengde Houtrakgracht 349, 3544EB Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22617,7 +22706,8 @@
         "bag_display_name": "Curtevenneweg 2, 1241XZ Kortenhoef",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22735,7 +22825,8 @@
         "bag_display_name": "Larenseweg 155, 1221CL Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22921,7 +23012,8 @@
         "bag_display_name": "Merelstraat 46, 3514CN Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22983,7 +23075,8 @@
         "bag_display_name": "Biltstraat 74-BS, 3572BG Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23097,7 +23190,8 @@
         "bag_display_name": "Franciscusdreef 88, 3565AD Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23397,7 +23491,8 @@
         "bag_display_name": "Korte Steynlaan 2, 3701EX Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23707,7 +23802,8 @@
         "bag_display_name": "Burchtwal 19, 3452MG Vleuten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24089,7 +24185,8 @@
         "bag_display_name": "Nootweg 45, 1231CR Loosdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24191,7 +24288,8 @@
         "bag_display_name": "Plein 1945 3, 1251MA Laren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24529,7 +24627,8 @@
         "bag_display_name": "Plevierenlaan 7, 3645GN Vinkeveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24695,7 +24794,8 @@
         "bag_display_name": "Winkelcentrum Galecop 7, 3437JV Nieuwegein",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24901,7 +25001,8 @@
         "bag_display_name": "Euterpedreef 10, 3561CV Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -25471,7 +25572,8 @@
         "bag_display_name": "Hammarskjöldhof 61, 3527HD Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -25537,7 +25639,8 @@
         "bag_display_name": "Neptunuslaan 13, 3721LG Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26231,7 +26334,8 @@
         "bag_display_name": "Rijnkade 6, 3511LC Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28665,7 +28769,8 @@
         "bag_display_name": "Brusselplein 15, 3541CH Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28835,7 +28940,8 @@
         "bag_display_name": "Rijksstraatweg 127, 3632AB Loenen aan de Vecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28945,7 +29051,8 @@
         "bag_display_name": "Karel Doormanweg 10a, 3621JX Breukelen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29023,7 +29130,8 @@
         "bag_display_name": "Verlengde Houtrakgracht 383, 3544EC Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29101,7 +29209,8 @@
         "bag_display_name": "Van Reenenweg 151, 3702SJ Zeist",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29811,7 +29920,8 @@
         "bag_display_name": "Noorderburcht 12, 3452ME Vleuten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -29973,7 +30083,8 @@
         "bag_display_name": "Laarderweg 238, 1403RN Bussum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30235,7 +30346,8 @@
         "bag_display_name": "Kapittelweg 115, 1216HX Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -30805,7 +30917,8 @@
         "bag_display_name": "Hammarskjöldhof 5, 3527HC Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -31203,7 +31316,8 @@
         "bag_display_name": "De Minnehof 10, 3755AK Eemnes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -31421,7 +31535,8 @@
         "bag_display_name": "Lorentzweg 59, 1221EE Hilversum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31479,7 +31594,8 @@
         "bag_display_name": "Nijverheidsweg 2b, 3606AJ Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31749,7 +31865,8 @@
         "bag_display_name": "De Kwinkelier 38, 3722AR Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -31947,7 +32064,8 @@
         "bag_display_name": "Smaragdplein 101, 3523ED Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32069,7 +32187,8 @@
         "bag_display_name": "Roelantdreef 1, 3562KA Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32223,7 +32342,8 @@
         "bag_display_name": "Lamadreef 15, 3563EX Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32313,7 +32433,8 @@
         "bag_display_name": "Kerkweg 9, 3481CP Harmelen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32467,7 +32588,8 @@
         "bag_display_name": "Amsterdamsestraatweg 749, 3555HH Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -32569,7 +32691,8 @@
         "bag_display_name": "Rading 146, 1231KE Loosdrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32631,7 +32754,8 @@
         "bag_display_name": "Nijverheidsweg 2a, 3606AJ Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32789,7 +32913,8 @@
         "bag_display_name": "Haroekoeplein 4, 3531WN Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -33059,7 +33184,8 @@
         "bag_display_name": "Plantage 15, 3551DE Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33389,7 +33515,8 @@
         "bag_display_name": "Molenpolder 116, 3453NZ De Meern",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33451,7 +33578,8 @@
         "bag_display_name": "Croeselaan 297, 3521BT Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33509,7 +33637,8 @@
         "bag_display_name": "Adriaen van Ostadelaan 40-BS, 3583AJ Utrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33907,7 +34036,8 @@
         "bag_display_name": "De Minnehof 8, 3755AK Eemnes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -34025,7 +34155,8 @@
         "bag_display_name": "Drie Stammenweg 3, 3628BW Kockengen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34143,7 +34274,8 @@
         "bag_display_name": "Dorpsstraat 152, 3481ER Harmelen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34217,7 +34349,8 @@
         "bag_display_name": "Donsvlinder 2, 3723TX Bilthoven",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -34601,7 +34734,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34703,7 +34837,8 @@
         "bag_display_name": "Bilderdijklaan 106A, 3723DE Bilthoven",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34889,7 +35024,8 @@
         "bag_display_name": "Heidelberglaan 1B, 3584CS Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34975,7 +35111,8 @@
         "bag_display_name": "Budapestlaan 4A, 3584CD Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -35825,7 +35962,8 @@
         "bag_display_name": "Padualaan 101, 3584CH Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -36029,7 +36167,8 @@
         "bag_display_name": "Heidelberglaan 7, 3584CS Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -36127,7 +36266,8 @@
         "bag_display_name": "Zwanenkamp 302, 3607SG Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36209,7 +36349,8 @@
         "bag_display_name": "Pieter de Hooghstraat 5, 3601EE Maarssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36531,7 +36672,8 @@
         "bag_display_name": "Ella Fitzgeraldplein 231, 3543EN Utrecht",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

@@ -521,7 +521,8 @@
         "bag_display_name": "Muntpassage 49, 6001GL Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -591,7 +592,8 @@
         "bag_display_name": "Boshoverweg 59, 6002AM Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -733,7 +735,8 @@
         "bag_display_name": "Kerkstraat 6A, 6031CH Nederweert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -887,7 +890,8 @@
         "bag_display_name": "Linsenhof 5, 6081GM Haelen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -957,7 +961,8 @@
         "bag_display_name": "Postelstraat 39, 5711EM Someren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1227,7 +1232,8 @@
         "bag_display_name": "Oranjeplein 225, 6006CX Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1409,7 +1415,8 @@
         "bag_display_name": "Sint Jobplein 2, 6004JZ Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1583,7 +1590,8 @@
         "bag_display_name": "Sint Antoniusstraat 1a, 6093GA Heythuysen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1929,7 +1937,8 @@
         "bag_display_name": "Groene Kruisstraat 8, 6049BW Herten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2087,7 +2096,8 @@
         "bag_display_name": "Kerkstraat 30d, 5711GW Someren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2321,7 +2331,8 @@
         "bag_display_name": "Monseigneur Nolensstraat 1C, 6039CK Stramproy",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2451,7 +2462,8 @@
         "bag_display_name": "Burgemeester Hobusstraat 33, 6031VA Nederweert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2565,7 +2577,8 @@
         "bag_display_name": "Dorpstraat 22, 6093EC Heythuysen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2671,7 +2684,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2777,7 +2791,8 @@
         "bag_display_name": "Sint Jobplein 20, 6004JZ Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2923,7 +2938,8 @@
         "bag_display_name": "Onze Lieve Vrouwestraat 73, 6035AN Ospel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2981,7 +2997,8 @@
         "bag_display_name": "Doctor Schaepmanstraat 3, 6039CP Stramproy",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3107,7 +3124,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3229,7 +3247,8 @@
         "bag_display_name": "Kerkstraat 25A, 5768BH Meijel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3547,7 +3566,8 @@
         "bag_display_name": "Speelheuvelstraat 5, 5711AS Someren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4073,7 +4093,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4243,7 +4264,8 @@
         "bag_display_name": "Burgemeester Hobusstraat 66, 6031VA Nederweert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4497,7 +4519,8 @@
         "bag_display_name": "Molenakkerplein 3, 6003BN Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4551,7 +4574,8 @@
         "bag_display_name": "Roermondseweg 30, 6004AS Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4665,7 +4689,8 @@
         "bag_display_name": "Kerkstraat 43, 5981CD Panningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4759,7 +4784,8 @@
         "bag_display_name": "Ringbaan West 15, 6006NJ Weert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5077,7 +5103,8 @@
         "bag_display_name": "Schoolstraat 2, 6093EH Heythuysen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5235,7 +5262,8 @@
         "bag_display_name": "Kerkstraat 30c, 5711GW Someren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5369,7 +5397,8 @@
         "bag_display_name": "Rijksweg 20a, 6085AC Horn",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5631,7 +5660,8 @@
         "bag_display_name": "Dorpsstraat 11, 6088BN Roggel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5721,7 +5751,8 @@
         "bag_display_name": "Vorstermansplein 4, 5725AM Heusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5823,7 +5854,8 @@
         "bag_display_name": "Dorpstraat 91, 6095AG Baexem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

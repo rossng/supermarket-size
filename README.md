@@ -106,3 +106,5 @@ npm run publish:resolved
 `oppervlakte` is BAG `verblijfsobject` area. It is a useful proxy for likely supermarket choice, but not a guarantee: some stores share buildings, have storage/back-office space, or occupy multiple BAG objects.
 
 The automatic matcher is deliberately conservative. See `docs/fuzzy-matching.md` before accepting fuzzy matches or manual overrides.
+
+The building footprint overlay uses BAG pand geometry, not per-shop unit geometry. When one BAG pand contains multiple supermarkets, the exporter still draws the shared pand geometry, but the map keeps each store circle at its OSM point.

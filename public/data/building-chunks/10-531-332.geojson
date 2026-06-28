@@ -333,7 +333,8 @@
         "bag_display_name": "Overdiep 1, 9902DB Appingedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -711,7 +712,8 @@
         "bag_display_name": "Gorecht-Oost 6a, 9603AA Hoogezand",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -801,7 +803,8 @@
         "bag_display_name": "Kerkstraat 77, 9636AB Zuidbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -935,7 +938,8 @@
         "bag_display_name": "Overdiep 2, 9902BX Appingedam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -1261,7 +1265,8 @@
         "bag_display_name": "Meint Veningastraat 38, 9601KG Hoogezand",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1327,7 +1332,8 @@
         "bag_display_name": "Noorderstraat 93, 9611AC Sappemeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1397,7 +1403,8 @@
         "bag_display_name": "Poststraat 7, 9679AA Scheemda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1443,7 +1450,8 @@
         "bag_display_name": "Hoofdweg 159, 9681AD Midwolda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1625,7 +1633,8 @@
         "bag_display_name": "Jachtlaan 10A, 9934JB Delfzijl",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1819,7 +1828,8 @@
         "bag_display_name": "Vredenhovenstraat 3, 9679AL Scheemda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1945,7 +1955,8 @@
         "bag_display_name": "Noorderstraat 103, 9611AC Sappemeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2023,7 +2034,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2125,7 +2137,8 @@
         "bag_display_name": "Pleiaden 11, 9602KD Hoogezand",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2271,7 +2284,8 @@
         "bag_display_name": "Noorderstraat 182, 9611AP Sappemeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2897,7 +2911,8 @@
         "bag_display_name": "Gorecht-Oost 153j, 9603AE Hoogezand",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2975,7 +2990,8 @@
         "bag_display_name": "Hoofdweg 91, 9626AB Schildwolde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3113,7 +3129,8 @@
         "bag_display_name": "Ossedrift 1b, 9901JH Appingedam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3239,7 +3256,8 @@
         "bag_display_name": "Kerkstraat 55, 9649GN Muntendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3333,7 +3351,8 @@
         "bag_display_name": "Koopmansplein 10, 9791MA Ten Boer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3563,7 +3582,8 @@
         "bag_display_name": "Hoofdweg 42, 9617AH Harkstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3697,7 +3717,8 @@
         "bag_display_name": "Spoorstraat 21, 9636AS Zuidbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3951,7 +3972,8 @@
         "bag_display_name": "Hoofdweg 164A, 9628CT Siddeburen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4025,7 +4047,8 @@
         "bag_display_name": "Hoofdstraat 36A, 9635AV Noordbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4131,7 +4154,8 @@
         "bag_display_name": "A.E. Gorterweg 28, 9946PC Woldendorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

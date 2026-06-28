@@ -61,7 +61,8 @@
         "bag_display_name": "Beertsterweg 1D, 9672BE Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -155,7 +156,8 @@
         "bag_display_name": "Heemskerkstraat 55, 9675BN Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -305,7 +307,8 @@
         "bag_display_name": "Venne 7B, 9671DA Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -391,7 +394,8 @@
         "bag_display_name": "Heemskerkstraat 56, 9675BN Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -745,7 +749,8 @@
         "bag_display_name": "Synagoge-passage 5, 9671ED Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -863,7 +868,8 @@
         "bag_display_name": "Jachtlaan 11, 9675JA Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -917,7 +923,8 @@
         "bag_display_name": "Vredesplein 1A, 9686RT Beerta",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1011,7 +1018,8 @@
         "bag_display_name": "Hoofdstraat 41, 9693AE Bad Nieuweschans",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1125,7 +1133,8 @@
         "bag_display_name": "Hoofdweg 123, 9684CE Finsterwolde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1171,7 +1180,8 @@
         "bag_display_name": "Amstelstraat 1, 9673HX Winschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

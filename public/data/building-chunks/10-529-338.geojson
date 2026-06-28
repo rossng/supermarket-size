@@ -117,7 +117,8 @@
         "bag_display_name": "Thuvinestraat 33, 6921BB Duiven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -623,7 +624,8 @@
         "bag_display_name": "Kampsingel 2, 6901JE Zevenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1045,7 +1047,8 @@
         "bag_display_name": "Groenestraat 78, 6991GH Rheden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1243,7 +1246,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1357,7 +1361,8 @@
         "bag_display_name": "Ooipoortstraat 12, 6981DV Doesburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1503,7 +1508,8 @@
         "bag_display_name": "Houtsmastraat 150, 7002KK Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1849,7 +1855,8 @@
         "bag_display_name": "Callunaplein 72, 6951CR Dieren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2015,7 +2022,8 @@
         "bag_display_name": "Leliestraat 47, 6942XL Didam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2061,7 +2069,8 @@
         "bag_display_name": "Zaagmolenpad 16, 7008AJ Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2527,7 +2536,8 @@
         "bag_display_name": "de Bongerd 63, 7006NH Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2661,7 +2671,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2799,7 +2810,8 @@
         "bag_display_name": "Zuivelweg 7, 7255XA Hengelo (Gld)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2997,7 +3009,8 @@
         "bag_display_name": "Churchillplein 40, 6883EW Velp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3143,7 +3156,8 @@
         "bag_display_name": "Houtsmastraat 148, 7002KK Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3241,7 +3255,8 @@
         "bag_display_name": "Kerkstraat 36a, 6941AH Didam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3431,7 +3446,8 @@
         "bag_display_name": "Buitensingel 77, 6951AX Dieren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3517,7 +3533,8 @@
         "bag_display_name": "Molenpoortstraat 16, 7041BG 's-Heerenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3635,7 +3652,8 @@
         "bag_display_name": "Heerbaan 158, 6566EV Millingen aan de Rijn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3705,7 +3723,8 @@
         "bag_display_name": "Burgemeester Keiserplein 49, 6982BM Doesburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3775,7 +3794,8 @@
         "bag_display_name": "Geograaf 13, 6921EW Duiven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3869,7 +3889,8 @@
         "bag_display_name": "Zwarteweg 40, 6991EJ Rheden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4007,7 +4028,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4413,7 +4435,8 @@
         "bag_display_name": "Stationsstraat 44, 7005AT Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4603,7 +4626,8 @@
         "bag_display_name": "Callunaplein 32, 6951CP Dieren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4653,7 +4677,8 @@
         "bag_display_name": "Terborgseweg 37A, 7001GM Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4735,7 +4760,8 @@
         "bag_display_name": "Sint Jansgildestraat 50a, 7037AX Beek",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4889,7 +4915,8 @@
         "bag_display_name": "J F Kennedylaan 62, 7009HA Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5019,7 +5046,8 @@
         "bag_display_name": "Stadsplein 71, 7041JE 's-Heerenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5129,7 +5157,8 @@
         "bag_display_name": "'s-Gravenwaardsedijk 78a, 6916AZ Tolkamer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5279,7 +5308,8 @@
         "bag_display_name": "Diderna 44, 6951CW Dieren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5701,7 +5731,8 @@
         "bag_display_name": "Eilandplein 508, 6922ER Duiven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5851,7 +5882,8 @@
         "bag_display_name": "Pastoriestraat 2, 6921BX Duiven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5997,7 +6029,8 @@
         "bag_display_name": "Kampsingel 7, 6901JC Zevenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6059,7 +6092,8 @@
         "bag_display_name": "Van Oldenbarneveldtlaan 34, 6904BD Zevenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6277,7 +6311,8 @@
         "bag_display_name": "Emmerikseweg 1, 7041AV 's-Heerenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6375,7 +6410,8 @@
         "bag_display_name": "Diderna 13, 6951CW Dieren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6673,7 +6709,8 @@
         "bag_display_name": "Kastanjelaan 2b, 6921ES Duiven",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6803,7 +6840,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6905,7 +6943,8 @@
         "bag_display_name": "IJsselstraat 2, 7008AA Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7031,7 +7070,8 @@
         "bag_display_name": "Spoorstraat 15, 6942EA Didam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7081,7 +7121,8 @@
         "bag_display_name": "Landeweerdijk 1, 6902KA Zevenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8115,7 +8156,8 @@
         "bag_display_name": "Willy Brandtplein 26, 7007LB Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8281,7 +8323,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8599,7 +8642,8 @@
         "bag_display_name": "Masiusplein 24, 6901CH Zevenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8653,7 +8697,8 @@
         "bag_display_name": "Mondriaanstraat 13, 6921MJ Duiven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8851,7 +8896,8 @@
         "bag_display_name": "Churchillplein 42, 6883EW Velp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8981,7 +9027,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9043,7 +9090,8 @@
         "bag_display_name": "Plantsoensingel Midden 2, 7041ZB 's-Heerenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9257,7 +9305,8 @@
         "bag_display_name": "Gerrit Varwijkplein 34, 7038BX Zeddam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9367,7 +9416,8 @@
         "bag_display_name": "Middenstraat 2a, 6915AN Lobith",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9465,7 +9515,8 @@
         "bag_display_name": "Hoofdstraat 13, 6942AR Didam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9559,7 +9610,8 @@
         "bag_display_name": "Slotlaan 137, 7006HC Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9645,7 +9697,8 @@
         "bag_display_name": "Spaansmaat 10, 6903DJ Zevenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9763,7 +9816,8 @@
         "bag_display_name": "Dorpsstraat 20A, 6999AD Hummelo",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10237,7 +10291,8 @@
         "bag_display_name": "Babborgaplein 1A, 6909DW Babberich",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10327,7 +10382,8 @@
         "bag_display_name": "Dorpsplein 2, 6911AK Pannerden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10413,7 +10469,8 @@
         "bag_display_name": "Heemskerklaan 65, 7003AN Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10499,7 +10556,8 @@
         "bag_display_name": "Kerkplein 9b, 6578AN Leuth",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10665,7 +10723,8 @@
         "bag_display_name": "Zonnebloemstraat 3, 7004EA Doetinchem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10915,7 +10974,8 @@
         "bag_display_name": "Meentsestraat 3A, 6987CH Giesbeek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10989,7 +11049,8 @@
         "bag_display_name": "Kerkstraat 16a, 6686BT Doornenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

@@ -109,7 +109,8 @@
         "bag_display_name": "Het Hoekstuk 6, 1852KX Heiloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -163,7 +164,8 @@
         "bag_display_name": "Rosendaal 95, 1851RK Heiloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -289,7 +291,8 @@
         "bag_display_name": "Van Ostadelaan 294, 1816JH Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -443,7 +446,8 @@
         "bag_display_name": "Rosariumplein 20, 1561DX Krommenie",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -657,7 +661,8 @@
         "bag_display_name": "Nieuwe Egmonderstraatweg 11, 1934PA Egmond aan den Hoef",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -747,7 +752,8 @@
         "bag_display_name": "Oudorperplein 27, 1823HA Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2737,7 +2743,8 @@
         "bag_display_name": "Kaaikhof 22, 1567JP Assendelft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2879,7 +2886,8 @@
         "bag_display_name": "Europassage 21, 1966WH Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2941,7 +2949,8 @@
         "bag_display_name": "Rijperweg 50, 1462ME Middenbeemster",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3167,7 +3176,8 @@
         "bag_display_name": "Geert Groteplein 7, 1813BM Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3649,7 +3659,8 @@
         "bag_display_name": "Wijkerbaan 2, 1945SE Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3751,7 +3762,8 @@
         "bag_display_name": "Anna van Renesseplein 1, 1911KT Uitgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3973,7 +3985,8 @@
         "bag_display_name": "'t Loo 61, 1851HT Heiloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4071,7 +4084,8 @@
         "bag_display_name": "Raadhuisweg 3, 1921AA Akersloot",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4177,7 +4191,8 @@
         "bag_display_name": "Vuurbaak 1, 1906BS Limmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4879,7 +4894,8 @@
         "bag_display_name": "Geesterduin 27, 1902EJ Castricum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5281,7 +5297,8 @@
         "bag_display_name": "Dorpsstraat 119, 1713HD Obdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5387,7 +5404,8 @@
         "bag_display_name": "Anna Clasina op 't Landtplantsoen 11, 1705GS Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6201,7 +6219,8 @@
         "bag_display_name": "Marktplein 9, 1521HS Wormerveer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6459,7 +6478,8 @@
         "bag_display_name": "Europaboulevard 26, 1825SB Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6545,7 +6565,8 @@
         "bag_display_name": "Breelaan 14, 1861GE Bergen (NH)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6687,7 +6708,8 @@
         "bag_display_name": "Kerkweg 85, 1961JB Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6765,7 +6787,8 @@
         "bag_display_name": "Roze Flamingo 98, 1704WV Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7011,7 +7034,8 @@
         "bag_display_name": "Rijksstraatweg 40A, 1964LJ Heemskerk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8169,7 +8193,8 @@
         "bag_display_name": "Kwakelkade 10E, 1823CK Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -8863,7 +8888,8 @@
         "bag_display_name": "Wendelaarstraat 1A, 1814GR Alkmaar",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9173,7 +9199,8 @@
         "bag_display_name": "Middenwaard 2A, 1703SE Heerhugowaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9255,7 +9282,8 @@
         "bag_display_name": "Frank Sinatraplein 42, 1945WM Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9673,7 +9701,8 @@
         "bag_display_name": "Bakkerspleintje 77, 1901EZ Castricum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9747,7 +9776,8 @@
         "bag_display_name": "Gerrit van Assendelftstraat 32A, 1964NL Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10249,7 +10279,8 @@
         "bag_display_name": "Oosterweezenstraat 19, 1823CN Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10399,7 +10430,8 @@
         "bag_display_name": "Beijneslaan 169, 1947HK Beverwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10461,7 +10493,8 @@
         "bag_display_name": "Berckheidelaan 4, 1701VG Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10539,7 +10572,8 @@
         "bag_display_name": "Vincent van Goghlaan 1, 1816VM Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10665,7 +10699,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10763,7 +10798,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11621,7 +11657,8 @@
         "bag_display_name": "Spoorsingel 71, 1947LB Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11707,7 +11744,8 @@
         "bag_display_name": "Middenwaard 108, 1703SH Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11801,7 +11839,8 @@
         "bag_display_name": "Bovenweg 80, 1834CG Sint Pancras",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13191,7 +13230,8 @@
         "bag_display_name": "Westerlaan 27, 1944WX Beverwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13377,7 +13417,8 @@
         "bag_display_name": "Middelweg 80, 1911EJ Uitgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13455,7 +13496,8 @@
         "bag_display_name": "Abdijlaan 20, 1935BH Egmond-Binnen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13585,7 +13627,8 @@
         "bag_display_name": "Torenstraat 48a, 1901EG Castricum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13699,7 +13742,8 @@
         "bag_display_name": "Handelskade 8, 1713HS Obdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13829,7 +13873,8 @@
         "bag_display_name": "Berckheidelaan 18, 1701VG Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13899,7 +13944,8 @@
         "bag_display_name": "Koetserstraat 1, 1531NX Wormer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14073,7 +14119,8 @@
         "bag_display_name": "Heiligeweg 2A, 1561DK Krommenie",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14451,7 +14498,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14821,7 +14869,8 @@
         "bag_display_name": "Kerkweg 43, 1961JB Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15079,7 +15128,8 @@
         "bag_display_name": "Marktplein 107, 1721CK Broek op Langedijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15781,7 +15831,8 @@
         "bag_display_name": "Plein 13 103, 1521AP Wormerveer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15991,7 +16042,8 @@
         "bag_display_name": "Plein 4, 1861JZ Bergen (NH)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16069,7 +16121,8 @@
         "bag_display_name": "Berkenlint 3, 1906KJ Limmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16251,7 +16304,8 @@
         "bag_display_name": "Schermerplein 15, 1841GX Stompetoren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16309,7 +16363,8 @@
         "bag_display_name": "Kooiplein 20b, 1901VW Castricum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16367,7 +16422,8 @@
         "bag_display_name": "Middenwaard 116A, 1703SH Heerhugowaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16509,7 +16565,8 @@
         "bag_display_name": "Stationsplein 28, 1851LN Heiloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16591,7 +16648,8 @@
         "bag_display_name": "Torenstraat 34a, 1901EE Castricum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16801,7 +16859,8 @@
         "bag_display_name": "Hofplein 3, 1811LE Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17143,7 +17202,8 @@
         "bag_display_name": "Winkelwaard 486, 1824HX Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17301,7 +17361,8 @@
         "bag_display_name": "Johanna Naberstraat 49, 1827LB Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17407,7 +17468,8 @@
         "bag_display_name": "Haydnplein 8, 1962KE Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17521,7 +17583,8 @@
         "bag_display_name": "Paardenmarkt 2, 1811KH Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17599,7 +17662,8 @@
         "bag_display_name": "Melis Stokelaan 1, 1911SM Uitgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17705,7 +17769,8 @@
         "bag_display_name": "Muiderwaard 416, 1824XT Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17763,7 +17828,8 @@
         "bag_display_name": "Middenweg 245A, 1701GC Heerhugowaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17865,7 +17931,8 @@
         "bag_display_name": "Laat 147, 1811ED Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18011,7 +18078,8 @@
         "bag_display_name": "Middenwaard 55, 1703SC Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18193,7 +18261,8 @@
         "bag_display_name": "Boendalestraat 6, 1813BT Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18295,7 +18364,8 @@
         "bag_display_name": "Het Hoekstuk 12, 1852KX Heiloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -18685,7 +18755,8 @@
         "bag_display_name": "Cor Bruijnweg 64, 1521MB Wormerveer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18879,7 +18950,8 @@
         "bag_display_name": "Europaboulevard 354, 1825SV Alkmaar",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19113,7 +19185,8 @@
         "bag_display_name": "Spoorsingel 21, 1947LA Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19263,7 +19336,8 @@
         "bag_display_name": "Europassage 7, 1966WH Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19389,7 +19463,8 @@
         "bag_display_name": "Driemaster 3, 1483WB De Rijp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19615,7 +19690,8 @@
         "bag_display_name": "Korte Vondelstraat 2, 1811AE Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19705,7 +19781,8 @@
         "bag_display_name": "Nyenburgh 99, 1829GC Oudorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19783,7 +19860,8 @@
         "bag_display_name": "Verlengde Voorstraat 56, 1949CN Wijk aan Zee",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19865,7 +19943,8 @@
         "bag_display_name": "Ammerdorfferstraat 3, 1645SH Ursem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19967,7 +20046,8 @@
         "bag_display_name": "Noordeinde 14, 1843JH Grootschermer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20225,7 +20305,8 @@
         "bag_display_name": "Marktplein 3, 1721CK Broek op Langedijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20371,7 +20452,8 @@
         "bag_display_name": "Maerten van Heemskerckstraat 1, 1961EB Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22361,7 +22443,8 @@
         "bag_display_name": "Kaaikhof 15, 1567JP Assendelft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -22459,7 +22542,8 @@
         "bag_display_name": "Uiterwaard 1A, 1703MB Heerhugowaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22773,7 +22857,8 @@
         "bag_display_name": "Brandpunt 65, 1705SK Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22915,7 +23000,8 @@
         "bag_display_name": "Stationsplein 34, 1851LN Heiloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -23617,7 +23703,8 @@
         "bag_display_name": "Geesterduin 30, 1902EK Castricum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -23831,7 +23918,8 @@
         "bag_display_name": "Raadhuisplein 2A, 1701EJ Heerhugowaard",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23893,7 +23981,8 @@
         "bag_display_name": "Kemphaanstraat 2A, 1531VE Wormer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23955,7 +24044,8 @@
         "bag_display_name": "Uranuslaan 182, 1562XE Krommenie",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24077,7 +24167,8 @@
         "bag_display_name": "Heiligeweg 69, 1561DG Krommenie",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24699,7 +24790,8 @@
         "bag_display_name": "Krommenieërweg 30A, 1521HK Wormerveer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24845,7 +24937,8 @@
         "bag_display_name": "Bellinistraat 71, 1817JM Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25083,7 +25176,8 @@
         "bag_display_name": "Helmlaan 1, 1964PH Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25425,7 +25519,8 @@
         "bag_display_name": "Gildenplein 14, 1967KL Heemskerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25555,7 +25650,8 @@
         "bag_display_name": "Schouwenaarsstraat 5A, 1945SW Beverwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25765,7 +25861,8 @@
         "bag_display_name": "Plantage 14, 1943LM Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25811,7 +25908,8 @@
         "bag_display_name": "Van Ostadelaan 296, 1816JH Alkmaar",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25893,7 +25991,8 @@
         "bag_display_name": "Voorburggracht 224, 1722GE Zuid-Scharwoude",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26459,7 +26558,8 @@
         "bag_display_name": "Europaboulevard 463, 1825RN Alkmaar",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26545,7 +26645,8 @@
         "bag_display_name": "Lijsterstraat 1, 1706BN Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

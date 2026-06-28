@@ -190,6 +190,7 @@ for (let i = 0; i < pandIds.length; i += 500) {
 const features = [];
 const pointFeatures = [];
 const seen = new Set();
+const exportItems = [];
 
 function geometryCenter(geometry) {
   const points = [];
@@ -222,6 +223,22 @@ for (const supermarket of supermarkets) {
   const key = `${props.osm_type}-${props.osm_id}-${pandId}`;
   if (seen.has(key)) continue;
   seen.add(key);
+  exportItems.push({ supermarket, props, pandId, pand });
+}
+
+const itemsByPandId = new Map();
+for (const item of exportItems) {
+  const items = itemsByPandId.get(item.pandId) ?? [];
+  items.push(item);
+  itemsByPandId.set(item.pandId, items);
+}
+const sharedPandIds = new Set(
+  [...itemsByPandId.entries()]
+    .filter(([, items]) => items.length > 1)
+    .map(([pandId]) => pandId)
+);
+
+for (const { props, pandId, pand } of exportItems) {
   const properties = {
     osm_type: props.osm_type,
     osm_id: props.osm_id,
@@ -236,13 +253,15 @@ for (const supermarket of supermarkets) {
     bag_display_name: props.bag_display_name,
     bag_match_status: props.bag_match_status,
     area_status: props.area_status,
-    has_area: Boolean(props.floor_area_m2)
+    has_area: Boolean(props.floor_area_m2),
+    is_shared_pand: sharedPandIds.has(pandId)
   };
   features.push({
     type: "Feature",
     geometry: pand.geometry,
     properties
   });
+  if (sharedPandIds.has(pandId)) continue;
   pointFeatures.push({
     type: "Feature",
     geometry: {
@@ -260,7 +279,9 @@ await writeJson(out, {
     generatedAt: new Date().toISOString(),
     input,
     featureCount: features.length,
-    note: "BAG pand polygons for confidently-located supermarkets. has_area=false means the building is drawn without a sensible floor area."
+    sharedPandCount: sharedPandIds.size,
+    sharedPandStoreCount: exportItems.filter((item) => sharedPandIds.has(item.pandId)).length,
+    note: "BAG pand polygons for confidently-located supermarkets. Panden with multiple supermarkets are still drawn as shared building geometry, but omitted from center points because BAG pand geometry cannot identify each store footprint. has_area=false means the building is drawn without a sensible floor area."
   },
   features
 });
@@ -272,10 +293,13 @@ await writeJson(pointsOut, {
     generatedAt: new Date().toISOString(),
     input,
     featureCount: pointFeatures.length,
-    note: "Point features centered on exported BAG pand polygon bounds."
+    skippedSharedPandCount: sharedPandIds.size,
+    skippedSharedPandStoreCount: exportItems.filter((item) => sharedPandIds.has(item.pandId)).length,
+    note: "Point features centered on exported BAG pand polygon bounds. Panden with multiple supermarkets are omitted so store circles fall back to the original store point."
   },
   features: pointFeatures
 });
 
 console.log(`Wrote ${features.length} BAG building polygons to ${out}`);
 console.log(`Wrote ${pointFeatures.length} BAG building center points to ${pointsOut}`);
+console.log(`Skipped ${sharedPandIds.size} shared BAG panden covering ${exportItems.filter((item) => sharedPandIds.has(item.pandId)).length} supermarkets`);

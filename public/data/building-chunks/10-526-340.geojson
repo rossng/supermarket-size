@@ -69,7 +69,8 @@
         "bag_display_name": "Buurmalsenplein 1, 5043XL Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -199,7 +200,8 @@
         "bag_display_name": "De Hovel 19, 5051NP Goirle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -573,7 +575,8 @@
         "bag_display_name": "Wagnerplein 52, 5011LR Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -715,7 +718,8 @@
         "bag_display_name": "Professor de Moorplein 124, 5037DN Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -853,7 +857,8 @@
         "bag_display_name": "Dalempromenade 40, 5035KL Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -971,7 +976,8 @@
         "bag_display_name": "Koningsschild 11, 5051TT Goirle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1117,7 +1123,8 @@
         "bag_display_name": "Gelderstraat 52, 5081AC Hilvarenbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1203,7 +1210,8 @@
         "bag_display_name": "Kerkstraat 8a, 5111CJ Baarle-Nassau",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1333,7 +1341,8 @@
         "bag_display_name": "Mgr Bekkersplein 3, 5076AZ Haaren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1451,7 +1460,8 @@
         "bag_display_name": "Dorpsstraat 34, 5061HL Oisterwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1685,7 +1695,8 @@
         "bag_display_name": "Piusplein 34, 5038WN Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1739,7 +1750,8 @@
         "bag_display_name": "Korvelplein 191, 5025JX Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1873,7 +1885,8 @@
         "bag_display_name": "Westermarkt 17, 5042MC Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1943,7 +1956,8 @@
         "bag_display_name": "Umberstraat 2, 5044JJ Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2013,7 +2027,8 @@
         "bag_display_name": "Koningsoord 137, 5057DL Berkel-Enschot",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2247,7 +2262,8 @@
         "bag_display_name": "Jan Heijnsstraat 10, 5041GB Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2445,7 +2461,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2603,7 +2620,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2701,7 +2719,8 @@
         "bag_display_name": "Bloemenstraat 11, 5081CR Hilvarenbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2835,7 +2854,8 @@
         "bag_display_name": "Wethouder de Brouwerstraat 33a, 5051SJ Goirle",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2917,7 +2937,8 @@
         "bag_display_name": "Transvaalplein 45, 5021TD Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2999,7 +3020,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3233,7 +3255,8 @@
         "bag_display_name": "Jan Heijnsstraat 30, 5041GB Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3539,7 +3562,8 @@
         "bag_display_name": "Paletplein 1, 5044JB Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3605,7 +3629,8 @@
         "bag_display_name": "Koningsoord 1, 5057DK Berkel-Enschot",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4055,7 +4080,8 @@
         "bag_display_name": "Frans van Spaendonckplein 1, 5042GP Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4145,7 +4171,8 @@
         "bag_display_name": "Dijksterhuisstraat 88, 5013BG Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4227,7 +4254,8 @@
         "bag_display_name": "Schouwburgring 563, 5038TX Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4293,7 +4321,8 @@
         "bag_display_name": "Korvelseweg 219a, 5025JG Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4463,7 +4492,8 @@
         "bag_display_name": "Amer 13, 5032AZ Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4581,7 +4611,8 @@
         "bag_display_name": "Rootven 38, 5066AX Moergestel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4727,7 +4758,8 @@
         "bag_display_name": "Fabriekspad 1, 5061EW Oisterwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4925,7 +4957,8 @@
         "bag_display_name": "Hilverstraat 99, 5081AV Hilvarenbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5243,7 +5276,8 @@
         "bag_display_name": "Pannenschuurplein 32, 5061WP Oisterwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5361,7 +5395,8 @@
         "bag_display_name": "'t Ven 1A, 5091BN Oost West en Middelbeers",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5471,7 +5506,8 @@
         "bag_display_name": "Kreitenmolenstraat 149a, 5071BC Udenhout",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5737,7 +5773,8 @@
         "bag_display_name": "Heyhoefpromenade 11, 5043RA Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5979,7 +6016,8 @@
         "bag_display_name": "Bart van Peltplein 1, 5046GA Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6221,7 +6259,8 @@
         "bag_display_name": "Westermarkt 38, 5042MD Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6595,7 +6634,8 @@
         "bag_display_name": "Wagnerplein 18, 5011LP Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6685,7 +6725,8 @@
         "bag_display_name": "Lieve-Vrouweplein 12, 5038TS Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6803,7 +6844,8 @@
         "bag_display_name": "AaBe-straat 8, 5021AV Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6949,7 +6991,8 @@
         "bag_display_name": "Driehoeven 56, 5076BJ Haaren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7015,7 +7058,8 @@
         "bag_display_name": "Koningsoord 64, 5057DK Berkel-Enschot",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7169,7 +7213,8 @@
         "bag_display_name": "Pater van den Elsenplein 35, 5022EG Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7367,7 +7412,8 @@
         "bag_display_name": "Sint Annaplein 15, 5111CA Baarle-Nassau",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7497,7 +7543,8 @@
         "bag_display_name": "Stappegoorweg 175, 5022DD Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -7579,7 +7626,8 @@
         "bag_display_name": "Lange Wagenstraat 2, 5126BC Gilze",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7625,7 +7673,8 @@
         "bag_display_name": "Rosa Castellanosstraat 5, 5032MG Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -7703,7 +7752,8 @@
         "bag_display_name": "Bosscheweg 296, 5013AC Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7845,7 +7895,8 @@
         "bag_display_name": "AaBe-straat 1, 5021AV Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7951,7 +8002,8 @@
         "bag_display_name": "Heyhoefpromenade 115, 5043RB Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8001,7 +8053,8 @@
         "bag_display_name": "Almystraat 2, 5061PA Oisterwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8131,7 +8184,8 @@
         "bag_display_name": "Kreverplein 1, 5012CP Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8253,7 +8307,8 @@
         "bag_display_name": "Korvelseweg 225, 5025JG Tilburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8347,7 +8402,8 @@
         "bag_display_name": "de Kuil 1, 5061DA Oisterwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8721,7 +8777,8 @@
         "bag_display_name": "Wagnerplein 40, 5011LP Tilburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8931,7 +8988,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9089,7 +9147,8 @@
         "bag_display_name": "Besterdring 110, 5014HM Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9355,7 +9414,8 @@
         "bag_display_name": "Heyhoefpromenade 41, 5043RA Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9473,7 +9533,8 @@
         "bag_display_name": "Besterdring 29, 5014HG Tilburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9631,7 +9692,8 @@
         "bag_display_name": "Tongerloplein 23, 5071CX Udenhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9801,7 +9863,8 @@
         "bag_display_name": "Julianastraat 42, 5087BB Diessen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9991,7 +10054,8 @@
         "bag_display_name": "Willibrordplein 3, 5131AV Alphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

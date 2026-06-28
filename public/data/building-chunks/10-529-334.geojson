@@ -173,7 +173,8 @@
         "bag_display_name": "Van Harenstraat 66, 8471JG Wolvega",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -283,7 +284,8 @@
         "bag_display_name": "Dorpsstraat 36, 7971CS Havelte",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -461,7 +463,8 @@
         "bag_display_name": "Grote Akkerstraat 1A, 7941BB Meppel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -815,7 +818,8 @@
         "bag_display_name": "Ruskenstuk 2, 7943JM Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -965,7 +969,8 @@
         "bag_display_name": "Prinsen Hoven 1, 8331JV Steenwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1067,7 +1072,8 @@
         "bag_display_name": "het Schar 3, 8332CL Steenwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1137,7 +1143,8 @@
         "bag_display_name": "Van der Sandeplein 2A, 8471RX Wolvega",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1263,7 +1270,8 @@
         "bag_display_name": "Steenwijkerdiep 27, 8331LP Steenwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1425,7 +1433,8 @@
         "bag_display_name": "van Oldenbarneveltplein 3, 7942HS Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1499,7 +1508,8 @@
         "bag_display_name": "Woldstraat 60, 7941LL Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1645,7 +1655,8 @@
         "bag_display_name": "Dorpsstraat 26, 7958RN Koekange",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1795,7 +1806,8 @@
         "bag_display_name": "Industriestraat 18, 8391AG Noordwolde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1945,7 +1957,8 @@
         "bag_display_name": "Markt 31, 8471AS Wolvega",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2375,7 +2388,8 @@
         "bag_display_name": "Marktstraat 16, 7941KR Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2529,7 +2543,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2619,7 +2634,8 @@
         "bag_display_name": "Woldmeentherand 1, 8332JE Steenwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2689,7 +2705,8 @@
         "bag_display_name": "Molenstraat 3, 8391AJ Noordwolde",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2755,7 +2772,8 @@
         "bag_display_name": "Spoorlaan 2, 8471JP Wolvega",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2837,7 +2855,8 @@
         "bag_display_name": "Marktstraat 18, 7941KR Meppel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2919,7 +2938,8 @@
         "bag_display_name": "Havelterweg 3, 7961BC Ruinerwold",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3013,7 +3033,8 @@
         "bag_display_name": "Hoofdstraat 82, 7981AV Diever",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3067,7 +3088,8 @@
         "bag_display_name": "Scholestraat 28, 8331HS Steenwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3133,7 +3155,8 @@
         "bag_display_name": "Eendrachtsplein 4, 8355DL Giethoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3223,7 +3246,8 @@
         "bag_display_name": "Dorpsstraat 10B-1, 7948BR Nijeveen",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3389,7 +3413,8 @@
         "bag_display_name": "Dorpsstraat 32, 8381AN Vledder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3435,7 +3460,8 @@
         "bag_display_name": "Griffioenpark 2, 8471KP Wolvega",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3537,7 +3563,8 @@
         "bag_display_name": "Gelderingen 12, 8341PX Steenwijkerwold",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

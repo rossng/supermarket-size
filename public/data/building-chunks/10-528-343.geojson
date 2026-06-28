@@ -345,7 +345,8 @@
         "bag_display_name": "Wethouder Sangersstraat 174, 6191NA Beek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -479,7 +480,8 @@
         "bag_display_name": "Hoofdstraat 45A, 6436CB Amstenrade",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -617,7 +619,8 @@
         "bag_display_name": "Kouvenderstraat 100, 6431HH Hoensbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -679,7 +682,8 @@
         "bag_display_name": "Burgemeester Cortenstraat 8B, 6226GV Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -809,7 +813,8 @@
         "bag_display_name": "Sint Rochusstraat 20, 6241CD Bunde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1019,7 +1024,8 @@
         "bag_display_name": "Stationsstraat 110a, 6181AK Elsloo",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1149,7 +1155,8 @@
         "bag_display_name": "Plein 1992 52, 6221JP Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1283,7 +1290,8 @@
         "bag_display_name": "Sint Pieterstraat 72B-01, 6211JP Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1349,7 +1357,8 @@
         "bag_display_name": "Scharnerweg 110, 6224JJ Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1551,7 +1560,8 @@
         "bag_display_name": "Akerstraat-Noord 282, 6431HW Hoensbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1649,7 +1659,8 @@
         "bag_display_name": "Homerusplein 9, 6411AW Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1767,7 +1778,8 @@
         "bag_display_name": "Irmengard Passage 3, 6301EC Valkenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1885,7 +1897,8 @@
         "bag_display_name": "Kennedylaan 90, 6441JG Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2243,7 +2256,8 @@
         "bag_display_name": "Koutenveld 2, 6441CM Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2297,7 +2311,8 @@
         "bag_display_name": "Masadastraat 51, 6222DZ Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2619,7 +2634,8 @@
         "bag_display_name": "Kerkstraat 40, 6441BE Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2697,7 +2713,8 @@
         "bag_display_name": "Sittarderweg 152, 6412CM Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3045,7 +3062,8 @@
         "bag_display_name": "Tongerseweg 57A-02, 6213GA Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3199,7 +3217,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4221,7 +4240,8 @@
         "bag_display_name": "Brusselsepoort 45, 6216CG Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4519,7 +4539,8 @@
         "bag_display_name": "Koningswinkelstraat 2, 6301WJ Valkenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5093,7 +5114,8 @@
         "bag_display_name": "Furenthela 15, 6367TL Voerendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5353,7 +5375,8 @@
         "bag_display_name": "Provincialeweg Noord 7A, 6438AA Oirsbeek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5527,7 +5550,8 @@
         "bag_display_name": "Malbergsingel 46, 6218AV Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5685,7 +5709,8 @@
         "bag_display_name": "Looierstraat 20, 6271BB Gulpen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5751,7 +5776,8 @@
         "bag_display_name": "Akerstraat 128, 6445CT Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5973,7 +5999,8 @@
         "bag_display_name": "Apollolaan 22, 6411BB Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6083,7 +6110,8 @@
         "bag_display_name": "François de Veijestraat 3, 6221AB Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6201,7 +6229,8 @@
         "bag_display_name": "Kennedylaan 92A, 6441JG Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6303,7 +6332,8 @@
         "bag_display_name": "Stationstraat 7, 6361BH Nuth",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6437,7 +6467,8 @@
         "bag_display_name": "Rechtstraat 48A, 6221EK Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6567,7 +6598,8 @@
         "bag_display_name": "Plein 1992 74, 6221JP Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6673,7 +6705,8 @@
         "bag_display_name": "Walramplein 26, 6301DD Valkenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6767,7 +6800,8 @@
         "bag_display_name": "Malbergsingel 74B, 6218AV Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6861,7 +6895,8 @@
         "bag_display_name": "Rijksweg 27, 6267AD Cadier en Keer",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -6915,7 +6950,8 @@
         "bag_display_name": "Kuilenstraat 73, 6231AV Meerssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7113,7 +7149,8 @@
         "bag_display_name": "Roserije 303, 6228DR Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8135,7 +8172,8 @@
         "bag_display_name": "Brusselsepoort 19, 6216CE Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8245,7 +8283,8 @@
         "bag_display_name": "Markt 20, 6438HB Oirsbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23207,7 +23246,8 @@
         "bag_display_name": "Laag Mosae Forum 26, 6211DV Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23605,7 +23645,8 @@
         "bag_display_name": "Voltastraat 7B, 6224EK Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23711,7 +23752,8 @@
         "bag_display_name": "Ganzeweide 74, 6413GH Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23817,7 +23859,8 @@
         "bag_display_name": "Beekstraat 2, 6231LG Meerssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23911,7 +23954,8 @@
         "bag_display_name": "Maastrichterlaan 26, 6191AD Beek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24049,7 +24093,8 @@
         "bag_display_name": "Sint Agnesplein 8, 6241CA Bunde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24575,7 +24620,8 @@
         "bag_display_name": "Herculeshof 37, 6215BH Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24693,7 +24739,8 @@
         "bag_display_name": "Kardinaal van Rossumplein 52, 6221SX Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24803,7 +24850,8 @@
         "bag_display_name": "Gasthuisstraat 7, 6231JV Meerssen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24949,7 +24997,8 @@
         "bag_display_name": "Anjelierstraat 72, 6414EW Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25155,7 +25204,8 @@
         "bag_display_name": "Rumpenerstraat 116, 6443CH Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25281,7 +25331,8 @@
         "bag_display_name": "Breusterhof 1, 6245EL Eijsden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25619,7 +25670,8 @@
         "bag_display_name": "Wethouder Sangersstraat 168, 6191NA Beek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -25745,7 +25797,8 @@
         "bag_display_name": "Hoofdstraat 66, 6432GG Hoensbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25911,7 +25964,8 @@
         "bag_display_name": "Weidestraat 3, 6333DE Schimmert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26113,7 +26167,8 @@
         "bag_display_name": "De Leim 10A, 6227CT Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26231,7 +26286,8 @@
         "bag_display_name": "De Doom 3, 6419CW Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26433,7 +26489,8 @@
         "bag_display_name": "Zuidhof 11, 6164BA Geleen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26719,7 +26776,8 @@
         "bag_display_name": "Orionplein 1, 6446TL Brunssum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31445,7 +31503,8 @@
         "bag_display_name": "de Beente 86, 6229AV Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31523,7 +31582,8 @@
         "bag_display_name": "Keurmeestersdreef 111A, 6216EC Maastricht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31637,7 +31697,8 @@
         "bag_display_name": "Markt 62, 6191JK Beek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31915,7 +31976,8 @@
         "bag_display_name": "Gebrookerplein 22, 6431LX Hoensbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32097,7 +32159,8 @@
         "bag_display_name": "Valkenburgerstraat 25A, 6325BK Berg en Terblijt",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32355,7 +32418,8 @@
         "bag_display_name": "Amerikaplein 2, 6269DA Margraten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32473,7 +32537,8 @@
         "bag_display_name": "Passage 1, 6271HA Gulpen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32709,7 +32774,8 @@
         "bag_display_name": "Groeët Genhei 24A, 6413GN Heerlen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32823,7 +32889,8 @@
         "bag_display_name": "Severenplein 24A, 6225AZ Maastricht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33021,7 +33088,8 @@
         "bag_display_name": "Cramignonstraat 1, 6245CP Eijsden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33195,7 +33263,8 @@
         "bag_display_name": "Scalaplein 1, 6365BP Schinnen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33509,7 +33578,8 @@
         "bag_display_name": "Kerkplein 36, 6367ER Voerendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33607,7 +33677,8 @@
         "bag_display_name": "Kerkstraat 1, 6321AH Wijlre",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33689,7 +33760,8 @@
         "bag_display_name": "Dalestraat 23A, 6262NP Banholt",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33771,7 +33843,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

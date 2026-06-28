@@ -193,7 +193,8 @@
         "bag_display_name": "Oude Torenstraat 37, 4401EH Yerseke",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -331,7 +332,8 @@
         "bag_display_name": "Biezelingsestraat 1, 4421BL Kapelle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -513,7 +515,8 @@
         "bag_display_name": "Kolveniershof 44, 4461DB Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -591,7 +594,8 @@
         "bag_display_name": "Westhavendijk 103, 4463AD Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -697,7 +701,8 @@
         "bag_display_name": "Molenplein 6, 4461BJ Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -823,7 +828,8 @@
         "bag_display_name": "Sluisweg 26, 4416RL Kruiningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -925,7 +931,8 @@
         "bag_display_name": "Abdijstraat 2-020, 4421JE Kapelle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1127,7 +1134,8 @@
         "bag_display_name": "Beukenhof 1, 4462EN Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1277,7 +1285,8 @@
         "bag_display_name": "Dorpsstraat 90, 4413CE Krabbendijke",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1379,7 +1388,8 @@
         "bag_display_name": "Marconistraat 2, 4461HH Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1465,7 +1475,8 @@
         "bag_display_name": "Weststraat 2, 4421AC Kapelle",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1519,7 +1530,8 @@
         "bag_display_name": "Spuistraat 1, 4697BB Sint-Annaland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1645,7 +1657,8 @@
         "bag_display_name": "Van Doornestraat 2, 4462EX Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1859,7 +1872,8 @@
         "bag_display_name": "Markt 23, 4695CG Sint-Maartensdijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2125,7 +2139,8 @@
         "bag_display_name": "De Spinne 46, 4463CW Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2195,7 +2210,8 @@
         "bag_display_name": "Marconistraat 11, 4461HH Goes",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2321,7 +2337,8 @@
         "bag_display_name": "Voorstraat 25, 4696BJ Stavenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2443,7 +2460,8 @@
         "bag_display_name": "Klimopplein 2, 4431EJ 's-Gravenpolder",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2497,7 +2515,8 @@
         "bag_display_name": "Voorhoute 1, 4416BS Kruiningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2639,7 +2658,8 @@
         "bag_display_name": "Schoolstraat 2, 4681BK Nieuw-Vossemeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2717,7 +2737,8 @@
         "bag_display_name": "Markt 34, 4695CG Sint-Maartensdijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2839,7 +2860,8 @@
         "bag_display_name": "Dorpsplein 23A, 4424CA Wemeldinge",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2905,7 +2927,8 @@
         "bag_display_name": "Achterstraat 52, 4675BX Sint Philipsland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3003,7 +3026,8 @@
         "bag_display_name": "Hoofdweg 25, 4411AN Rilland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3141,7 +3165,8 @@
         "bag_display_name": "Leklaan 4, 4417DA Hansweert",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3247,7 +3272,8 @@
         "bag_display_name": "Molenstraat 1a, 4698BA Oud-Vossemeer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

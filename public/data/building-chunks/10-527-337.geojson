@@ -165,7 +165,8 @@
         "bag_display_name": "Dorpsstraat 27a, 3931ED Woudenberg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -327,7 +328,8 @@
         "bag_display_name": "Euterpeplein 43B, 3816NR Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -541,7 +543,8 @@
         "bag_display_name": "'t Erf 9, 3831NA Leusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -635,7 +638,8 @@
         "bag_display_name": "Frieswijkstraat 72, 3862BM Nijkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -721,7 +725,8 @@
         "bag_display_name": "Burgemeester Kuntzelaan 35, 3771EP Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -999,7 +1004,8 @@
         "bag_display_name": "Albert Schweitzersingel 92, 3822BX Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1089,7 +1095,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1187,7 +1194,8 @@
         "bag_display_name": "Eemnesserweg 40, 3741GB Baarn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1245,7 +1253,8 @@
         "bag_display_name": "Tuinfluiter 1, 3752NA Bunschoten-Spakenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1535,7 +1544,8 @@
         "bag_display_name": "Emiclaerhof 142, 3823ER Amersfoort",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1733,7 +1743,8 @@
         "bag_display_name": "Buma 1, 3825ME Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1927,7 +1938,8 @@
         "bag_display_name": "Eemplein 65, 3812EA Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2041,7 +2053,8 @@
         "bag_display_name": "Leusderweg 79, 3818AA Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2211,7 +2224,8 @@
         "bag_display_name": "Noordewierweg 113, 3812DD Amersfoort",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2485,7 +2499,8 @@
         "bag_display_name": "Kraailandhof 106, 3828JM Hoogland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2591,7 +2606,8 @@
         "bag_display_name": "Anthon van der Horstlaan 2, 3752VN Bunschoten-Spakenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2741,7 +2757,8 @@
         "bag_display_name": "Kantemarsweg 10, 3871AP Hoevelaken",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2831,7 +2848,8 @@
         "bag_display_name": "Smidsplein 21, 3781GR Voorthuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3033,7 +3051,8 @@
         "bag_display_name": "Smitsweg 20, 3765CT Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3143,7 +3162,8 @@
         "bag_display_name": "Tamboerijn 11, 3766HA Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3221,7 +3241,8 @@
         "bag_display_name": "Binnenhof 1, 3971EE Driebergen-Rijsenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3311,7 +3332,8 @@
         "bag_display_name": "Voorthuizerstraat 2, 3881SH Putten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3409,7 +3431,8 @@
         "bag_display_name": "Wilbrinkplein 3, 6741DN Lunteren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3511,7 +3534,8 @@
         "bag_display_name": "Amsterdamseweg 45, 3812RP Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3569,7 +3593,8 @@
         "bag_display_name": "Kerkstraat 12, 3781GB Voorthuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3675,7 +3700,8 @@
         "bag_display_name": "Theaterplein 7, 3772KX Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3733,7 +3759,8 @@
         "bag_display_name": "Dorpsstraat 25, 3931ED Woudenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3903,7 +3930,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3997,7 +4025,8 @@
         "bag_display_name": "Marktstraat 11, 3925JN Scherpenzeel",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -4055,7 +4084,8 @@
         "bag_display_name": "Traaij 99-103, 3971GD Driebergen-Rijsenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4149,7 +4179,8 @@
         "bag_display_name": "Leusderweg 158, 3817KD Amersfoort",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4255,7 +4286,8 @@
         "bag_display_name": "Hoefslag 53, 3862KA Nijkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4377,7 +4409,8 @@
         "bag_display_name": "Molenparkweg 7, 6741ZP Lunteren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4475,7 +4508,8 @@
         "bag_display_name": "Neptunusplein 70, 3814BR Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4577,7 +4611,8 @@
         "bag_display_name": "Amsterdamseweg 47A, 3812RP Amersfoort",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4715,7 +4750,8 @@
         "bag_display_name": "Enghuusweg 13, 3882ML Putten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4877,7 +4913,8 @@
         "bag_display_name": "Groningerstraat 170, 3812EG Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4955,7 +4992,8 @@
         "bag_display_name": "Dorpsstraat 60, 6741AM Lunteren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5081,7 +5119,8 @@
         "bag_display_name": "Ierse Pond 2A, 3825HK Amersfoort",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5243,7 +5282,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5417,7 +5457,8 @@
         "bag_display_name": "Maximaplein 90, 3832JS Leusden",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5495,7 +5536,8 @@
         "bag_display_name": "Nieuwe Markt 9A, 3771CB Barneveld",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5589,7 +5631,8 @@
         "bag_display_name": "De Beurs 61, 3823GA Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5951,7 +5994,8 @@
         "bag_display_name": "Eemplein 18, 3812EA Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6057,7 +6101,8 @@
         "bag_display_name": "van Weedestraat 48, 3761CG Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6167,7 +6212,8 @@
         "bag_display_name": "Albert van Meerveldstraat 90, 3785LS Zwartebroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6677,7 +6723,8 @@
         "bag_display_name": "Neptunusplein 9, 3814BA Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6947,7 +6994,8 @@
         "bag_display_name": "Wiardi Beckmanstraat 491, 3762GP Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7089,7 +7137,8 @@
         "bag_display_name": "Parallelweg 1, 3931MS Woudenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7419,7 +7468,8 @@
         "bag_display_name": "Operaplein 2, 3816JB Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7557,7 +7607,8 @@
         "bag_display_name": "Laanstraat 87A, 3743BC Baarn",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8213,7 +8264,8 @@
         "bag_display_name": "Zonnewijzer 21, 3824EE Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8331,7 +8383,8 @@
         "bag_display_name": "Wiekslag 261, 3815GK Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8385,7 +8438,8 @@
         "bag_display_name": "Westerdorpsstraat 23, 3871AT Hoevelaken",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8459,7 +8513,8 @@
         "bag_display_name": "De Biezenkamp 5d, 3831JA Leusden",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8565,7 +8620,8 @@
         "bag_display_name": "Amersfoortsestraat 70, 3772CK Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9159,7 +9215,8 @@
         "bag_display_name": "'t Plein 29, 3831CR Leusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9317,7 +9374,8 @@
         "bag_display_name": "Nieuwe Markt 5, 3771CB Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9511,7 +9569,8 @@
         "bag_display_name": "Pieter Stastokerf 6, 3813PR Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9953,7 +10012,8 @@
         "bag_display_name": "Emiclaerhof 248, 3823ET Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10035,7 +10095,8 @@
         "bag_display_name": "Hoofdstraat 155C, 3781AD Voorthuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10185,7 +10246,8 @@
         "bag_display_name": "Postweg 4, 3881EC Putten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10247,7 +10309,8 @@
         "bag_display_name": "Ursulapolder 1, 3825LS Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10377,7 +10440,8 @@
         "bag_display_name": "Molenplein 15, 3862JL Nijkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10499,7 +10563,8 @@
         "bag_display_name": "Leusderweg 152, 3817KD Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10633,7 +10698,8 @@
         "bag_display_name": "De Ziel 45, 3751BT Bunschoten-Spakenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10847,7 +10913,8 @@
         "bag_display_name": "Zuidpromenade 6, 3768EM Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10921,7 +10988,8 @@
         "bag_display_name": "Buru 40, 3772EX Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11255,7 +11323,8 @@
         "bag_display_name": "'t Schilt 18, 3931VH Woudenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11453,7 +11522,8 @@
         "bag_display_name": "Dorpsstraat 226, 3925KJ Scherpenzeel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12047,7 +12117,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12125,7 +12196,8 @@
         "bag_display_name": "Balladelaan 208, 3813CG Amersfoort",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12435,7 +12507,8 @@
         "bag_display_name": "Pieter Stastokerf 52, 3813PR Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12561,7 +12634,8 @@
         "bag_display_name": "Ansjovisweg 5a, 3751BL Bunschoten-Spakenburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12683,7 +12757,8 @@
         "bag_display_name": "De Brink 7, 3871AM Hoevelaken",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12893,7 +12968,8 @@
         "bag_display_name": "Weegbreestraat 54-01, 3765XW Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12959,7 +13035,8 @@
         "bag_display_name": "Traaij 153a, 3971GE Driebergen-Rijsenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13013,7 +13090,8 @@
         "bag_display_name": "Gervenhof 29, 3882AR Putten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13087,7 +13165,8 @@
         "bag_display_name": "Ampèrestraat 5, 3861NC Nijkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13241,7 +13320,8 @@
         "bag_display_name": "Oldenbarnevelderweg 155, 3772GE Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14407,7 +14487,8 @@
         "bag_display_name": "Ursulapolder 45, 3825LS Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14477,7 +14558,8 @@
         "bag_display_name": "De Biezenkamp 75, 3831JA Leusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14587,7 +14669,8 @@
         "bag_display_name": "Wiekslag 365, 3815GM Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14697,7 +14780,8 @@
         "bag_display_name": "Dorpsstraat 85, 3881BB Putten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14783,7 +14867,8 @@
         "bag_display_name": "Van Tuyllstraat 18A, 3829AD Hooglanderveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14933,7 +15018,8 @@
         "bag_display_name": "Parallelweg 19, 3764BG Soest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14979,7 +15065,8 @@
         "bag_display_name": "Reigerstraat 8, 3742VP Baarn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15065,7 +15152,8 @@
         "bag_display_name": "Hamseweg 51, 3828AB Hoogland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15127,7 +15215,8 @@
         "bag_display_name": "Zandoogje 2, 3863HS Nijkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15197,7 +15286,8 @@
         "bag_display_name": "Euterpeplein 1, 3816NM Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15711,7 +15801,8 @@
         "bag_display_name": "Arnhemseweg 4, 3817CH Amersfoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15809,7 +15900,8 @@
         "bag_display_name": "Gowthorpeplein 50, 3772CC Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16003,7 +16095,8 @@
         "bag_display_name": "Gervenhof 4, 3882AT Putten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16121,7 +16214,8 @@
         "bag_display_name": "Rademakerstraat 6A, 3769BD Soesterberg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16931,7 +17025,8 @@
         "bag_display_name": "'t Plein 20, 3831CR Leusden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17001,7 +17096,8 @@
         "bag_display_name": "Prof. Krabbelaan 2A, 3741EN Baarn",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17131,7 +17227,8 @@
         "bag_display_name": "Lavendelplein 2, 3773CM Barneveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17241,7 +17338,8 @@
         "bag_display_name": "Wheemplein 31a, 3861BA Nijkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17367,7 +17465,8 @@
         "bag_display_name": "Dorpsplein 14, 3927WC Renswoude",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17685,7 +17784,8 @@
         "bag_display_name": "Raadhuislaan 14, 3951CH Maarn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17851,7 +17951,8 @@
         "bag_display_name": "Schras 9, 6744WT Ederveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18017,7 +18118,8 @@
         "bag_display_name": "Hessenweg 188b, 3791PN Achterveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18083,7 +18185,8 @@
         "bag_display_name": "Van Noortstraat 29a, 3864ES Nijkerkerveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18129,7 +18232,8 @@
         "bag_display_name": "Schoenmakersland 1, 3751KA Bunschoten-Spakenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

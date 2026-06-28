@@ -157,7 +157,8 @@
         "bag_display_name": "Linie 189, 7325DR Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -291,7 +292,8 @@
         "bag_display_name": "Johannes van Vlotenlaan 1, 7412SB Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -505,7 +507,8 @@
         "bag_display_name": "Andriessenplein 34, 7425GZ Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -559,7 +562,8 @@
         "bag_display_name": "Dorpsstraat 18A, 7251BB Vorden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -693,7 +697,8 @@
         "bag_display_name": "De Brink 86, 7206KC Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -935,7 +940,8 @@
         "bag_display_name": "Runneboom 2a, 7232CX Warnsveld",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1357,7 +1363,8 @@
         "bag_display_name": "Flora 54, 7422LL Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1563,7 +1570,8 @@
         "bag_display_name": "De Eglantier 234, 7329DH Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1741,7 +1749,8 @@
         "bag_display_name": "Dorpsstraat 28, 7391DE Twello",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1835,7 +1844,8 @@
         "bag_display_name": "Raadhuisstraat 24, 7255BN Hengelo (Gld)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1889,7 +1899,8 @@
         "bag_display_name": "Operaplein 110, 7323EL Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1987,7 +1998,8 @@
         "bag_display_name": "Boreelplein 38A, 7411EH Deventer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2117,7 +2129,8 @@
         "bag_display_name": "Polsbroek 77, 7201BX Zutphen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2331,7 +2344,8 @@
         "bag_display_name": "Andriessenplein 35, 7425GZ Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2725,7 +2739,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2847,7 +2862,8 @@
         "bag_display_name": "Ruys de Beerenbrouckstraat 8, 7204MN Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3065,7 +3081,8 @@
         "bag_display_name": "Timmermansweg 37, 7433BK Schalkhaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3123,7 +3140,8 @@
         "bag_display_name": "de Bleek 4, 7251SG Vorden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3317,7 +3335,8 @@
         "bag_display_name": "Jan Vermeerstraat 53, 7204CL Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3407,7 +3426,8 @@
         "bag_display_name": "Duistervoordseweg 21, 7391CA Twello",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3605,7 +3625,8 @@
         "bag_display_name": "De Eglantier 668, 7329DP Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3691,7 +3712,8 @@
         "bag_display_name": "Imkersplaats 8, 7328CG Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3845,7 +3867,8 @@
         "bag_display_name": "Molenstraat 12, 7391AH Twello",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3955,7 +3978,8 @@
         "bag_display_name": "Nobelstraat 22, 6961XW Eerbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4089,7 +4113,8 @@
         "bag_display_name": "Zutphensestraat 3A, 6971EE Brummen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4183,7 +4208,8 @@
         "bag_display_name": "Broederenplein 5, 7411RL Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4521,7 +4547,8 @@
         "bag_display_name": "Linie 313, 7325DS Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4599,7 +4626,8 @@
         "bag_display_name": "Smedenstraat 106, 7411RJ Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4721,7 +4749,8 @@
         "bag_display_name": "Ruys de Beerenbrouckstraat 14, 7204MN Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4843,7 +4872,8 @@
         "bag_display_name": "Ambachtstraat 38, 6971BR Brummen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4897,7 +4927,8 @@
         "bag_display_name": "Boreelplein 4, 7411EH Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4975,7 +5006,8 @@
         "bag_display_name": "Rudolf Steinerlaan 47, 7207PV Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5397,7 +5429,8 @@
         "bag_display_name": "Flora 2, 7422LL Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5603,7 +5636,8 @@
         "bag_display_name": "Larenseweg 18A, 7437BM Bathmen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5757,7 +5791,8 @@
         "bag_display_name": "Loenenseweg 3A, 6961CL Eerbeek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5911,7 +5946,8 @@
         "bag_display_name": "Michiel de Ruyterstraat 101, 7391CT Twello",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6605,7 +6641,8 @@
         "bag_display_name": "Nijverheidstraat 22, 7213DB Gorssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6707,7 +6744,8 @@
         "bag_display_name": "De Eglantier 606, 7329DN Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6809,7 +6847,8 @@
         "bag_display_name": "Korianderplein 61, 7322NB Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6983,7 +7022,8 @@
         "bag_display_name": "Pieter de Hooghstraat 5, 7412RV Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7061,7 +7101,8 @@
         "bag_display_name": "Breegraven 132, 7231JJ Warnsveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7267,7 +7308,8 @@
         "bag_display_name": "Emmerikseweg 7, 7204SB Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7333,7 +7375,8 @@
         "bag_display_name": "Deltaplein 15, 7417BG Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7483,7 +7526,8 @@
         "bag_display_name": "Operaplein 19, 7323EL Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7541,7 +7585,8 @@
         "bag_display_name": "Spittaalstraat 22, 7201ED Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7775,7 +7820,8 @@
         "bag_display_name": "Beestenmarkt 3, 7413ZA Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7881,7 +7927,8 @@
         "bag_display_name": "Weg naar Laren 126, 7203HR Zutphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7979,7 +8026,8 @@
         "bag_display_name": "Zwaluwenburg 41, 7423DV Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8077,7 +8125,8 @@
         "bag_display_name": "Smidsweg 23, 7433BM Schalkhaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8199,7 +8248,8 @@
         "bag_display_name": "Snijdersplaats 10, 7328VJ Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8293,7 +8343,8 @@
         "bag_display_name": "Dorpsstraat 14, 7221BP Steenderen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8563,7 +8614,8 @@
         "bag_display_name": "Stuijvenburchstraat 107A, 6961CV Eerbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8693,7 +8745,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8795,7 +8848,8 @@
         "bag_display_name": "Raadhuisstraat 53, 7255BL Hengelo (Gld)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8985,7 +9039,8 @@
         "bag_display_name": "Distelvlinderlaan 38, 7323XA Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9219,7 +9274,8 @@
         "bag_display_name": "Zutphenseweg 26A, 7251DK Vorden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9345,7 +9401,8 @@
         "bag_display_name": "Schurinklaan 16a, 7211DG Eefde",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9427,7 +9484,8 @@
         "bag_display_name": "Hoofdweg 86, 7382BK Klarenbeek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9629,7 +9687,8 @@
         "bag_display_name": "Rijksstraatweg 77, 7383AM Voorst",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9755,7 +9814,8 @@
         "bag_display_name": "Lochemseweg 130a, 7217RK Harfsen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9833,7 +9893,8 @@
         "bag_display_name": "Eerbeekseweg 24, 7371CH Loenen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9915,7 +9976,8 @@
         "bag_display_name": "Cederlaan 25, 6951MN Dieren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10413,7 +10475,8 @@
         "bag_display_name": "Handelskade 75, 7417DH Deventer",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -10523,7 +10586,8 @@
         "bag_display_name": "Ruurloseweg 52, 7255DJ Hengelo (Gld)",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

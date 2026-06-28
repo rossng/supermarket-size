@@ -153,7 +153,8 @@
         "bag_display_name": "Espenhof 20, 3355BM Papendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -383,7 +384,8 @@
         "bag_display_name": "Lekkenburg 3b, 2804XA Gouda",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -453,7 +455,8 @@
         "bag_display_name": "Reeweg 88, 3342AC Hendrik-Ido-Ambacht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1087,7 +1090,8 @@
         "bag_display_name": "Makado-Center 41, 2951EH Alblasserdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1325,7 +1329,8 @@
         "bag_display_name": "Maltaplein 52, 3059XW Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1403,7 +1408,8 @@
         "bag_display_name": "Markt 50, 2801JL Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1549,7 +1555,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2539,7 +2546,8 @@
         "bag_display_name": "Picassopassage 38, 2907ME Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3277,7 +3285,8 @@
         "bag_display_name": "Ridderhof 25, 2981ET Ridderkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3531,7 +3540,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3761,7 +3771,8 @@
         "bag_display_name": "Koningin Wilhelminaplein 42, 2741EB Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4299,7 +4310,8 @@
         "bag_display_name": "Amsteldiep 45, 2904EB Capelle aan den IJssel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4809,7 +4821,8 @@
         "bag_display_name": "De Smidse 16, 2841XW Moordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5443,7 +5456,8 @@
         "bag_display_name": "Middenmolenplein 64, 2807GZ Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5613,7 +5627,8 @@
         "bag_display_name": "Raadhuisplein 58a, 2922AH Krimpen aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5739,7 +5754,8 @@
         "bag_display_name": "Kerkweg 100, 2941BP Lekkerkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5893,7 +5909,8 @@
         "bag_display_name": "Cellebroedersstraat 1, 2871AS Schoonhoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6371,7 +6388,8 @@
         "bag_display_name": "Binnendoor 4, 2741NP Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -6509,7 +6527,8 @@
         "bag_display_name": "De Markt 317, 2931EC Krimpen aan de Lek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6663,7 +6682,8 @@
         "bag_display_name": "Lijnbaanplein 12, 3381EA Giessenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7263,7 +7283,8 @@
         "bag_display_name": "Reigerhof 150, 2914KE Nieuwerkerk aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -7333,7 +7354,8 @@
         "bag_display_name": "Burgemeester van Dijkesingel 53, 2809RB Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7459,7 +7481,8 @@
         "bag_display_name": "Planetenlaan 80a, 2957SN Nieuw-Lekkerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7641,7 +7664,8 @@
         "bag_display_name": "Bermweg 69A, 2906LB Capelle aan den IJssel",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8151,7 +8175,8 @@
         "bag_display_name": "De Smidse 17, 2841XW Moordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8233,7 +8258,8 @@
         "bag_display_name": "Olmenlaan 14, 2982CP Ridderkerk",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -8335,7 +8361,8 @@
         "bag_display_name": "Zuidplashof 2, 2743CR Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8449,7 +8476,8 @@
         "bag_display_name": "Hoofdweg-Zuid 64c, 2912EE Nieuwerkerk aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8511,7 +8539,8 @@
         "bag_display_name": "Kranepoort 14, 2831AK Gouderak",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8597,7 +8626,8 @@
         "bag_display_name": "De Genestetstraat 36, 2985CG Ridderkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8647,7 +8677,8 @@
         "bag_display_name": "Scheldeplein 5a, 2953EV Alblasserdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8817,7 +8848,8 @@
         "bag_display_name": "Raadhuisplein 87, 2922AJ Krimpen aan den IJssel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8895,7 +8927,8 @@
         "bag_display_name": "Vechtstraat 1, 2987CX Ridderkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9377,7 +9410,8 @@
         "bag_display_name": "Havenstraat 9, 2984AC Ridderkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9915,7 +9949,8 @@
         "bag_display_name": "Amsteldiep 1, 2904EA Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -10549,7 +10584,8 @@
         "bag_display_name": "Poldermolenplein 27, 2807GX Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -11027,7 +11063,8 @@
         "bag_display_name": "Promenade 5, 2741NL Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -11153,7 +11190,8 @@
         "bag_display_name": "Plantageweg 31a, 2951GN Alblasserdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11463,7 +11501,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11693,7 +11732,8 @@
         "bag_display_name": "Prado 1, 2907ZG Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12067,7 +12107,8 @@
         "bag_display_name": "Plataanstraat 6, 2803SW Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12137,7 +12178,8 @@
         "bag_display_name": "Nieuwe Gouwe O.Z. 2d, 2801SB Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13307,7 +13349,8 @@
         "bag_display_name": "Raadhuisplein 116, 2922AK Krimpen aan den IJssel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13365,7 +13408,8 @@
         "bag_display_name": "Planetenlaan 35, 2957SL Nieuw-Lekkerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13487,7 +13531,8 @@
         "bag_display_name": "Dorpsstraat 5a, 2973AB Molenaarsgraaf",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13553,7 +13598,8 @@
         "bag_display_name": "Olm 7, 2925CJ Krimpen aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13715,7 +13761,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13833,7 +13880,8 @@
         "bag_display_name": "De Korf 8a, 2924AH Krimpen aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14063,7 +14111,8 @@
         "bag_display_name": "Ruigenburg 2a, 2804VT Gouda",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15371,7 +15420,8 @@
         "bag_display_name": "Koperwiek 35, 2903AD Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15971,7 +16021,8 @@
         "bag_display_name": "Reigerhof 113, 2914KE Nieuwerkerk aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16193,7 +16244,8 @@
         "bag_display_name": "Jan van Goijenstraat 5, 3351JM Papendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16287,7 +16339,8 @@
         "bag_display_name": "Miereakker 18, 2811BB Reeuwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16765,7 +16818,8 @@
         "bag_display_name": "Promenade 89, 2741NL Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16823,7 +16877,8 @@
         "bag_display_name": "Sportlaan 4a, 2806HC Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17061,7 +17116,8 @@
         "bag_display_name": "Siciliëboulevard 402, 3059XT Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -17239,7 +17295,8 @@
         "bag_display_name": "Fluwelensingel 58, 2806CC Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17321,7 +17378,8 @@
         "bag_display_name": "Wagenerf 1, 3421JB Oudewater",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17495,7 +17553,8 @@
         "bag_display_name": "Westerkade 4, 2802SL Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17593,7 +17652,8 @@
         "bag_display_name": "Hof ter Bergen 20, 2861DR Bergambacht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18583,7 +18643,8 @@
         "bag_display_name": "Picassopassage 18A, 2907ME Capelle aan den IJssel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -18733,7 +18794,8 @@
         "bag_display_name": "Amerstraat 2a, 2987CA Ridderkerk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19363,7 +19425,8 @@
         "bag_display_name": "Ridderhof 61, 2981ET Ridderkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20111,7 +20174,8 @@
         "bag_display_name": "De Schoof 68, 3341EB Hendrik-Ido-Ambacht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20341,7 +20405,8 @@
         "bag_display_name": "Ruigenburg 2a, 2804VT Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20651,7 +20716,8 @@
         "bag_display_name": "Ambachtsplein 30, 3068GV Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20757,7 +20823,8 @@
         "bag_display_name": "De Brink 1, 2925VP Krimpen aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21031,7 +21098,8 @@
         "bag_display_name": "Wilgenplein 2, 2951EM Alblasserdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21509,7 +21577,8 @@
         "bag_display_name": "Promenade 91, 2741NL Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -21555,7 +21624,8 @@
         "bag_display_name": "Sportlaan 4b, 2806HC Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22093,7 +22163,8 @@
         "bag_display_name": "Amsteldiep 27, 2904EA Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -22235,7 +22306,8 @@
         "bag_display_name": "Albert Plesmanstraat 21, 2871HJ Schoonhoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22321,7 +22393,8 @@
         "bag_display_name": "Schermerhoek 509, 2905TW Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22551,7 +22624,8 @@
         "bag_display_name": "Maria Danneels erf 25, 2907BD Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22709,7 +22783,8 @@
         "bag_display_name": "Populierenlaan 5, 2821BA Stolwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22835,7 +22910,8 @@
         "bag_display_name": "Margrietstraat 1, 2964CE Groot-Ammers",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22909,7 +22985,8 @@
         "bag_display_name": "Kleine Haven 11, 2851BP Haastrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23063,7 +23140,8 @@
         "bag_display_name": "Goudseweg 22, 2821BG Stolwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23381,7 +23459,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23503,7 +23582,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23649,7 +23729,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23751,7 +23832,8 @@
         "bag_display_name": "Zuidplaslaan 184, 2743CP Waddinxveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -23833,7 +23915,8 @@
         "bag_display_name": "Hoofdstraat 110, 2861AT Bergambacht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23959,7 +24042,8 @@
         "bag_display_name": "Slotplein 16, 2902HP Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24085,7 +24169,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24215,7 +24300,8 @@
         "bag_display_name": "Louwersplein 27, 3343RC Hendrik-Ido-Ambacht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24865,7 +24951,8 @@
         "bag_display_name": "Nieuwe-Marktpassage 30, 2801HV Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25083,7 +25170,8 @@
         "bag_display_name": "Vuurdoornlaan 10, 2803BB Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25301,7 +25389,8 @@
         "bag_display_name": "Joostenplein 35, 3421TC Oudewater",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25479,7 +25568,8 @@
         "bag_display_name": "Thorbeckelaan 1, 2805CA Gouda",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25633,7 +25723,8 @@
         "bag_display_name": "Adam van Vianenstraat 100, 2871VV Schoonhoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25751,7 +25842,8 @@
         "bag_display_name": "Constantijn Huygensstraat 110, 2802LZ Gouda",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25805,7 +25897,8 @@
         "bag_display_name": "Sportlaan 1, 2951HL Alblasserdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25963,7 +26056,8 @@
         "bag_display_name": "De Wetering 9, 2935BS Ouderkerk aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26085,7 +26179,8 @@
         "bag_display_name": "Waterlinie 62, 2965CC Nieuwpoort",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26215,7 +26310,8 @@
         "bag_display_name": "Lindenstraat 4, 2971AR Bleskensgraaf ca",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26277,7 +26373,8 @@
         "bag_display_name": "Kerkstraat 10, 2959BS Streefkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

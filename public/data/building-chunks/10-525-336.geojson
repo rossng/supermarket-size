@@ -141,7 +141,8 @@
         "bag_display_name": "Henri Dunantplein 6, 2181EM Hillegom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -575,7 +576,8 @@
         "bag_display_name": "Markenburg 99, 2135DS Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -633,7 +635,8 @@
         "bag_display_name": "Delflandplein 31, 1062HP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1097,7 +1100,8 @@
         "bag_display_name": "Brink 20, 1188NC Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1283,7 +1287,8 @@
         "bag_display_name": "Rembrandthof 49, 1181ZL Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1645,7 +1650,8 @@
         "bag_display_name": "Groenhof 144, 1186EX Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1775,7 +1781,8 @@
         "bag_display_name": "Sierplein 78, 1065LN Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1965,7 +1972,8 @@
         "bag_display_name": "Grote Houtstraat 182, 2011SZ Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2035,7 +2043,8 @@
         "bag_display_name": "Kruisstraat 10, 2011PX Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2173,7 +2182,8 @@
         "bag_display_name": "Spoorwegstraat 1, 2015BL Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2263,7 +2273,8 @@
         "bag_display_name": "Krugerplein 3, 1092JZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2369,7 +2380,8 @@
         "bag_display_name": "Zandvoortselaan 169, 2106AM Heemstede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2477,7 +2489,8 @@
         "bag_display_name": "Van Baerlestraat 33A, 1071AP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2639,7 +2652,8 @@
         "bag_display_name": "Gerrit van der Veenstraat 57, 1077DP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2781,7 +2795,8 @@
         "bag_display_name": "Bourgondischelaan 14, 1181DD Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2955,7 +2970,8 @@
         "bag_display_name": "Stadionweg 159, 1076NN Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3021,7 +3037,8 @@
         "bag_display_name": "Johannes Verhulststraat 149-1, 1071NB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3115,7 +3132,8 @@
         "bag_display_name": "Postjesweg 65-H, 1057DW Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3197,7 +3215,8 @@
         "bag_display_name": "August Allebéplein 12, 1062AC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -3295,7 +3314,8 @@
         "bag_display_name": "Haarlemmerdijk 1A, 1013JZ Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3457,7 +3477,8 @@
         "bag_display_name": "Westermarkt 21, 1016DJ Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3551,7 +3572,8 @@
         "bag_display_name": "Westerstraat 79-H, 1015LW Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3625,7 +3647,8 @@
         "bag_display_name": "Klaverweide 10, 1511XW Oostzaan",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3703,7 +3726,8 @@
         "bag_display_name": "Nieuwmarkt 18, 1012CR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3765,7 +3789,8 @@
         "bag_display_name": "Vijzelstraat 113, 1017HJ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3871,7 +3896,8 @@
         "bag_display_name": "Elandsgracht 13A, 1016TM Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4025,7 +4051,8 @@
         "bag_display_name": "Overtoom 116-H, 1054HM Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4207,7 +4234,8 @@
         "bag_display_name": "Maalderij 31, 1185ZC Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4365,7 +4393,8 @@
         "bag_display_name": "Wibautstraat 80, 1091GP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4491,7 +4520,8 @@
         "bag_display_name": "Händelplein 185, 2151NN Nieuw-Vennep",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4633,7 +4663,8 @@
         "bag_display_name": "Spaarndammerdijk 3, 1013ZM Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4843,7 +4874,8 @@
         "bag_display_name": "Cornelis Troostplein 11, 1072JJ Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4945,7 +4977,8 @@
         "bag_display_name": "Westelijk Halfrond 70, 1183JG Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4995,7 +5028,8 @@
         "bag_display_name": "Verzetstraat 10, 1541HB Koog aan de Zaan",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5049,7 +5083,8 @@
         "bag_display_name": "Genderenplein 13, 2134DP Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5159,7 +5194,8 @@
         "bag_display_name": "Gulden Winckelplantsoen 5, 1055EK Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5209,7 +5245,8 @@
         "bag_display_name": "Bos en Lommerweg 117, 1055DR Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5591,7 +5628,8 @@
         "bag_display_name": "Willem Kraanstraat 2, 1063MG Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5649,7 +5687,8 @@
         "bag_display_name": "Dennenlaan 45, 1161CL Zwanenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5727,7 +5766,8 @@
         "bag_display_name": "Pieter Calandlaan 212A, 1069LA Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5821,7 +5861,8 @@
         "bag_display_name": "Zeemanlaan 2A, 1171BD Badhoevedorp",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5879,7 +5920,8 @@
         "bag_display_name": "Jan Pieter Heijestraat 132-H, 1054MJ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6025,7 +6067,8 @@
         "bag_display_name": "Scheldeplein 5, 1078GR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6151,7 +6194,8 @@
         "bag_display_name": "Dorpsstraat 537A, 1566BL Assendelft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6319,7 +6363,8 @@
         "bag_display_name": "Kinkerstraat 89, 1053DJ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6381,7 +6426,8 @@
         "bag_display_name": "Rijnstraat 139, 1079HC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6523,7 +6569,8 @@
         "bag_display_name": "Prins Hendrikkade 20A, 1012TL Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6685,7 +6732,8 @@
         "bag_display_name": "Utrechtsestraat 17, 1017VH Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6747,7 +6795,8 @@
         "bag_display_name": "Drossestraat 11, 2011XW Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6845,7 +6894,8 @@
         "bag_display_name": "Frederiksplein 1A, 1017XK Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7595,7 +7645,8 @@
         "bag_display_name": "Jodenbreestraat 21, 1011NH Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -7653,7 +7704,8 @@
         "bag_display_name": "Sarphatistraat 141K, 1018GD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7937,7 +7989,8 @@
         "bag_display_name": "Blekersvaartweg 57, 2101CD Heemstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7999,7 +8052,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8105,7 +8159,8 @@
         "bag_display_name": "Dudokplein 10, 1971EP IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8243,7 +8298,8 @@
         "bag_display_name": "Van Limburg Stirumstraat 44, 1051BC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8361,7 +8417,8 @@
         "bag_display_name": "Eerste Jan Steenstraat 53, 1072NB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8407,7 +8464,8 @@
         "bag_display_name": "Langeweide 77, 1507NC Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8501,7 +8559,8 @@
         "bag_display_name": "Santpoorterstraat 41, 2023DB Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8687,7 +8746,8 @@
         "bag_display_name": "Soendaplein 18, 2022BA Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8817,7 +8877,8 @@
         "bag_display_name": "Marsmanplein 222, 2025DV Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9355,7 +9416,8 @@
         "bag_display_name": "Leidseplein 31, 1017PS Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9637,7 +9699,8 @@
         "bag_display_name": "Muiderbos 140, 2134SV Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9887,7 +9950,8 @@
         "bag_display_name": "Kleine Wittenburgerstraat 18, 1018LW Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10113,7 +10177,8 @@
         "bag_display_name": "Oosterdokskade 65, 1011DL Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10315,7 +10380,8 @@
         "bag_display_name": "Bloemendaalseweg 70, 2061CM Bloemendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10417,7 +10483,8 @@
         "bag_display_name": "Schoollaan 23a, 2121GC Bennebroek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10555,7 +10622,8 @@
         "bag_display_name": "Praamplein 4A, 1431CV Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10893,7 +10961,8 @@
         "bag_display_name": "Poldermeesterplein 1, 1432JZ Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -10963,7 +11032,8 @@
         "bag_display_name": "Amstelveenseweg 186-H, 1075XR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11021,7 +11091,8 @@
         "bag_display_name": "Zeilstraat 47-H, 1075SC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11175,7 +11246,8 @@
         "bag_display_name": "Dorpsstraat 72, 1121BZ Landsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11425,7 +11497,8 @@
         "bag_display_name": "Ebbehout 29A-29, 1507EA Zaandam",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11503,7 +11576,8 @@
         "bag_display_name": "Hermitage 4, 1506TX Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -11741,7 +11815,8 @@
         "bag_display_name": "Haarlemmerplein 34, 1013HS Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11811,7 +11886,8 @@
         "bag_display_name": "Bilderdijkstraat 37-H, 1053KK Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11913,7 +11989,8 @@
         "bag_display_name": "Jan Evertsenstraat 24, 1056EC Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12023,7 +12100,8 @@
         "bag_display_name": "Menno Simonszplein 6, 2014SC Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -12101,7 +12179,8 @@
         "bag_display_name": "Weteringschans 165D, 1017XD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12371,7 +12450,8 @@
         "bag_display_name": "Mosveld 129, 1031AD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12417,7 +12497,8 @@
         "bag_display_name": "Bercylaan 5, 1031KP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12491,7 +12572,8 @@
         "bag_display_name": "Jan van Galenstraat 87, 1056BJ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12853,7 +12935,8 @@
         "bag_display_name": "Westwijkplein 7, 1187LS Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13227,7 +13310,8 @@
         "bag_display_name": "John Lennonstraat 265, 1544LT Zaandijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13621,7 +13705,8 @@
         "bag_display_name": "Frederik Hendrikstraat 81, 1052HM Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14143,7 +14228,8 @@
         "bag_display_name": "Beverhof 37B, 1941EC Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -14385,7 +14471,8 @@
         "bag_display_name": "Nieuwezijds Voorburgwal 226, 1012RR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14475,7 +14562,8 @@
         "bag_display_name": "Overtoom 454-H, 1054JW Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -14521,7 +14609,8 @@
         "bag_display_name": "Lambertus Zijlplein 8A, 1067JS Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14595,7 +14684,8 @@
         "bag_display_name": "Maasstraat 47, 1078HD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14753,7 +14843,8 @@
         "bag_display_name": "Peter Schatstraat 65, 1082MX Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14807,7 +14898,8 @@
         "bag_display_name": "Rijnstraat 33A, 1078PW Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14909,7 +15001,8 @@
         "bag_display_name": "Stadionplein 115, 1076CK Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14955,7 +15048,8 @@
         "bag_display_name": "Molenwijk 35, 1035EG Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15017,7 +15111,8 @@
         "bag_display_name": "Lageweg 1-W1, 2064KZ Spaarndam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15683,7 +15778,8 @@
         "bag_display_name": "ms. van Riemsdijkweg 188, 1033RD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16221,7 +16317,8 @@
         "bag_display_name": "Parnassusweg 707, 1077DG Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16335,7 +16432,8 @@
         "bag_display_name": "Casablancastraat 13, 2037AZ Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16453,7 +16551,8 @@
         "bag_display_name": "Bloemendaalseweg 240, 2051GM Overveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16515,7 +16614,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16585,7 +16685,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16655,7 +16756,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16713,7 +16815,8 @@
         "bag_display_name": "Buitenveldertselaan 156, 1081AB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16799,7 +16902,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16941,7 +17045,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -17007,7 +17112,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17181,7 +17287,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18959,7 +19066,8 @@
         "bag_display_name": "Gelderlandplein 47, 1082KZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -19093,7 +19201,8 @@
         "bag_display_name": "Vrieschgroenstraat 5, 1503MC Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19267,7 +19376,8 @@
         "bag_display_name": "Osdorpplein 469, 1068SZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19461,7 +19571,8 @@
         "bag_display_name": "Burgemeester van Stamplein 270, 2132BH Hoofddorp",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19731,7 +19842,8 @@
         "bag_display_name": "Koningin Julianaplein 10A, 1502DV Zaandam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19785,7 +19897,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19971,7 +20084,8 @@
         "bag_display_name": "Gaaspstraat 41-H, 1079VC Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20101,7 +20215,8 @@
         "bag_display_name": "Nieuwe Weteringstraat 24, 1017ZX Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20311,7 +20426,8 @@
         "bag_display_name": "Pijnackerstraat 36, 1072JV Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20409,7 +20525,8 @@
         "bag_display_name": "Graan voor Visch 14005, 2132VW Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20851,7 +20968,8 @@
         "bag_display_name": "Zeewijkplein 111, 1974PA IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20937,7 +21055,8 @@
         "bag_display_name": "Admiraal De Ruijterweg 56C, 1056GL Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21211,7 +21330,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21401,7 +21521,8 @@
         "bag_display_name": "Werfstraat 7, 2021BP Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21739,7 +21860,8 @@
         "bag_display_name": "Poldermeesterplein 7, 1432JZ Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -21929,7 +22051,8 @@
         "bag_display_name": "Bronsteeweg 2, 2101AC Heemstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22071,7 +22194,8 @@
         "bag_display_name": "Menno Simonszplein 3, 2014SC Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22117,7 +22241,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22231,7 +22356,8 @@
         "bag_display_name": "Casablancastraat 11, 2037AZ Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -22753,7 +22879,8 @@
         "bag_display_name": "Dr. H.G. Scholtenstraat 5B, 1508EB Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22815,7 +22942,8 @@
         "bag_display_name": "Stormhoek 71, 1506SW Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22925,7 +23053,8 @@
         "bag_display_name": "Dorpsstraat 705, 1566EE Assendelft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23003,7 +23132,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23305,7 +23435,8 @@
         "bag_display_name": "Buitenlanden 10, 1948PD Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -23391,7 +23522,8 @@
         "bag_display_name": "Burgemeester van Stamplein 48, 2132BH Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -23497,7 +23629,8 @@
         "bag_display_name": "Lange Vonder 122, 1035JZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23643,7 +23776,8 @@
         "bag_display_name": "Ramplaan 51A, 2015GS Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23713,7 +23847,8 @@
         "bag_display_name": "Gedempte Oude Gracht 56, 2011GS Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23975,7 +24110,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24129,7 +24265,8 @@
         "bag_display_name": "Eksterlaan 69, 2026XB Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24271,7 +24408,8 @@
         "bag_display_name": "Amsterdamstraat 30A, 2032PR Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24485,7 +24623,8 @@
         "bag_display_name": "Molenwerf 34, 1541WR Koog aan de Zaan",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -24543,7 +24682,8 @@
         "bag_display_name": "Wijkerstraatweg 133, 1951EC Velsen-Noord",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -24689,7 +24829,8 @@
         "bag_display_name": "Meester Cornelisstraat 52-RD, 2023DJ Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -24767,7 +24908,8 @@
         "bag_display_name": "Oranjeboomstraat 126, 2013WC Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24865,7 +25007,8 @@
         "bag_display_name": "Prinses Beatrixplein 1A, 2033WB Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24983,7 +25126,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25533,7 +25677,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25735,7 +25880,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25821,7 +25967,8 @@
         "bag_display_name": "Schalkwijkerstraat 149, 2033JG Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26251,7 +26398,8 @@
         "bag_display_name": "Mentonpassage 17, 2037AB Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26501,7 +26649,8 @@
         "bag_display_name": "Rijksstraatweg 283, 2024DH Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26559,7 +26708,8 @@
         "bag_display_name": "Anthony Fokkerlaan 47-I, 2024JB Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26621,7 +26771,8 @@
         "bag_display_name": "Marktplein 16, 1972GB IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26687,7 +26838,8 @@
         "bag_display_name": "Planetenweg 74, 1973BH IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26837,7 +26989,8 @@
         "bag_display_name": "Binnenweg 16, 2101JK Heemstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26935,7 +27088,8 @@
         "bag_display_name": "Slotermeerlaan 67, 1064HA Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27029,7 +27183,8 @@
         "bag_display_name": "Zuideinde 168, 1551EM Westzaan",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27123,7 +27278,8 @@
         "bag_display_name": "Dorpsstraat 387, 1566BE Assendelft",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -27213,7 +27369,8 @@
         "bag_display_name": "Zilverschoonplein 38A, 1508CL Zaandam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27339,7 +27496,8 @@
         "bag_display_name": "Drielse Wetering 48, 1509KN Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27525,7 +27683,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27687,7 +27846,8 @@
         "bag_display_name": "Galle Promenade 45, 1991PP Velserbroek",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28129,7 +28289,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -28223,7 +28384,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28285,7 +28447,8 @@
         "bag_display_name": "Bilderdijkstraat 126-H, 1053KZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28503,7 +28666,8 @@
         "bag_display_name": "Hannie Schaftplein 1a, 1511VT Oostzaan",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28621,7 +28785,8 @@
         "bag_display_name": "Tweede Nassaustraat 23, 1052BK Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28811,7 +28976,8 @@
         "bag_display_name": "Rijnstraat 48-H, 1078RD Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28921,7 +29087,8 @@
         "bag_display_name": "Meeuwenlaan 76, 1021JK Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29183,7 +29350,8 @@
         "bag_display_name": "Marie Heinekenplein 25, 1072MH Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29293,7 +29461,8 @@
         "bag_display_name": "Sloterkade 110, 1058HL Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29495,7 +29664,8 @@
         "bag_display_name": "Sierplein 6, 1065LM Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29581,7 +29751,8 @@
         "bag_display_name": "Tussen Meer 1A, 1068EX Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30015,7 +30186,8 @@
         "bag_display_name": "Markenburg 97, 2135DS Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -30101,7 +30273,8 @@
         "bag_display_name": "Warmoesstraat 163, 1012JC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -30147,7 +30320,8 @@
         "bag_display_name": "Aalburgplein 63, 2134DM Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31043,7 +31217,8 @@
         "bag_display_name": "Belgiëplein 106, 1066SC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31805,7 +31980,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31891,7 +32067,8 @@
         "bag_display_name": "Burgemeester van Stamplein 48, 2132BH Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -32045,7 +32222,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32439,7 +32617,8 @@
         "bag_display_name": "Mercatorplein 6-1, 1057CB Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32501,7 +32680,8 @@
         "bag_display_name": "Europaboulevard 19, 1079PC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32583,7 +32763,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32757,7 +32938,8 @@
         "bag_display_name": "Behouden Haven 7A, 1506VA Zaandam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33059,7 +33241,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33277,7 +33460,8 @@
         "bag_display_name": "Elandsgracht 118A-1, 1016VB Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33331,7 +33515,8 @@
         "bag_display_name": "Arent Janszoon Ernststraat 665, 1082LG Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33437,7 +33622,8 @@
         "bag_display_name": "Houtplein 18A, 2012DH Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33639,7 +33825,8 @@
         "bag_display_name": "Haarlemmerdijk 164, 1013JK Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33757,7 +33944,8 @@
         "bag_display_name": "Zandvoortselaan 18, 2106CN Heemstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33915,7 +34103,8 @@
         "bag_display_name": "Van der Hooplaan 104, 1185GH Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -33973,7 +34162,8 @@
         "bag_display_name": "Weteringschans 133-H, 1017SC Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34027,7 +34217,8 @@
         "bag_display_name": "Jan Pieter Heijestraat 105, 1053GN Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34105,7 +34296,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -34167,7 +34359,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34217,7 +34410,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34283,7 +34477,8 @@
         "bag_display_name": "Ceintuurbaan 402-H, 1074EA Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34473,7 +34668,8 @@
         "bag_display_name": "Haarlemmerstraat 165, 1013EP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34587,7 +34783,8 @@
         "bag_display_name": "Hoofddorpweg 2, 1058PB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34753,7 +34950,8 @@
         "bag_display_name": "Olympiaplein 160, 1076AM Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34811,7 +35009,8 @@
         "bag_display_name": "Bilderdijkstraat 108-H, 1053KZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34909,7 +35108,8 @@
         "bag_display_name": "Marktplein 7, 1972GA IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34987,7 +35187,8 @@
         "bag_display_name": "Hornweg 185, 1432GH Aalsmeer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35093,7 +35294,8 @@
         "bag_display_name": "Pieter Calandlaan 705, 1069SC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35191,7 +35393,8 @@
         "bag_display_name": "Zijlweg 96-100, 2013DM Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35237,7 +35440,8 @@
         "bag_display_name": "Graftermeerstraat 28, 2131AC Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35331,7 +35535,8 @@
         "bag_display_name": "Vijfhuizerweg 510, 2141CV Vijfhuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35401,7 +35606,8 @@
         "bag_display_name": "Samoaweg 24, 1432BZ Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -36053,7 +36259,8 @@
         "bag_display_name": "Pieter Calandlaan 808, 1060TZ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36415,7 +36622,8 @@
         "bag_display_name": "Groenhof 165, 1186EZ Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -37701,7 +37909,8 @@
         "bag_display_name": "Rembrandtweg 621, 1181GV Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37823,7 +38032,8 @@
         "bag_display_name": "Ferdinand Bolstraat 89B, 1072LD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37925,7 +38135,8 @@
         "bag_display_name": "Westerstraat 98-H, 1015MN Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37995,7 +38206,8 @@
         "bag_display_name": "Gedempte Oude Gracht 66, 2011GT Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38085,7 +38297,8 @@
         "bag_display_name": "Buitenveldertselaan 184, 1081AC Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38231,7 +38444,8 @@
         "bag_display_name": "Kruisstraat 51, 2011PW Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38297,7 +38511,8 @@
         "bag_display_name": "Hendrik Jacobszstraat 9-H, 1075PA Amsterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38507,7 +38722,8 @@
         "bag_display_name": "Wolvenstraat 32, 1016EP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38577,7 +38793,8 @@
         "bag_display_name": "Spaarndammerstraat 544, 1013TH Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38679,7 +38896,8 @@
         "bag_display_name": "Baarsjesweg 303-H, 1058AH Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38817,7 +39035,8 @@
         "bag_display_name": "Sluisplein 41, 1191GV Ouderkerk aan de Amstel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -39567,7 +39786,8 @@
         "bag_display_name": "Jodenbreestraat 11, 1011NG Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -41345,7 +41565,8 @@
         "bag_display_name": "Gelderlandplein 118, 1082LB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -41391,7 +41612,8 @@
         "bag_display_name": "Osdorpplein 1014, 1068TG Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -41827,7 +42049,8 @@
         "bag_display_name": "Julianaplein 48, 1097DN Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -41985,7 +42208,8 @@
         "bag_display_name": "Gedempt Hamerkanaal 223, 1021KP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42443,7 +42667,8 @@
         "bag_display_name": "Engelenburg 70, 2036RS Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42661,7 +42886,8 @@
         "bag_display_name": "Skagerrak 204, 2133DW Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -42747,7 +42973,8 @@
         "bag_display_name": "Marktlaan 31, 2132DL Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -42865,7 +43092,8 @@
         "bag_display_name": "Nieuwe Gouw 3, 1121GW Landsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42975,7 +43203,8 @@
         "bag_display_name": "Westeinde 26, 1511MA Oostzaan",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43057,7 +43286,8 @@
         "bag_display_name": "Jonkheer Mockkade 6, 2181JH Hillegom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43175,7 +43405,8 @@
         "bag_display_name": "Kastelenstraat 70, 1083CD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43301,7 +43532,8 @@
         "bag_display_name": "Händelplein 197, 2151NN Nieuw-Vennep",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -43391,7 +43623,8 @@
         "bag_display_name": "Sara Burgerhartstraat 80, 1055LD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43461,7 +43694,8 @@
         "bag_display_name": "Delflandplein 186, 1062HW Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43579,7 +43813,8 @@
         "bag_display_name": "Alberdingk Thijmstraat 21, 1054AH Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43797,7 +44032,8 @@
         "bag_display_name": "Skagerrak 196, 2133DW Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -43851,7 +44087,8 @@
         "bag_display_name": "Zuideinde 280, 1035PM Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43981,7 +44218,8 @@
         "bag_display_name": "Hemonylaan 25A, 1074BJ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44095,7 +44333,8 @@
         "bag_display_name": "Professor Donderslaan 1, 2035EG Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44217,7 +44456,8 @@
         "bag_display_name": "Marktplein 15, 2132DA Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44363,7 +44603,8 @@
         "bag_display_name": "Canopusplein 3, 1974AS IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44469,7 +44710,8 @@
         "bag_display_name": "Amsterdamseweg 188, 1182HL Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44923,7 +45165,8 @@
         "bag_display_name": "Groenhof 127, 1186EX Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44969,7 +45212,8 @@
         "bag_display_name": "Bezaanjachtplein 289, 1034CR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -45075,7 +45319,8 @@
         "bag_display_name": "August Allebéplein 269, 1062AB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45189,7 +45434,8 @@
         "bag_display_name": "Lorentzplein 31, 1171BB Badhoevedorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45347,7 +45593,8 @@
         "bag_display_name": "Gibraltar 15, 1503BM Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45437,7 +45684,8 @@
         "bag_display_name": "Boere Jonkerplein 1, 1508HA Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45643,7 +45891,8 @@
         "bag_display_name": "Aalbersestraat 273, 1067MD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45785,7 +46034,8 @@
         "bag_display_name": "Osdorpplein 572, 1068TB Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45871,7 +46121,8 @@
         "bag_display_name": "Olmenlaan 139, 1161JV Zwanenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45917,7 +46168,8 @@
         "bag_display_name": "Bezaanjachtplein 275, 1034CR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -45967,7 +46219,8 @@
         "bag_display_name": "Beethovenstraat 75, 1077HP Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46081,7 +46334,8 @@
         "bag_display_name": "Bloemendaalseweg 20a, 2061CK Bloemendaal",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46175,7 +46429,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46265,7 +46520,8 @@
         "bag_display_name": "Jan van Goyenstraat 21A, 2102CA Heemstede",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46423,7 +46679,8 @@
         "bag_display_name": "Van der Hooplaan 180, 1185GK Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -46525,7 +46782,8 @@
         "bag_display_name": "Dorpsstraat 23, 1191BH Ouderkerk aan de Amstel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46591,7 +46849,8 @@
         "bag_display_name": "Boomgaardlaan 100, 1036KJ Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46813,7 +47072,8 @@
         "bag_display_name": "Rijksstraatweg 517, 2025DE Haarlem",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46895,7 +47155,8 @@
         "bag_display_name": "Glipper Dreef 105, 2104WC Heemstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46941,7 +47202,8 @@
         "bag_display_name": "Bezaanjachtplein 291, 1034CR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -47039,7 +47301,8 @@
         "bag_display_name": "Guisweg 2, 1544AJ Zaandijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47123,7 +47386,8 @@
         "bag_display_name": "Schipluidenlaan 354, 1062HE Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47253,7 +47517,8 @@
         "bag_display_name": "De Boelelaan 1081, 1081HV Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -47807,7 +48072,8 @@
         "bag_display_name": "Wibautstraat 3C, 1091GH Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -48785,7 +49051,8 @@
         "bag_display_name": "Westwijkplein 90, 1187LV Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -49067,7 +49334,8 @@
         "bag_display_name": "Muiderbos 110, 2134SV Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -49339,7 +49607,8 @@
         "bag_display_name": "Stephensonstraat 50, 2014KD Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -49505,7 +49774,8 @@
         "bag_display_name": "Bakkerstraat 11, 2012ZG Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -49719,7 +49989,8 @@
         "bag_display_name": "Molenwerf 24, 1541WR Koog aan de Zaan",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -49865,7 +50136,8 @@
         "bag_display_name": "Kennemerplein 21A, 1972EW IJmuiden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -49971,7 +50243,8 @@
         "bag_display_name": "Kinkerstraat 34, 1053DW Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50169,7 +50442,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50367,7 +50641,8 @@
         "bag_display_name": "E. Heimansstraat 23, 1504JB Zaandam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50457,7 +50732,8 @@
         "bag_display_name": "Dorpsstraat 418, 1566BS Assendelft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50599,7 +50875,8 @@
         "bag_display_name": "Dijkgraafplein 409, 1069EV Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50713,7 +50990,8 @@
         "bag_display_name": "Leonardo da Vinciplein 4, 2037RR Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50791,7 +51069,8 @@
         "bag_display_name": "Belgiëlaan 45, 2034AW Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50941,7 +51220,8 @@
         "bag_display_name": "Lambertus Zijlplein 119, 1067JR Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -51159,7 +51439,8 @@
         "bag_display_name": "Lindenlaan 65, 1185LC Amstelveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -51421,7 +51702,8 @@
         "bag_display_name": "Czarinastraat 1A, 1506RA Zaandam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -51987,7 +52269,8 @@
         "bag_display_name": "Molenpad 19, 1431BZ Aalsmeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -52321,7 +52604,8 @@
         "bag_display_name": "Gibraltar 4A, 1503BM Zaandam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -52591,7 +52875,8 @@
         "bag_display_name": "Mosveld 89, 1031AD Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -53113,7 +53398,8 @@
         "bag_display_name": "Beverhof 41, 1941EC Beverwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -53331,7 +53617,8 @@
         "bag_display_name": "Galle Promenade 15, 1991PP Velserbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53413,7 +53700,8 @@
         "bag_display_name": "Lange Nieuwstraat 422, 1971GH IJmuiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53487,7 +53775,8 @@
         "bag_display_name": "Sloterweg 186A, 1171CW Badhoevedorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53541,7 +53830,8 @@
         "bag_display_name": "Binnenweg 78, 2101JM Heemstede",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53631,7 +53921,8 @@
         "bag_display_name": "Bernadottestraat 149, 2131SV Hoofddorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53677,7 +53968,8 @@
         "bag_display_name": "Paul Krugerkade 8, 2021BN Haarlem",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

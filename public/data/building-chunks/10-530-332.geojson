@@ -5237,7 +5237,8 @@
         "bag_display_name": "Zuiderweg 27, 9745AA Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5399,7 +5400,8 @@
         "bag_display_name": "Dierenriemstraat 122, 9742AK Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5497,7 +5499,8 @@
         "bag_display_name": "Rijksweg 129a, 9731AH Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5619,7 +5622,8 @@
         "bag_display_name": "Nieuwe Ebbingestraat 73, 9712NG Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5685,7 +5689,8 @@
         "bag_display_name": "B.S.F. von Suttnerstraat 1, 9728WZ Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6039,7 +6044,8 @@
         "bag_display_name": "Hoofdweg 202a, 9765CK Paterswolde",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6145,7 +6151,8 @@
         "bag_display_name": "Kerkstraat 27, 9751BB Haren Gn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6271,7 +6278,8 @@
         "bag_display_name": "Van Lenneplaan 99, 9721PE Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -6325,7 +6333,8 @@
         "bag_display_name": "Gedempte Zuiderdiep 14, 9711HG Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6547,7 +6556,8 @@
         "bag_display_name": "Akerkhof 1, 9712BA Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6689,7 +6699,8 @@
         "bag_display_name": "Oude Ebbingestraat 19, 9712HA Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6935,7 +6946,8 @@
         "bag_display_name": "Rijksweg 16a, 9731AB Groningen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6993,7 +7005,8 @@
         "bag_display_name": "Floresplein 13, 9715HH Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17255,7 +17268,8 @@
         "bag_display_name": "Stoepemaheerd 21, 9737TL Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17317,7 +17331,8 @@
         "bag_display_name": "Brugstraat 14a, 9711HX Groningen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17419,7 +17434,8 @@
         "bag_display_name": "Eikenlaan 39, 9741EH Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17473,7 +17489,8 @@
         "bag_display_name": "Schoolstraat 13, 9301KB Roden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18011,7 +18028,8 @@
         "bag_display_name": "Siersteenlaan 464, 9743ES Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18213,7 +18231,8 @@
         "bag_display_name": "Helperplein 4, 9721CX Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18303,7 +18322,8 @@
         "bag_display_name": "Westerkade 11, 9718AR Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18381,7 +18401,8 @@
         "bag_display_name": "Samuël Leviestraat 21a, 9351BM Leek",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18427,7 +18448,8 @@
         "bag_display_name": "Borchsingel 25, 9766PP Eelderwolde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18549,7 +18571,8 @@
         "bag_display_name": "Siersteenlaan 466, 9743ES Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18663,7 +18686,8 @@
         "bag_display_name": "Stationsweg 32, 9781CJ Bedum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18741,7 +18765,8 @@
         "bag_display_name": "Hoornsediep 147, 9727GH Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18811,7 +18836,8 @@
         "bag_display_name": "Padkamp 23C, 9301AW Roden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19717,7 +19743,8 @@
         "bag_display_name": "Kajuit 287, 9733CV Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -19807,7 +19834,8 @@
         "bag_display_name": "Jachtlaan 2, 9751BT Haren Gn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19893,7 +19921,8 @@
         "bag_display_name": "Beren 10, 9714DV Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19999,7 +20028,8 @@
         "bag_display_name": "Claremaheerd 45, 9736LC Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20093,7 +20123,8 @@
         "bag_display_name": "de Dorpsvenne 1e, 9801DA Zuidhorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20195,7 +20226,8 @@
         "bag_display_name": "Industriepark 7, 9351PA Leek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20249,7 +20281,8 @@
         "bag_display_name": "Eyssoniusstraat 32, 9714BS Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20343,7 +20376,8 @@
         "bag_display_name": "Burg Seinenstraat 32A, 9831PW Aduard",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20413,7 +20447,8 @@
         "bag_display_name": "de Boomgaard 1, 9828RC Oostwold",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20505,7 +20540,8 @@
         "bag_display_name": "Gedempte Zuiderdiep 65, 9711HC Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20923,7 +20959,8 @@
         "bag_display_name": "De Brinken 16, 9752BW Haren Gn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21105,7 +21142,8 @@
         "bag_display_name": "Noordwolderweg 7A, 9781AD Bedum",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21211,7 +21249,8 @@
         "bag_display_name": "Overwinningsplein 7, 9728GP Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21313,7 +21352,8 @@
         "bag_display_name": "Wilhelminakade 21, 9717AB Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21499,7 +21539,8 @@
         "bag_display_name": "Dierenriemstraat 200, 9742AM Groningen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21581,7 +21622,8 @@
         "bag_display_name": "Beren 85, 9714DW Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21627,7 +21669,8 @@
         "bag_display_name": "Reitdiephaven 261, 9746RE Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21697,7 +21740,8 @@
         "bag_display_name": "Linnaeusplein 55, 9713GP Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21919,7 +21963,8 @@
         "bag_display_name": "Oosterstraat 58, 9711NX Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22125,7 +22170,8 @@
         "bag_display_name": "Westerbaan 1, 9301AX Roden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22191,7 +22237,8 @@
         "bag_display_name": "Industriepark 5r, 9351PA Leek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22281,7 +22328,8 @@
         "bag_display_name": "Anjerplein 31, 9753GT Haren Gn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22475,7 +22523,8 @@
         "bag_display_name": "Oude Ebbingestraat 18a, 9712HJ Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30653,7 +30702,8 @@
         "bag_display_name": "Vossenburglaan 184, 9613CG Meerstad",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30799,7 +30849,8 @@
         "bag_display_name": "Stoffer Holtjerweg 1, 9761CA Eelde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30853,7 +30904,8 @@
         "bag_display_name": "Boumaboulevard 525, 9723ZS Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30959,7 +31011,8 @@
         "bag_display_name": "Kroonkampweg 10, 9752KH Haren Gn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31085,7 +31138,8 @@
         "bag_display_name": "Eikenlaan 19, 9741EH Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31811,7 +31865,8 @@
         "bag_display_name": "Stoepemaheerd 46, 9737TM Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31949,7 +32004,8 @@
         "bag_display_name": "Westerbaan 7, 9301AX Roden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32191,7 +32247,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32289,7 +32346,8 @@
         "bag_display_name": "Rijksweg 129b, 9731AH Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -32467,7 +32525,8 @@
         "bag_display_name": "Wielewaalplein 312, 9713BR Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32593,7 +32652,8 @@
         "bag_display_name": "Van Lenneplaan 113a, 9721PE Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -33031,7 +33091,8 @@
         "bag_display_name": "Siersteenlaan 430, 9743ES Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33205,7 +33266,8 @@
         "bag_display_name": "Zuiderweg 48, 9745AE Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33479,7 +33541,8 @@
         "bag_display_name": "Hoofdweg 93a, 9761EC Eelde",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33529,7 +33592,8 @@
         "bag_display_name": "Vechtstraat 131, 9725CT Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33671,7 +33735,8 @@
         "bag_display_name": "Grotestraat 13A, 9781HA Bedum",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33753,7 +33818,8 @@
         "bag_display_name": "Hoofdstraat 5, 9321CB Peize",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -33823,7 +33889,8 @@
         "bag_display_name": "Kerklaan 75, 9717HB Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33897,7 +33964,8 @@
         "bag_display_name": "Meeuwerderweg 96, 9724EW Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34803,7 +34871,8 @@
         "bag_display_name": "Kajuit 251a, 9733CS Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -34965,7 +35034,8 @@
         "bag_display_name": "Oosterhamriklaan 263, 9715SN Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35039,7 +35109,8 @@
         "bag_display_name": "Paterswoldseweg 68, 9726BG Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35121,7 +35192,8 @@
         "bag_display_name": "Bloemersmastraat 12, 9822AC Niekerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35195,7 +35267,8 @@
         "bag_display_name": "C. Jetsesstraat 1-1, 9744HK Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35477,7 +35550,8 @@
         "bag_display_name": "De Savornin Lohmanlaan 86, 9722HK Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35563,7 +35637,8 @@
         "bag_display_name": "Roderweg 15B, 9311PA Nieuw-Roden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35685,7 +35760,8 @@
         "bag_display_name": "Samuël Leviestraat 12, 9351BM Leek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35779,7 +35855,8 @@
         "bag_display_name": "de Dorpsvenne 1d, 9801DA Zuidhorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -35825,7 +35902,8 @@
         "bag_display_name": "Kokswijk 11, 9354BV Zevenhuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35899,7 +35977,8 @@
         "bag_display_name": "Hoofdstraat 36, 9356AX Tolbert",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36029,7 +36108,8 @@
         "bag_display_name": "Jacob van Ruysdaelstraat 18, 9718SG Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36099,7 +36179,8 @@
         "bag_display_name": "Zonnelaan 80, 9742BN Groningen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36145,7 +36226,8 @@
         "bag_display_name": "Hoofdstraat W 44, 9951AC Winsum",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

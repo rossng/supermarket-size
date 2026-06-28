@@ -137,7 +137,8 @@
         "bag_display_name": "Molecatenlaan 30, 7339LM Ugchelen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -291,7 +292,8 @@
         "bag_display_name": "Talingweg 169, 7331GN Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -381,7 +383,8 @@
         "bag_display_name": "Deventerstraat 10A, 7311BJ Apeldoorn",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -511,7 +514,8 @@
         "bag_display_name": "Dorpstraat 23, 7361AP Beekbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -665,7 +669,8 @@
         "bag_display_name": "Schapendoesweg 2, 7312EC Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -943,7 +948,8 @@
         "bag_display_name": "Edeseweg 101A, 6733AD Wekerom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1053,7 +1059,8 @@
         "bag_display_name": "Koninginnelaan 40C, 7315BT Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1127,7 +1134,8 @@
         "bag_display_name": "Vlijtseweg 184, 7317AK Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1173,7 +1181,8 @@
         "bag_display_name": "Europaweg 44, 7336AP Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1259,7 +1268,8 @@
         "bag_display_name": "Elspeterweg 73D, 3888MT Uddel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1349,7 +1359,8 @@
         "bag_display_name": "Harderwijkerweg 26, 3888LR Uddel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1447,7 +1458,8 @@
         "bag_display_name": "Vlijtseweg 186, 7317AK Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1569,7 +1581,8 @@
         "bag_display_name": "Ugchelseweg 165, 7339CH Ugchelen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1635,7 +1648,8 @@
         "bag_display_name": "Mercatorplein 15, 7316HJ Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1721,7 +1735,8 @@
         "bag_display_name": "Havikstraat 19, 7331CK Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1799,7 +1814,8 @@
         "bag_display_name": "Ordenplein 144, 7312NL Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1897,7 +1913,8 @@
         "bag_display_name": "Kanaal Noord 17, 7311PK Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1999,7 +2016,8 @@
         "bag_display_name": "Asselsestraat 146, 7311EV Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2237,7 +2255,8 @@
         "bag_display_name": "Schubertplein 1, 7333DJ Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2331,7 +2350,8 @@
         "bag_display_name": "Maasstraat 92, 7333JJ Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2413,7 +2433,8 @@
         "bag_display_name": "Kanaal Noord 23, 7311PK Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2495,7 +2516,8 @@
         "bag_display_name": "Mercatorplein 61, 7316HJ Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2657,7 +2679,8 @@
         "bag_display_name": "Asselsestraat 101, 7311EG Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2751,7 +2774,8 @@
         "bag_display_name": "Dorpsstraat 28, 6732AE Harskamp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2865,7 +2889,8 @@
         "bag_display_name": "Wesselseweg 166, 3774RM Kootwijkerbroek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3015,7 +3040,8 @@
         "bag_display_name": "Dorpsstraat 4A, 6731AT Otterlo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3133,7 +3159,8 @@
         "bag_display_name": "Wolweg 24A, 3776LP Stroe",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3203,7 +3230,8 @@
         "bag_display_name": "Speldermarkweg 38, 7351AK Hoenderloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3329,7 +3357,8 @@
         "bag_display_name": "Koning Lodewijklaan 168, 7314GL Apeldoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

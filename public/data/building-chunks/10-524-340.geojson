@@ -161,7 +161,8 @@
         "bag_display_name": "Zonneplein 31, 4624BC Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -439,7 +440,8 @@
         "bag_display_name": "Vogelenzang 95, 4661JD Halsteren",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -521,7 +523,8 @@
         "bag_display_name": "Tolbergcentrum 160, 4708HK Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -807,7 +810,8 @@
         "bag_display_name": "Wagenhoek 9, 4731JB Oudenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -949,7 +953,8 @@
         "bag_display_name": "Van Beethovenlaan 4a, 4702JS Roosendaal",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1249,7 +1254,8 @@
         "bag_display_name": "Lindenburghlaan 1a, 4651TM Steenbergen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1331,7 +1337,8 @@
         "bag_display_name": "Terreplein 4, 4691AA Tholen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3013,7 +3020,8 @@
         "bag_display_name": "Markiezaatsweg 5, 4615PA Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3143,7 +3151,8 @@
         "bag_display_name": "Haviksberg 51, 4631VB Hoogerheide",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3197,7 +3206,8 @@
         "bag_display_name": "Rijksweg-Noord 28A, 4735TX Zegge",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3363,7 +3373,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3461,7 +3472,8 @@
         "bag_display_name": "Boulevard 118a, 4701EZ Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3515,7 +3527,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3597,7 +3610,8 @@
         "bag_display_name": "Terreplein 8, 4691AA Tholen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -3675,7 +3689,8 @@
         "bag_display_name": "Philipslaan 82, 4702NS Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -3769,7 +3784,8 @@
         "bag_display_name": "Haviksberg 4, 4631VB Hoogerheide",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3827,7 +3843,8 @@
         "bag_display_name": "St. Gerardushof 6a, 4744BD Bosschenhoofd",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3961,7 +3978,8 @@
         "bag_display_name": "Bloemendaal 56, 4614CW Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4031,7 +4049,8 @@
         "bag_display_name": "Markt 21, 4751HS Oud Gastel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4121,7 +4140,8 @@
         "bag_display_name": "Prof Mulderslaan 11, 4731BR Oudenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4271,7 +4291,8 @@
         "bag_display_name": "Laan van Henegouwen 170, 4701CP Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4357,7 +4378,8 @@
         "bag_display_name": "Wassenaarstraat 32a, 4611BV Bergen op Zoom",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4451,7 +4473,8 @@
         "bag_display_name": "Lindenburg 2, 4707CR Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4773,7 +4796,8 @@
         "bag_display_name": "Floraplein 2, 4651NC Steenbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4847,7 +4871,8 @@
         "bag_display_name": "Streuvelslaan 1a, 4707CH Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5617,7 +5642,8 @@
         "bag_display_name": "Burgemeester Van Hasseltstraat 1, 4611BG Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5695,7 +5721,8 @@
         "bag_display_name": "Kloosterstraat 8, 4724EE Wouw",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6289,7 +6316,8 @@
         "bag_display_name": "Vogelaar 29, 4617LG Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6627,7 +6655,8 @@
         "bag_display_name": "Raadhuisstraat 87a, 4631NC Hoogerheide",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8177,7 +8206,8 @@
         "bag_display_name": "Rembrandtgalerij 103, 4703GX Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8295,7 +8325,8 @@
         "bag_display_name": "Piusplein 11, 4621EM Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8397,7 +8428,8 @@
         "bag_display_name": "Dorpsstraat 5a, 4751AH Oud Gastel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8675,7 +8707,8 @@
         "bag_display_name": "Antwerpsestraatweg 100, 4615AV Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8773,7 +8806,8 @@
         "bag_display_name": "Nijverheidsweg 8a, 4661VM Halsteren",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8887,7 +8921,8 @@
         "bag_display_name": "Prof Mulderslaan 33, 4731BR Oudenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8969,7 +9004,8 @@
         "bag_display_name": "President Kennedylaan 118, 4707BE Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9115,7 +9151,8 @@
         "bag_display_name": "Laan van Borgvliet 1, 4625ES Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -9197,7 +9234,8 @@
         "bag_display_name": "Raadhuisstraat 74, 4715CE Rucphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9267,7 +9305,8 @@
         "bag_display_name": "Burgemeester van Loonstraat 72, 4651CE Steenbergen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9545,7 +9584,8 @@
         "bag_display_name": "Antwerpsestraatweg 100, 4615AV Bergen op Zoom",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -9639,7 +9679,8 @@
         "bag_display_name": "Huijbergseweg 23, 4631GC Hoogerheide",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9741,7 +9782,8 @@
         "bag_display_name": "Julianalaan 1, 4731JM Oudenbosch",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10239,7 +10281,8 @@
         "bag_display_name": "Raadhuisplein 12, 4715CN Rucphen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10341,7 +10384,8 @@
         "bag_display_name": "Dijkcentrum 24, 4706LA Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10603,7 +10647,8 @@
         "bag_display_name": "Dorpsstraat 75, 4661HN Halsteren",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -10729,7 +10774,8 @@
         "bag_display_name": "Tolbergcentrum 172, 4708HK Roosendaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10847,7 +10893,8 @@
         "bag_display_name": "Markt 19a, 4758BL Standdaarbuiten",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

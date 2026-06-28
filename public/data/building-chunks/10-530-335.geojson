@@ -137,7 +137,8 @@
         "bag_display_name": "Markt 69, 7701GW Dedemsvaart",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -663,7 +664,8 @@
         "bag_display_name": "Van Wevelinckhovenplein 60, 7772VJ Hardenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -737,7 +739,8 @@
         "bag_display_name": "Haven Noord 1a, 7731GZ Ommen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1243,7 +1246,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1325,7 +1329,8 @@
         "bag_display_name": "Israel Emanuelplein 9a, 7772BH Hardenberg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1387,7 +1392,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1493,7 +1499,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1579,7 +1586,8 @@
         "bag_display_name": "Nieuwelandstraat 1b, 7731TH Ommen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1681,7 +1689,8 @@
         "bag_display_name": "Turfstekersplein 11, 7782NZ De Krim",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -1819,7 +1828,8 @@
         "bag_display_name": "Admiraal Helfrichstraat 1b, 7772BV Hardenberg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2005,7 +2015,8 @@
         "bag_display_name": "Herenstraat 19, 7776AG Slagharen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2219,7 +2230,8 @@
         "bag_display_name": "Markt 22, 7731DB Ommen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2317,7 +2329,8 @@
         "bag_display_name": "Wethouder Klunderstraat 16, 7921HR Zuidwolde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2439,7 +2452,8 @@
         "bag_display_name": "Markt 32, 7701GW Dedemsvaart",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2581,7 +2595,8 @@
         "bag_display_name": "Markt 50, 7772AE Hardenberg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2663,7 +2678,8 @@
         "bag_display_name": "Schurinkstraat 30, 7731GE Ommen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2841,7 +2857,8 @@
         "bag_display_name": "Langewijk 156a, 7701AJ Dedemsvaart",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2907,7 +2924,8 @@
         "bag_display_name": "Hoofdstraat 101a, 7921AG Zuidwolde",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3121,7 +3139,8 @@
         "bag_display_name": "Floralaan 46, 7772LL Hardenberg",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -3311,7 +3330,8 @@
         "bag_display_name": "Dr. J.H.C. Bastingplein 16, 7691BG Bergentheim",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3525,7 +3545,8 @@
         "bag_display_name": "Carstensdijk 164, 7916RC Elim",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3667,7 +3688,8 @@
         "bag_display_name": "Ommerweg 2a, 7707AV Balkbrug",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

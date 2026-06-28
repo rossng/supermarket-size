@@ -463,7 +463,8 @@
         "bag_display_name": "Torenstraat 27, 2513BN 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -605,7 +606,8 @@
         "bag_display_name": "Theresiastraat 75A, 2593AB 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -699,7 +701,8 @@
         "bag_display_name": "Weigelia 48, 2262AB Leidschendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1133,7 +1136,8 @@
         "bag_display_name": "Broekwegzijde 150, 2725PE Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1231,7 +1235,8 @@
         "bag_display_name": "Hoornesplein 137, 2221BE Katwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1341,7 +1346,8 @@
         "bag_display_name": "Frederik Hendriklaan 80, 2582BE 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1407,7 +1413,8 @@
         "bag_display_name": "Amsterdamsestraat 9, 2587CN 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1601,7 +1608,8 @@
         "bag_display_name": "Terweeplein 3, 2341CZ Oegstgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1719,7 +1727,8 @@
         "bag_display_name": "Irislaan 83, 2343CH Oegstgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1869,7 +1878,8 @@
         "bag_display_name": "Schoolstraat 1a, 2251BD Voorschoten",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2031,7 +2041,8 @@
         "bag_display_name": "Stevensbloem 11, 2331JA Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2337,7 +2348,8 @@
         "bag_display_name": "Stadhoudersplein 4, 2241EB Wassenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2391,7 +2403,8 @@
         "bag_display_name": "Sumatrastraat 8, 2585CS 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2773,7 +2786,8 @@
         "bag_display_name": "Hildo Kroplaan 20, 2552XS 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2911,7 +2925,8 @@
         "bag_display_name": "Loosduinse Hoofdplein 260, 2553CT 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3081,7 +3096,8 @@
         "bag_display_name": "Goeverneurplein 20, 2523EC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3211,7 +3227,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3989,7 +4006,8 @@
         "bag_display_name": "Kopermolen 44, 2317PB Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4565,7 +4583,8 @@
         "bag_display_name": "Petuniatuin 12, 2724NA Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4675,7 +4694,8 @@
         "bag_display_name": "Dorpsstraat 2a, 2361BB Warmond",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4781,7 +4801,8 @@
         "bag_display_name": "Zeestraat 14A, 2211XG Noordwijkerhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4947,7 +4968,8 @@
         "bag_display_name": "Escamplaan 281, 2547EA 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5053,7 +5075,8 @@
         "bag_display_name": "Grote Marktstraat 5, 2511BH 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5235,7 +5258,8 @@
         "bag_display_name": "Laan van Meerdervoort 52S, 2517AM 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5305,7 +5329,8 @@
         "bag_display_name": "Jacoba van Beierenhof 29, 2215JK Voorhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5431,7 +5456,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5513,7 +5539,8 @@
         "bag_display_name": "Turfmarkt 103, 2511DP 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5631,7 +5658,8 @@
         "bag_display_name": "Lijnbaan 295, 2728AH Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5869,7 +5897,8 @@
         "bag_display_name": "Valkenboslaan 173E, 2563CK 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6035,7 +6064,8 @@
         "bag_display_name": "Fahrenheitstraat 709, 2561DE 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6113,7 +6143,8 @@
         "bag_display_name": "Stationsweg 16, 2515BN 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6263,7 +6294,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6317,7 +6349,8 @@
         "bag_display_name": "Weimarstraat 118, 2562HC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6563,7 +6596,8 @@
         "bag_display_name": "Hooigracht 85, 2312KP Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6637,7 +6671,8 @@
         "bag_display_name": "Keizerstraat 342, 2584BP 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6699,7 +6734,8 @@
         "bag_display_name": "Willem de Zwijgerlaan 51, 2582EG 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6769,7 +6805,8 @@
         "bag_display_name": "Simon Carmiggelthof 55, 2492JR 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6855,7 +6892,8 @@
         "bag_display_name": "Parkweg 30A, 2271AK Voorburg",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6957,7 +6995,8 @@
         "bag_display_name": "Theresiastraat 182, 2593AV 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7099,7 +7138,8 @@
         "bag_display_name": "Koningin Julianalaan 263, 2273JG Voorburg",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7365,7 +7405,8 @@
         "bag_display_name": "Kerklaan 74, 2282CL Rijswijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7515,7 +7556,8 @@
         "bag_display_name": "Hofweg 11, 2511AA 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7641,7 +7683,8 @@
         "bag_display_name": "Hobbemastraat 171, 2526JJ 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7707,7 +7750,8 @@
         "bag_display_name": "Apeldoornselaan 266, 2573LW 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7769,7 +7813,8 @@
         "bag_display_name": "Breestraat 130, 2311CX Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7863,7 +7908,8 @@
         "bag_display_name": "Zeilmakerstraat 2A, 2222AA Katwijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8213,7 +8259,8 @@
         "bag_display_name": "Middelwaard 93, 2716CW Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8287,7 +8334,8 @@
         "bag_display_name": "Anjelierenstraat 36, 2231GT Rijnsburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8529,7 +8577,8 @@
         "bag_display_name": "Bonnikeplein 2, 2201XA Noordwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9489,7 +9538,8 @@
         "bag_display_name": "Winkelhof 29A, 2353TS Leiderdorp",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9595,7 +9645,8 @@
         "bag_display_name": "Voorhavenkwartier 68, 2171HZ Sassenheim",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9669,7 +9720,8 @@
         "bag_display_name": "Laan van Ouderzorg 28, 2352HV Leiderdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10027,7 +10079,8 @@
         "bag_display_name": "Grote Marktstraat 55A, 2511BH 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10441,7 +10494,8 @@
         "bag_display_name": "Stationsplein 75, 2515BX 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10779,7 +10833,8 @@
         "bag_display_name": "Steijnlaan 106, 2571RH 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11065,7 +11120,8 @@
         "bag_display_name": "Lorentzplein 76, 2522EH 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11299,7 +11355,8 @@
         "bag_display_name": "Koningin Julianaplein 104, 2595AA 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11485,7 +11542,8 @@
         "bag_display_name": "Soestdijkkade 82, 2316RC Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12471,7 +12529,8 @@
         "bag_display_name": "Het Kleine Loo 342, 2592CK 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -12517,7 +12576,8 @@
         "bag_display_name": "Binckhorstlaan 137, 2516BA 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -12855,7 +12915,8 @@
         "bag_display_name": "Bevrijdingsplein 50A, 2321BX Leiden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13401,7 +13462,8 @@
         "bag_display_name": "De Savornin Lohmanplein 20, 2566AC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -13611,7 +13673,8 @@
         "bag_display_name": "Westwaarts 41, 2711AD Zoetermeer",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13741,7 +13804,8 @@
         "bag_display_name": "Elandstraat 160, 2513GW 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13839,7 +13903,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13901,7 +13966,8 @@
         "bag_display_name": "Schoolstraat 6, 2251BH Voorschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14755,7 +14821,8 @@
         "bag_display_name": "Van der Kunstraat 75, 2521BA 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14849,7 +14916,8 @@
         "bag_display_name": "Hofcampweg 57, 2241KD Wassenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15031,7 +15099,8 @@
         "bag_display_name": "Stationsplein 220, 2312AR Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15181,7 +15250,8 @@
         "bag_display_name": "Oosterheemplein 403, 2721NG Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15307,7 +15377,8 @@
         "bag_display_name": "Simon Carmiggelthof 108, 2492JM 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15393,7 +15464,8 @@
         "bag_display_name": "Monseigneur van Steelaan 205, 2273EM Voorburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15591,7 +15663,8 @@
         "bag_display_name": "Prins Frederiklaan 203, 2263HA Leidschendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -15765,7 +15838,8 @@
         "bag_display_name": "Laakweg 126, 2521SC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16311,7 +16385,8 @@
         "bag_display_name": "De Savornin Lohmanplein 29, 2566AD 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16417,7 +16492,8 @@
         "bag_display_name": "Schepenenveld 6, 2722BR Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -16491,7 +16567,8 @@
         "bag_display_name": "Lindoduin 1, 2583BG 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16637,7 +16714,8 @@
         "bag_display_name": "Loosduinse Hoofdstraat 280, 2552AN 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -16815,7 +16893,8 @@
         "bag_display_name": "Grote Marktstraat 113, 2511BJ 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17271,7 +17350,8 @@
         "bag_display_name": "Kerkplein 6, 2513AZ 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -17341,7 +17421,8 @@
         "bag_display_name": "Hoefblad 22, 2266JE Leidschendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17415,7 +17496,8 @@
         "bag_display_name": "Nassaulaan 63A, 2382GH Zoeterwoude",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17461,7 +17543,8 @@
         "bag_display_name": "Prins Hendrikstraat 46, 2518HT 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17591,7 +17674,8 @@
         "bag_display_name": "Levendaal 140, 2311JP Leiden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18369,7 +18453,8 @@
         "bag_display_name": "Kopermolen 2, 2317PB Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -18611,7 +18696,8 @@
         "bag_display_name": "Visserijkade 2, 2225TV Katwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19061,7 +19147,8 @@
         "bag_display_name": "Langegracht 3A, 2312NV Leiden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19247,7 +19334,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19317,7 +19405,8 @@
         "bag_display_name": "Burgemeester Sweenslaan 15, 2262BN Leidschendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19387,7 +19476,8 @@
         "bag_display_name": "Starrenburglaan 47, 2241NB Wassenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19513,7 +19603,8 @@
         "bag_display_name": "Simon Carmiggelthof 258, 2492JN 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -19727,7 +19818,8 @@
         "bag_display_name": "Torenstraat 132A, 2513BW 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -19813,7 +19905,8 @@
         "bag_display_name": "Heereweg 246, 2161BR Lisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19931,7 +20024,8 @@
         "bag_display_name": "Dorpsringweg 2, 2211ED Noordwijkerhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20025,7 +20119,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20379,7 +20474,8 @@
         "bag_display_name": "Koningin Julianalaan 4, 2251EA Voorschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20485,7 +20581,8 @@
         "bag_display_name": "Schepenenveld 46, 2722BR Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20675,7 +20772,8 @@
         "bag_display_name": "Concordiastraat 2, 2171GL Sassenheim",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21295,7 +21393,8 @@
         "bag_display_name": "Theaterplein 21, 2711EK Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21369,7 +21468,8 @@
         "bag_display_name": "Herenstraat 54a, 2282BW Rijswijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21825,7 +21925,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -21899,7 +22000,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22005,7 +22107,8 @@
         "bag_display_name": "Breestraat 127, 2311CM Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22059,7 +22162,8 @@
         "bag_display_name": "Frederik Hendriklaan 87, 2582BW 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22117,7 +22221,8 @@
         "bag_display_name": "Theresiastraat 97A, 2593AC 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22251,7 +22356,8 @@
         "bag_display_name": "Tesselseplein 37, 2583HR 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22413,7 +22519,8 @@
         "bag_display_name": "Voorstraat 49, 2225EL Katwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22759,7 +22866,8 @@
         "bag_display_name": "Levendaal 20, 2311JL Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22925,7 +23033,8 @@
         "bag_display_name": "Oegstgeesterweg 48, 2231AZ Rijnsburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23011,7 +23120,8 @@
         "bag_display_name": "Poortwacht 139, 2353ED Leiderdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23069,7 +23179,8 @@
         "bag_display_name": "Grachtweg 47A, 2161HL Lisse",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23223,7 +23334,8 @@
         "bag_display_name": "Dorpsstraat 88, 2712AM Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23545,7 +23657,8 @@
         "bag_display_name": "Hoofdstraat 104, 2235CK Valkenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23651,7 +23764,8 @@
         "bag_display_name": "Kennedylaan 118, 2324EZ Leiden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24061,7 +24175,8 @@
         "bag_display_name": "Damstraat 8, 2265AG Leidschendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24211,7 +24326,8 @@
         "bag_display_name": "Oosterheemplein 480, 2721NJ Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -24273,7 +24389,8 @@
         "bag_display_name": "Van Stolberglaan 23, 2713ES Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24419,7 +24536,8 @@
         "bag_display_name": "Monseigneur van Steelaan 456, 2273GC Voorburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24757,7 +24875,8 @@
         "bag_display_name": "Klaverweide 84, 2272BV Voorburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25117,7 +25236,8 @@
         "bag_display_name": "Theresiastraat 145, 2593AG 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26103,7 +26223,8 @@
         "bag_display_name": "Het Kleine Loo 270, 2592CK 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -26385,7 +26506,8 @@
         "bag_display_name": "Veurseweg 18, 2252AA Voorschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26467,7 +26589,8 @@
         "bag_display_name": "Koetsiersweg 7, 2171NL Sassenheim",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26645,7 +26768,8 @@
         "bag_display_name": "Oostwaarts 109, 2711BA Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26919,7 +27043,8 @@
         "bag_display_name": "Philipsburgstraat 15, 2315ZB Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27157,7 +27282,8 @@
         "bag_display_name": "Badhuisstraat 401, 2584HJ 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27507,7 +27633,8 @@
         "bag_display_name": "Middelwaard 52, 2716CW Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -28221,7 +28348,8 @@
         "bag_display_name": "Lange Voort 2F, 2341KA Oegstgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28371,7 +28499,8 @@
         "bag_display_name": "Anemoonstraat 4, 2565DD 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28553,7 +28682,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -28703,7 +28833,8 @@
         "bag_display_name": "Oosterheemplein 548, 2721NJ Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -29121,7 +29252,8 @@
         "bag_display_name": "Meeuwenveld 8, 2727AK Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29403,7 +29535,8 @@
         "bag_display_name": "Luifelbaan 1, 2242KT Wassenaar",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29573,7 +29706,8 @@
         "bag_display_name": "Planciusplantsoen 25, 2253TS Voorschoten",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29691,7 +29825,8 @@
         "bag_display_name": "Stationsplein 1, 2515BT 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29789,7 +29924,8 @@
         "bag_display_name": "Alphons Diepenbrockhof 6, 2551KE 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29963,7 +30099,8 @@
         "bag_display_name": "Laakweg 126, 2521SC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -30261,7 +30398,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30647,7 +30785,8 @@
         "bag_display_name": "Rustenburgerpad 9, 2342CV Oegstgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30825,7 +30964,8 @@
         "bag_display_name": "Jacob van den Eyndestraat 14, 2274VZ Voorburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30975,7 +31115,8 @@
         "bag_display_name": "Molenplein 1, 2382BT Zoeterwoude",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31149,7 +31290,8 @@
         "bag_display_name": "Grote Marktstraat 24, 2511BJ 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31419,7 +31561,8 @@
         "bag_display_name": "Liguster 2A, 2262AC Leidschendam",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31617,7 +31760,8 @@
         "bag_display_name": "Dorpsstraat 34, 2381EN Zoeterwoude",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31723,7 +31867,8 @@
         "bag_display_name": "Van Bergenstraat 7, 2583CS 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31861,7 +32006,8 @@
         "bag_display_name": "Volendamlaan 670, 2547CK 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32019,7 +32165,8 @@
         "bag_display_name": "Vivaldistraat 13, 2162AA Lisse",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32357,7 +32504,8 @@
         "bag_display_name": "Hildo Kroplaan 145, 2552XR 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32471,7 +32619,8 @@
         "bag_display_name": "Boerhaaveplein 3, 2343LT Oegstgeest",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32557,7 +32706,8 @@
         "bag_display_name": "Vijf Meiplein 15, 2321BN Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33133,7 +33283,8 @@
         "bag_display_name": "Petuniatuin 54, 2724NB Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -33347,7 +33498,8 @@
         "bag_display_name": "Melkweg 149, 2221NP Katwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33529,7 +33681,8 @@
         "bag_display_name": "Van 't Hoffplein 2, 2725EA Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33679,7 +33832,8 @@
         "bag_display_name": "Titus Brandsmahove 70, 2717TH Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33805,7 +33959,8 @@
         "bag_display_name": "Standerdmolen 1, 2317NZ Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33915,7 +34070,8 @@
         "bag_display_name": "Wesselsstraat 500, 2572WC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34029,7 +34185,8 @@
         "bag_display_name": "Almeloplein 75, 2533AD 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34159,7 +34316,8 @@
         "bag_display_name": "Alphons Diepenbrockhof 49, 2551KH 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34309,7 +34467,8 @@
         "bag_display_name": "Bosplein 1, 2224GB Katwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34463,7 +34622,8 @@
         "bag_display_name": "Dorpsstraat 4, 2211GC Noordwijkerhout",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34621,7 +34781,8 @@
         "bag_display_name": "Rederijkersplein 7, 2203GB Noordwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34711,7 +34872,8 @@
         "bag_display_name": "Amaliaplein 38, 2351PV Leiderdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34833,7 +34995,8 @@
         "bag_display_name": "Fahrenheitstraat 656, 2561DL 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35031,7 +35194,8 @@
         "bag_display_name": "Prins Frederiklaan 185, 2263HA Leidschendam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -35097,7 +35261,8 @@
         "bag_display_name": "Ursulaland 70, 2591HA 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35673,7 +35838,8 @@
         "bag_display_name": "Bètaplein 22A, 2321KS Leiden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35767,7 +35933,8 @@
         "bag_display_name": "Prins Willem-Alexanderplein 7, 2731EJ Benthuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35845,7 +36012,8 @@
         "bag_display_name": "Laan van Meerdervoort 419G, 2563AS 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36035,7 +36203,8 @@
         "bag_display_name": "Deltaplein 300, 2554GW 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36145,7 +36314,8 @@
         "bag_display_name": "Herenstraat 45a, 2215KD Voorhout",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36295,7 +36465,8 @@
         "bag_display_name": "Bezuidenhoutseweg 33, 2594AC 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36809,7 +36980,8 @@
         "bag_display_name": "Wintertuinlaan 6, 2201ZS Noordwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36907,7 +37079,8 @@
         "bag_display_name": "Stuyvesantplein 58, 2593EM 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -36977,7 +37150,8 @@
         "bag_display_name": "Herenstraat 47, 2313AE Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37131,7 +37305,8 @@
         "bag_display_name": "IJsselkade 45, 2314VM Leiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37253,7 +37428,8 @@
         "bag_display_name": "Hoofdstraat 167a, 2171BB Sassenheim",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37363,7 +37539,8 @@
         "bag_display_name": "Kornoeljelaan 2, 2211NT Noordwijkerhout",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37545,7 +37722,8 @@
         "bag_display_name": "Bomstraat 19, 2202GH Noordwijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

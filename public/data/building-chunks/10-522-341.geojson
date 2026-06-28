@@ -277,7 +277,8 @@
         "bag_display_name": "Bellamystraat 141, 4536AJ Terneuzen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -371,7 +372,8 @@
         "bag_display_name": "Westkade 48, 4551BV Sas van Gent",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -641,7 +643,8 @@
         "bag_display_name": "Kokkeldreef 10, 4533DD Terneuzen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -851,7 +854,8 @@
         "bag_display_name": "Kennedylaan 3, 4538AE Terneuzen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -905,7 +909,8 @@
         "bag_display_name": "Drebbelstraat 2a, 4532JN Terneuzen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1055,7 +1060,8 @@
         "bag_display_name": "Schuttershofweg 10, 4538AA Terneuzen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1141,7 +1147,8 @@
         "bag_display_name": "Burgemeester van Zuijenstraat 79, 4511GL Breskens",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1235,7 +1242,8 @@
         "bag_display_name": "Alvarezlaan 40, 4536BD Terneuzen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -1445,7 +1453,8 @@
         "bag_display_name": "Kennedylaan 9, 4538AE Terneuzen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1527,7 +1536,8 @@
         "bag_display_name": "Westkade 44, 4551BV Sas van Gent",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1629,7 +1639,8 @@
         "bag_display_name": "Langestraat 2, 4542AE Hoek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1759,7 +1770,8 @@
         "bag_display_name": "Spuiplein 49, 4511AP Breskens",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1821,7 +1833,8 @@
         "bag_display_name": "Oranjestraat 19A, 4515CA IJzendijke",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1879,7 +1892,8 @@
         "bag_display_name": "Dorpsstraat 2, 4507BK Schoondijke",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1949,7 +1963,8 @@
         "bag_display_name": "Kerkplein 1, 4541EV Sluiskil",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2019,7 +2034,8 @@
         "bag_display_name": "Waterpoortstraat 4, 4553BG Philippine",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

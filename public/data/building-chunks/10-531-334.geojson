@@ -153,7 +153,8 @@
         "bag_display_name": "Bannerschultestraat 7, 7841AA Sleen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -403,7 +404,8 @@
         "bag_display_name": "Baander 165, 7811HT Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -489,7 +491,8 @@
         "bag_display_name": "Vaart ZZ 50, 7833AC Nieuw-Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -635,7 +638,8 @@
         "bag_display_name": "Middenhaag 515, 7815LG Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -721,7 +725,8 @@
         "bag_display_name": "Statenweg 109, 7824CW Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -791,7 +796,8 @@
         "bag_display_name": "Langestraat 152, 7891GK Klazienaveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -909,7 +915,8 @@
         "bag_display_name": "Vaart ZZ 49, 7833AC Nieuw-Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1119,7 +1126,8 @@
         "bag_display_name": "Klazienaveensestraat 1, 7885BA Nieuw-Dordrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1269,7 +1277,8 @@
         "bag_display_name": "Willinkplein 38, 7811DD Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1387,7 +1396,8 @@
         "bag_display_name": "Wilhelminastraat 50A, 7811JE Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1653,7 +1663,8 @@
         "bag_display_name": "Statenweg 33, 7824CS Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1723,7 +1734,8 @@
         "bag_display_name": "Houtweg 296, 7823PV Emmen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1821,7 +1833,8 @@
         "bag_display_name": "Weerdingerstraat 232B, 7811CE Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2015,7 +2028,8 @@
         "bag_display_name": "Wilhelminastraat 7A, 7811JA Emmen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2329,7 +2343,8 @@
         "bag_display_name": "Valkenveld 50, 7827HC Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2391,7 +2406,8 @@
         "bag_display_name": "Langestraat 149A, 7891GK Klazienaveen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2713,7 +2729,8 @@
         "bag_display_name": "Houtweg 151, 7823PH Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2791,7 +2808,8 @@
         "bag_display_name": "Valkenveld 119, 7827HD Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2877,7 +2895,8 @@
         "bag_display_name": "Zijtak WZ 1, 7833BA Nieuw-Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2951,7 +2970,8 @@
         "bag_display_name": "Noordbargerstraat 19, 7811KE Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3069,7 +3089,8 @@
         "bag_display_name": "Alerderbrink 8, 7812RT Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3163,7 +3184,8 @@
         "bag_display_name": "Noordbargerstraat 5, 7811KE Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3273,7 +3295,8 @@
         "bag_display_name": "Langestraat 148, 7891GK Klazienaveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3403,7 +3426,8 @@
         "bag_display_name": "Aelderstraat 42, 7854RR Aalden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3641,7 +3665,8 @@
         "bag_display_name": "Middenhaag 7, 7815LB Emmen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3879,7 +3904,8 @@
         "bag_display_name": "de Waag 25, 7751GW Dalen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4173,7 +4199,8 @@
         "bag_display_name": "Exloërweg 11, 7873BW Odoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4327,7 +4354,8 @@
         "bag_display_name": "Vaart ZZ 10, 7833AA Nieuw-Amsterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4405,7 +4433,8 @@
         "bag_display_name": "Tramstraat 17, 7848BG Schoonoord",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4479,7 +4508,8 @@
         "bag_display_name": "Pastoor Jongeriusstraat 21, 7891KM Klazienaveen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4605,7 +4635,8 @@
         "bag_display_name": "Havenstraat 22, 7887BP Erica",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4703,7 +4734,8 @@
         "bag_display_name": "Burg de Kockstraat 61-Wink, 7861AB Oosterhesselen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4793,7 +4825,8 @@
         "bag_display_name": "Hoofdstraat 49, 7875AB Exloo",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

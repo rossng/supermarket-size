@@ -81,7 +81,8 @@
         "bag_display_name": "Boomstraat 9, 8881BS West-Terschelling",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

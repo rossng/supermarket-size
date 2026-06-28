@@ -129,7 +129,8 @@
         "bag_display_name": "Schandelerboord 25A, 6415AA Heerlen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -283,7 +284,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -393,7 +395,8 @@
         "bag_display_name": "Hertogenlaan 29, 6461BT Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -571,7 +574,8 @@
         "bag_display_name": "Markt 6, 6372AT Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -633,7 +637,8 @@
         "bag_display_name": "Bautscherweg 43, 6418EJ Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -883,7 +888,8 @@
         "bag_display_name": "Roda J.C. Ring 5, 6466NH Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1169,7 +1175,8 @@
         "bag_display_name": "Maria Gorettiplein 2, 6462XB Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1299,7 +1306,8 @@
         "bag_display_name": "Korte Hovenstraat 10, 6374GG Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1393,7 +1401,8 @@
         "bag_display_name": "Heerlerbaan 239A, 6418CE Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1739,7 +1748,8 @@
         "bag_display_name": "Hoofdstraat 144, 6372EN Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -1845,7 +1855,8 @@
         "bag_display_name": "Carboonplein 16, 6466CX Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2015,7 +2026,8 @@
         "bag_display_name": "Carboonplein 6, 6466CX Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2361,7 +2373,8 @@
         "bag_display_name": "Hoofdstraat 146, 6372EN Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2467,7 +2480,8 @@
         "bag_display_name": "Vivaldipassage 5, 6371LL Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2593,7 +2607,8 @@
         "bag_display_name": "Portbeemden 1, 6471EX Eygelshoven",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2775,7 +2790,8 @@
         "bag_display_name": "O.L.Vrouwestraat 5, 6461BM Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2849,7 +2865,8 @@
         "bag_display_name": "Sneeuwberglaan 20, 6291HC Vaals",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2995,7 +3012,8 @@
         "bag_display_name": "Ambachtsstraat 3, 6461EW Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3317,7 +3335,8 @@
         "bag_display_name": "Vivaldipassage 7, 6371LL Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3431,7 +3450,8 @@
         "bag_display_name": "Locht 117, 6466GT Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3657,7 +3677,8 @@
         "bag_display_name": "Zondagstraat 57, 6416BE Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3787,7 +3808,8 @@
         "bag_display_name": "Gasthof 2a, 6351CM Bocholtz",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3957,7 +3979,8 @@
         "bag_display_name": "Raadhuisplein 14, 6371LA Landgraaf",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4267,7 +4290,8 @@
         "bag_display_name": "Kloosterplein 27, 6369AW Simpelveld",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4553,7 +4577,8 @@
         "bag_display_name": "Maria Gorettiplein 1, 6462XB Kerkrade",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4651,7 +4676,8 @@
         "bag_display_name": "Heerlerbaan 239, 6418CE Heerlen",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4785,7 +4811,8 @@
         "bag_display_name": "Van Weerden Poelmanstraat 47A, 6417EJ Heerlen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]

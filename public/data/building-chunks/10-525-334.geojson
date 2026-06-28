@@ -101,7 +101,8 @@
         "bag_display_name": "Doorlaat 1, 1761AW Anna Paulowna",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -459,7 +460,8 @@
         "bag_display_name": "Schoolweg 15, 1787AV Julianadorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -529,7 +531,8 @@
         "bag_display_name": "Schoolstraat 3, 1759GP Callantsoog",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -627,7 +630,8 @@
         "bag_display_name": "Dorpsstraat 520, 1723HG Noord-Scharwoude",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -797,7 +801,8 @@
         "bag_display_name": "Theresiaplein 8, 1749GX Warmenhuizen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -891,7 +896,8 @@
         "bag_display_name": "Oostelijke Randweg 1, 1723LH Noord-Scharwoude",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1005,7 +1011,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1107,7 +1114,8 @@
         "bag_display_name": "Middenweg 552, 1704BP Heerhugowaard",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1249,7 +1257,8 @@
         "bag_display_name": "Zandvaart 100, 1764NW Breezand",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1343,7 +1352,8 @@
         "bag_display_name": "Molenzicht 20, 1738BX Waarland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1389,7 +1399,8 @@
         "bag_display_name": "Heereweg 13, 1871EB Schoorl",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1531,7 +1542,8 @@
         "bag_display_name": "Molengang 10, 1761BV Anna Paulowna",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1753,7 +1765,8 @@
         "bag_display_name": "Trambaan 69, 1733AX Nieuwe Niedorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2111,7 +2124,8 @@
         "bag_display_name": "Schoolweg 63, 1787AV Julianadorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -2289,7 +2303,8 @@
         "bag_display_name": "Heereweg 3, 1871EB Schoorl",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2407,7 +2422,8 @@
         "bag_display_name": "Langestraat 9, 1741HB Schagen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2621,7 +2637,8 @@
         "bag_display_name": "Molengang 192, 1761BW Anna Paulowna",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2779,7 +2796,8 @@
         "bag_display_name": "Schoolweg 20, 1787AW Julianadorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2853,7 +2871,8 @@
         "bag_display_name": "Plein 1945 10A, 1755NJ Petten",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2919,7 +2938,8 @@
         "bag_display_name": "Dorpsstraat 38A, 1746AD Dirkshorn",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3077,7 +3097,8 @@
         "bag_display_name": "Keinsmerweg 30A, 1756AG 't Zand",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3167,7 +3188,8 @@
         "bag_display_name": "Heereweg 279a, 1873GB Groet",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3265,7 +3287,8 @@
         "bag_display_name": "Sluisplein 24, 1761BT Anna Paulowna",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3343,7 +3366,8 @@
         "bag_display_name": "Voorburggracht 415, 1724NZ Oudkarspel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3529,7 +3553,8 @@
         "bag_display_name": "Drooghe Bol 1026, 1788VA Julianadorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3747,7 +3772,8 @@
         "bag_display_name": "Kievitlaan 27, 1742AB Schagen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3821,7 +3847,8 @@
         "bag_display_name": "Platanenweg 1, 1741SB Schagen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3951,7 +3978,8 @@
         "bag_display_name": "Dorpsstraat 38, 1747HD Tuitjenhorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4221,7 +4249,8 @@
         "bag_display_name": "Nieuwe Laagzijde 19, 1741GE Schagen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4443,7 +4472,8 @@
         "bag_display_name": "Trambaan 63, 1733AX Nieuwe Niedorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     }
   ]

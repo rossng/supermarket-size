@@ -241,7 +241,8 @@
         "bag_display_name": "'t Plateau 31, 3202GL Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -799,7 +800,8 @@
         "bag_display_name": "Nieuwstraat 370, 3201EG Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -909,7 +911,8 @@
         "bag_display_name": "Keenenburgweg 15, 2636GK Schipluiden",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1019,7 +1022,8 @@
         "bag_display_name": "Ambachtsgaarde 162, 2542EJ 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1165,7 +1169,8 @@
         "bag_display_name": "Mesdaglaan 199, 3141HE Maassluis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1515,7 +1520,8 @@
         "bag_display_name": "De Stede 10, 2543BG 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1705,7 +1711,8 @@
         "bag_display_name": "Hof van Spaland 1, 3121CA Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1795,7 +1802,8 @@
         "bag_display_name": "Peppelweg 151, 3053GL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1857,7 +1865,8 @@
         "bag_display_name": "Nieuwe Binnenweg 288B, 3021GS Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -1911,7 +1920,8 @@
         "bag_display_name": "Statenweg 103, 3039HJ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2201,7 +2211,8 @@
         "bag_display_name": "Mathenesserplein 76, 3022LD Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2367,7 +2378,8 @@
         "bag_display_name": "Lange Kerkstraat 34, 3111NP Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -2453,7 +2465,8 @@
         "bag_display_name": "Vasteland 108, 3011BP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3619,7 +3632,8 @@
         "bag_display_name": "Goudse Rijweg 707, 3031CG Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -3797,7 +3811,8 @@
         "bag_display_name": "Kleiweg 45, 3051GJ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4207,7 +4222,8 @@
         "bag_display_name": "Mia van IJperenplein 89, 3065JK Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -4473,7 +4489,8 @@
         "bag_display_name": "Strijensestraat 77, 3074GH Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -4835,7 +4852,8 @@
         "bag_display_name": "Eudokiaplein 12, 3037BT Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5365,7 +5383,8 @@
         "bag_display_name": "Koningshoek 91001, 3144BA Maassluis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5595,7 +5614,8 @@
         "bag_display_name": "Laan van Wateringse Veld 688, 2548CM 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -5821,7 +5841,8 @@
         "bag_display_name": "Parijsplein 19, 2548VL 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -5975,7 +5996,8 @@
         "bag_display_name": "Sint-Jobsweg 116, 3024EJ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -6125,7 +6147,8 @@
         "bag_display_name": "Lijnbaan 121, 3012EN Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7749,7 +7772,8 @@
         "bag_display_name": "Poolsterstraat 36, 3067LX Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -7959,7 +7983,8 @@
         "bag_display_name": "Oudedijk 149, 3061AA Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8201,7 +8226,8 @@
         "bag_display_name": "Van Beuningenhaven 10, 2993EH Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -8247,7 +8273,8 @@
         "bag_display_name": "Sterrenhof 18A, 3204AT Spijkenisse",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -8393,7 +8420,8 @@
         "bag_display_name": "Dorpsstraat 84, 2665BK Bleiswijk",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9103,7 +9131,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -9665,7 +9694,8 @@
         "bag_display_name": "Molenweg 71, 3181AT Rozenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10139,7 +10169,8 @@
         "bag_display_name": "De Loper 85, 3137DD Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10357,7 +10388,8 @@
         "bag_display_name": "Huis te Veldelaan 2a, 3155SE Maasland",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -10543,7 +10575,8 @@
         "bag_display_name": "Vierhavensstraat 147, 3029BB Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -11357,7 +11390,8 @@
         "bag_display_name": "Keizerswaard 33, 3078AL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -11879,7 +11913,8 @@
         "bag_display_name": "Asterlo 22, 3085AD Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12293,7 +12328,8 @@
         "bag_display_name": "Ackershof 53, 2641DZ Pijnacker",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12423,7 +12459,8 @@
         "bag_display_name": "Lange Baan 6, 2632GC Nootdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12573,7 +12610,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12751,7 +12789,8 @@
         "bag_display_name": "Hagastraat 1, 3114NC Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -12857,7 +12896,8 @@
         "bag_display_name": "Hoofdstraat 76A, 2678CL De Lier",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13311,7 +13351,8 @@
         "bag_display_name": "Betje Wolffstraat 134, 2533HT 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13441,7 +13482,8 @@
         "bag_display_name": "Bentinckplein 40, 3039KM Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13495,7 +13537,8 @@
         "bag_display_name": "Vlietlaan 61, 3061DV Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13837,7 +13880,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14203,7 +14247,8 @@
         "bag_display_name": "Westerwater 2, 2651JN Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14289,7 +14334,8 @@
         "bag_display_name": "Rozenoord 2, 2651XN Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14439,7 +14485,8 @@
         "bag_display_name": "Choorstraat 35, 2611JE Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14709,7 +14756,8 @@
         "bag_display_name": "Samanthagang 64, 2719CK Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -14815,7 +14863,8 @@
         "bag_display_name": "Coolsingel 47, 3012AA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15145,7 +15194,8 @@
         "bag_display_name": "Groenendaal 55, 3011SN Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15439,7 +15489,8 @@
         "bag_display_name": "1e Middellandstraat 56, 3014BG Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -15589,7 +15640,8 @@
         "bag_display_name": "Nieuwe Binnenweg 75, 3014GE Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17323,7 +17375,8 @@
         "bag_display_name": "Gouden Rijderplein 1, 2645EX Delfgauw",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17805,7 +17858,8 @@
         "bag_display_name": "Hoefbladplein 4, 2643KD Pijnacker",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -17899,7 +17953,8 @@
         "bag_display_name": "Struyck van Bergenstraat 2, 2291RW Wateringen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18197,7 +18252,8 @@
         "bag_display_name": "Middenbaan 97, 2991CS Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18275,7 +18331,8 @@
         "bag_display_name": "Hof van Portland 12, 3162WJ Rhoon",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18397,7 +18454,8 @@
         "bag_display_name": "dr. Wiardi Beckmansingel 10, 3132CX Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18527,7 +18585,8 @@
         "bag_display_name": "Marinus Bolkplein 4, 3067AK Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18573,7 +18632,8 @@
         "bag_display_name": "Paul Krugerstraat 220, 3072GS Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18711,7 +18771,8 @@
         "bag_display_name": "Bergweg 228, 3035BP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -18789,7 +18850,8 @@
         "bag_display_name": "Dijkstraat 102, 2675AZ Honselersdijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19031,7 +19093,8 @@
         "bag_display_name": "Grotemarkt 98, 3011PA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19113,7 +19176,8 @@
         "bag_display_name": "W.H. van Leeuwenlaan 1, 2613ZE Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19347,7 +19411,8 @@
         "bag_display_name": "Laan op Zuid 1190, 3071AC Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19517,7 +19582,8 @@
         "bag_display_name": "Schouwburgplein 85, 3012CL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19687,7 +19753,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -19901,7 +19968,8 @@
         "bag_display_name": "Krabbendijkestraat 10, 3086LW Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20055,7 +20123,8 @@
         "bag_display_name": "Lusthofstraat 89, 3061WL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -20145,7 +20214,8 @@
         "bag_display_name": "Karel Doormanstraat 398, 3012GR Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20255,7 +20325,8 @@
         "bag_display_name": "Otto Reuchlinweg 968, 3072MD Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20321,7 +20392,8 @@
         "bag_display_name": "Bastiaanpoort 7, 2611MC Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20431,7 +20503,8 @@
         "bag_display_name": "Nico de Regtplein 5, 3218XW Heenvliet",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20529,7 +20602,8 @@
         "bag_display_name": "Zuidplein 60H, 3083CW Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -20739,7 +20813,8 @@
         "bag_display_name": "Thomas Mannsingel 24, 2553DA 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21137,7 +21212,8 @@
         "bag_display_name": "Kinheim 305, 3191EG Hoogvliet Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -21523,7 +21599,8 @@
         "bag_display_name": "Bogaardplein 22a, 2284DM Rijswijk",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21873,7 +21950,8 @@
         "bag_display_name": "Argonautenweg 1, 3054RP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -21951,7 +22029,8 @@
         "bag_display_name": "Martinus Nijhofflaan 7, 2624ER Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22217,7 +22296,8 @@
         "bag_display_name": "Strijensestraat 61, 3074GG Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -22579,7 +22659,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -22817,7 +22898,8 @@
         "bag_display_name": "Papsouwselaan 1C, 2624AE Delft",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22895,7 +22977,8 @@
         "bag_display_name": "Maaskade 23A, 3071NA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -22961,7 +23044,8 @@
         "bag_display_name": "Borodinlaan 74, 3122HB Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23063,7 +23147,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23133,7 +23218,8 @@
         "bag_display_name": "Kikkerstraat 4, 3171GH Poortugaal",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23419,7 +23505,8 @@
         "bag_display_name": "Binnenhof 39, 3069KV Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -23525,7 +23612,8 @@
         "bag_display_name": "dr. Wiardi Beckmansingel 67, 3132CM Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23751,7 +23839,8 @@
         "bag_display_name": "van Hogendorplaan 43, 3135BC Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -23833,7 +23922,8 @@
         "bag_display_name": "Argonautenweg 14, 3054RP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -23911,7 +24001,8 @@
         "bag_display_name": "Ebenhaëzerstraat 15, 3083RC Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24065,7 +24156,8 @@
         "bag_display_name": "Lusthofstraat 81, 3061WL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -24263,7 +24355,8 @@
         "bag_display_name": "Molenwerfstraat 27, 2651CK Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -24793,7 +24886,8 @@
         "bag_display_name": "Koningshoek 93046, 3144BA Maassluis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -24851,7 +24945,8 @@
         "bag_display_name": "Langestede 4, 2543VG 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -24933,7 +25028,8 @@
         "bag_display_name": "Betje Wolffstraat 207, 2533HM 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25047,7 +25143,8 @@
         "bag_display_name": "Laan van Haamstede 36, 2497GE 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25301,7 +25398,8 @@
         "bag_display_name": "West-Kruiskade 26A, 3014AS Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25411,7 +25509,8 @@
         "bag_display_name": "Kreeftstraat 32, 3067JV Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -25701,7 +25800,8 @@
         "bag_display_name": "Solisplein 1, 2909SC Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26143,7 +26243,8 @@
         "bag_display_name": "Wolphaertsbocht 23, 3082AB Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26201,7 +26302,8 @@
         "bag_display_name": "Marijkesingel 18a, 2991BK Barendrecht",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26279,7 +26381,8 @@
         "bag_display_name": "Tsjaikovskistraat 3, 3161WH Rhoon",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26421,7 +26524,8 @@
         "bag_display_name": "van Hogendorplaan 921, 3135BK Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26479,7 +26583,8 @@
         "bag_display_name": "Mesdaglaan 14, 3117TK Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26665,7 +26770,8 @@
         "bag_display_name": "Laan van Bol'Es 13, 3122AE Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -26759,7 +26865,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27129,7 +27236,8 @@
         "bag_display_name": "Walenburgerweg 139B, 3039AJ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27299,7 +27407,8 @@
         "bag_display_name": "Pinkstraat 6, 3028XX Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27397,7 +27506,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27571,7 +27681,8 @@
         "bag_display_name": "Malmö 1, 3124KG Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27653,7 +27764,8 @@
         "bag_display_name": "Damstraat 27, 3201DA Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -27971,7 +28083,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -28785,7 +28898,8 @@
         "bag_display_name": "Keizerswaard 58, 3078AM Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -28931,7 +29045,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29165,7 +29280,8 @@
         "bag_display_name": "Ackershof 79, 2641BL Pijnacker",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29231,7 +29347,8 @@
         "bag_display_name": "Binnenrotte 77A, 3011HB Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29477,7 +29594,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -29859,7 +29977,8 @@
         "bag_display_name": "Bergweg 91, 3037ED Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -30101,7 +30220,8 @@
         "bag_display_name": "Muziekplein 5, 2992GH Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30499,7 +30619,8 @@
         "bag_display_name": "Binnenban 265, 3191CG Hoogvliet Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -30573,7 +30694,8 @@
         "bag_display_name": "Nieuwe Ommoordseweg 4, 3068BT Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30691,7 +30813,8 @@
         "bag_display_name": "Gedempte Biersloot 7a, 3131HJ Vlaardingen",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -30861,7 +30984,8 @@
         "bag_display_name": "Hellevoetstraat 2, 3081NP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31123,7 +31247,8 @@
         "bag_display_name": "Jan Steenstraat 31, 3042AL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31197,7 +31322,8 @@
         "bag_display_name": "Zwart Janstraat 41A, 3035AL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31303,7 +31429,8 @@
         "bag_display_name": "Bergse Dorpsstraat 103B, 3054GC Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31453,7 +31580,8 @@
         "bag_display_name": "dr. Wiardi Beckmansingel 3, 3132CL Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -31731,7 +31859,8 @@
         "bag_display_name": "Beijerlandse Passage 7, 3074RW Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -32869,7 +32998,8 @@
         "bag_display_name": "Zuiderterras 162, 3083BZ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -33087,7 +33217,8 @@
         "bag_display_name": "Goudsesingel 19A, 3031EB Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33205,7 +33336,8 @@
         "bag_display_name": "1e Middellandstraat 115A, 3021BD Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33297,7 +33429,8 @@
         "bag_display_name": "Plein 1953 31, 3086ED Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -33351,7 +33484,8 @@
         "bag_display_name": "Vrouwjuttenland 33, 2611LB Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -33505,7 +33639,8 @@
         "bag_display_name": "Lusthofstraat 97, 3061WL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -33619,7 +33754,8 @@
         "bag_display_name": "Bergse Dorpsstraat 92, 3054GG Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34149,7 +34285,8 @@
         "bag_display_name": "Koningshoek 93101, 3144BA Maassluis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -34455,7 +34592,8 @@
         "bag_display_name": "Leyweg 709R, 2545GM 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -34573,7 +34711,8 @@
         "bag_display_name": "Parallelweg 8B, 3131DG Vlaardingen",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -34631,7 +34770,8 @@
         "bag_display_name": "Oude Wal 37A, 3193EM Hoogvliet Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35501,7 +35641,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -35803,7 +35944,8 @@
         "bag_display_name": "Dr H. Colijnlaan 300, 2283ZA Rijswijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36075,7 +36217,8 @@
         "bag_display_name": "Oude Kustlijn 82, 2496SE 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -36249,7 +36392,8 @@
         "bag_display_name": "Hendrik Ravesteijnplein 40, 2282GT Rijswijk",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -36371,7 +36515,8 @@
         "bag_display_name": "Forellendaal 318, 2553LM 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36569,7 +36714,8 @@
         "bag_display_name": "Molenwerfstraat 25, 2651CK Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -36659,7 +36805,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36757,7 +36904,8 @@
         "bag_display_name": "Slinge 191, 3085ER Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -36891,7 +37039,8 @@
         "bag_display_name": "Ceintuurbaan 131A, 3051KA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37009,7 +37158,8 @@
         "bag_display_name": "Beijerlandselaan 2A, 3074EJ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -37083,7 +37233,8 @@
         "bag_display_name": "Lange Boonestraat 31, 3142CC Maassluis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37245,7 +37396,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37371,7 +37523,8 @@
         "bag_display_name": "Bastiaansplein 135, 2611DC Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37445,7 +37598,8 @@
         "bag_display_name": "Dorpsstraat 39, 2661CE Bergschenhoek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37591,7 +37745,8 @@
         "bag_display_name": "Wingerd 251, 2906TH Capelle aan den IJssel",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37693,7 +37848,8 @@
         "bag_display_name": "Esdoornlaan 1, 2651RC Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -37791,7 +37947,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38011,7 +38168,8 @@
         "bag_display_name": "Leyweg 918C, 2545GV 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38313,7 +38471,8 @@
         "bag_display_name": "De Stede 21A, 2543BG 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -38619,7 +38778,8 @@
         "bag_display_name": "Vijf Werelddelen 33, 3071PS Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -38797,7 +38957,8 @@
         "bag_display_name": "Dasstraat 9, 2623CB Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -39047,7 +39208,8 @@
         "bag_display_name": "Van Beuningenhaven 4, 2993EH Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -39101,7 +39263,8 @@
         "bag_display_name": "Samuel Esmeijerplein 21, 3067AP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -39255,7 +39418,8 @@
         "bag_display_name": "Schiedamseweg 62, 3025AD Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -40069,7 +40233,8 @@
         "bag_display_name": "Keizerswaard 63, 3078AL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -40191,7 +40356,8 @@
         "bag_display_name": "Onderlangs 44, 2991EM Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -40341,7 +40507,8 @@
         "bag_display_name": "Oranjeplein 40, 2678GP De Lier",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -40407,7 +40574,8 @@
         "bag_display_name": "Botersloot 13, 3011HE Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -40453,7 +40621,8 @@
         "bag_display_name": "In de Fuik 80, 3192HD Hoogvliet Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -40725,7 +40894,8 @@
         "bag_display_name": "Oude Kustlijn 6, 2496SE 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -40895,7 +41065,8 @@
         "bag_display_name": "Paradeplein 7, 2632GG Nootdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -41061,7 +41232,8 @@
         "bag_display_name": "Groenewoud 6, 3203AM Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -41111,7 +41283,8 @@
         "bag_display_name": "De Loper 2, 3136CN Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -41165,7 +41338,8 @@
         "bag_display_name": "Westpolderstraat 86, 2652KW Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -41463,7 +41637,8 @@
         "bag_display_name": "Hoogstraat 1005, 3011PM Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -41641,7 +41816,8 @@
         "bag_display_name": "Spinozaweg 293, 3076EP Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -41975,7 +42151,8 @@
         "bag_display_name": "Vliethof 6, 2291RX Wateringen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42073,7 +42250,8 @@
         "bag_display_name": "De Raaphorst 4, 2295NZ Kwintsheul",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42195,7 +42373,8 @@
         "bag_display_name": "Hesseplaats 435, 3069EA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42257,7 +42436,8 @@
         "bag_display_name": "Groen-blauwlaan 109, 2718GH Zoetermeer",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42319,7 +42499,8 @@
         "bag_display_name": "Hillelaan 77A, 3072JE Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42409,7 +42590,8 @@
         "bag_display_name": "Wijnhaven 73Z, 3011WK Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42499,7 +42681,8 @@
         "bag_display_name": "Lengweg 153, 3192BJ Hoogvliet Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -42897,7 +43080,8 @@
         "bag_display_name": "Middenbaan-Noord 202, 3191EL Hoogvliet Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -42971,7 +43155,8 @@
         "bag_display_name": "Hoefweg 133, 2665CD Bleiswijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43069,7 +43254,8 @@
         "bag_display_name": "Niels Bohrplaats 25, 3068JK Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43275,7 +43461,8 @@
         "bag_display_name": "Dr H.J. van Mooklaan 133, 2286BC Rijswijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43389,7 +43576,8 @@
         "bag_display_name": "Pesetastraat 50, 2991XT Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -43455,7 +43643,8 @@
         "bag_display_name": "Jacques Dutilhweg 193, 3065KA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43549,7 +43738,8 @@
         "bag_display_name": "Laan van Nieuw Blankenburg 234, 3181AL Rozenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43647,7 +43837,8 @@
         "bag_display_name": "Reigerlaan 50, 3136JK Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43749,7 +43940,8 @@
         "bag_display_name": "Westeinde 32, 3146BZ Maassluis",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -43979,7 +44171,8 @@
         "bag_display_name": "Laan van Wateringse Veld 484, 2548CL 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -44053,7 +44246,8 @@
         "bag_display_name": "'t Plateau 3, 3202GL Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44203,7 +44397,8 @@
         "bag_display_name": "Lierweg 107, 2678CV De Lier",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44641,7 +44836,8 @@
         "bag_display_name": "Burgemeester Baumannlaan 195, 3042AD Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -44739,7 +44935,8 @@
         "bag_display_name": "Mathenesserdijk 123, 3027BG Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44909,7 +45106,8 @@
         "bag_display_name": "Nobellaan 20, 2641XR Pijnacker",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -44975,7 +45173,8 @@
         "bag_display_name": "Multatuliweg 67, 2624CE Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45145,7 +45344,8 @@
         "bag_display_name": "Paradeplein 17, 2632GG Nootdorp",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -45251,7 +45451,8 @@
         "bag_display_name": "Parijsplein 3, 2548VL 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45553,7 +45754,8 @@
         "bag_display_name": "De Stede 22, 2543BG 's-Gravenhage",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -45631,7 +45833,8 @@
         "bag_display_name": "Sterrenhof 6, 3204AT Spijkenisse",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -45873,7 +46076,8 @@
         "bag_display_name": "Van Beuningenhaven 32, 2993EH Barendrecht",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": true
       }
     },
     {
@@ -46003,7 +46207,8 @@
         "bag_display_name": "Rembrandtlaan 25A, 3141HH Maassluis",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46121,7 +46326,8 @@
         "bag_display_name": "Hof van Spaland 68, 3121CC Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46259,7 +46465,8 @@
         "bag_display_name": "Dieselstraat 100, 3112KC Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46557,7 +46764,8 @@
         "bag_display_name": "Vuurplaat 340, 3071AR Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -46819,7 +47027,8 @@
         "bag_display_name": "Mgr Nolenslaan 600, 3119ER Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_status",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -47021,7 +47230,8 @@
         "bag_display_name": "Nieuwe Binnenweg 362, 3023ET Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47367,7 +47577,8 @@
         "bag_display_name": "Slaak 36, 3061CS Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47473,7 +47684,8 @@
         "bag_display_name": "Bergweg 26, 3036BA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47563,7 +47775,8 @@
         "bag_display_name": "Griegstraat 275, 2625AN Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47657,7 +47870,8 @@
         "bag_display_name": "Korteweg 2, 2641GZ Pijnacker",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -47903,7 +48117,8 @@
         "bag_display_name": "Westersingel 49a, 2651CM Berkel en Rodenrijs",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -48313,7 +48528,8 @@
         "bag_display_name": "Porseleinvlinderstraat 15, 2288HX Rijswijk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -49451,7 +49667,8 @@
         "bag_display_name": "Zuidplein 624, 3083CX Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -49593,7 +49810,8 @@
         "bag_display_name": "Spinozaweg 187, 3076EL Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -49899,7 +50117,8 @@
         "bag_display_name": "Leyweg 709S, 2545GM 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -50033,7 +50252,8 @@
         "bag_display_name": "Groenezoom 208, 3075GK Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50231,7 +50451,8 @@
         "bag_display_name": "Dirk de Derdelaan 27, 3132HA Vlaardingen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50365,7 +50586,8 @@
         "bag_display_name": "Heeswijkplein 200, 2531HV 's-Gravenhage",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50439,7 +50661,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50529,7 +50752,8 @@
         "bag_display_name": "Emmastraat 84, 3181GC Rozenburg",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50771,7 +50995,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50845,7 +51070,8 @@
         "bag_display_name": "Stadhoudersplein 135, 3038EA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -50963,7 +51189,8 @@
         "bag_display_name": "Nassaulaan 23A, 2628GA Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -51249,7 +51476,8 @@
         "bag_display_name": "Binnenhof 2, 3069KV Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -51835,7 +52063,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -52033,7 +52262,8 @@
         "bag_display_name": "Geuzenplein 5, 3123CK Schiedam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -52255,7 +52485,8 @@
         "bag_display_name": null,
         "bag_match_status": "unmatched",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -52801,7 +53032,8 @@
         "bag_display_name": "Bikolaan 171, 2622GS Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -52927,7 +53159,8 @@
         "bag_display_name": null,
         "bag_match_status": "missing_address",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53001,7 +53234,8 @@
         "bag_display_name": "G.A.Soetemanweg 101, 3195TC Pernis Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -53439,7 +53673,8 @@
         "bag_display_name": "Burgemeester Baumannlaan 187, 3042AD Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": true
       }
     },
     {
@@ -53561,7 +53796,8 @@
         "bag_display_name": "Van Beethovensingel 4, 3055JJ Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -54707,7 +54943,8 @@
         "bag_display_name": "de Vlashoeck 24, 2661LM Bergschenhoek",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -55305,7 +55542,8 @@
         "bag_display_name": "Van Foreestweg 4A, 2614CJ Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -55571,7 +55809,8 @@
         "bag_display_name": "Hazelaarplein 1, 2641BD Pijnacker",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -55709,7 +55948,8 @@
         "bag_display_name": "Elzenlaan 1, 2612VW Delft",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_small",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -56127,7 +56367,8 @@
         "bag_display_name": "Ganzerikplein 329, 3053EA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -56225,7 +56466,8 @@
         "bag_display_name": "Leeuwenberg 1, 2635GD Den Hoorn",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -56557,7 +56799,8 @@
         "bag_display_name": "De Manning 7, 2995AE Heerjansdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -56619,7 +56862,8 @@
         "bag_display_name": "Van der Takstraat 56, 3071LM Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -56705,7 +56949,8 @@
         "bag_display_name": "Krakeelpolderweg 27, 2613NW Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -57549,7 +57794,8 @@
         "bag_display_name": "Burgemeester Oudlaan 50, 3062PA Rotterdam",
         "bag_match_status": "resolved",
         "area_status": "area_rejected_too_large",
-        "has_area": false
+        "has_area": false,
+        "is_shared_pand": false
       }
     },
     {
@@ -57659,7 +57905,8 @@
         "bag_display_name": "Stieltjesweg 234, 2628CK Delft",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -57737,7 +57984,8 @@
         "bag_display_name": "Glashaven 6B, 3011XH Rotterdam",
         "bag_match_status": "ambiguous",
         "area_status": "area_pand_match",
-        "has_area": true
+        "has_area": true,
+        "is_shared_pand": false
       }
     }
   ]
