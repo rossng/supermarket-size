@@ -11,12 +11,20 @@
   <body>
     <main class="app">
       <section class="sidebar" aria-label="Nearby supermarkets">
+        <button id="sidebar-toggle" class="sidebar-handle" type="button" aria-expanded="true" aria-controls="results" title="Collapse the list">
+          <svg class="sidebar-handle-chevron" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+            <path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
         <div class="topbar">
           <div>
             <h1>Supermarket Size NL</h1>
             <p id="status">Loading data...</p>
           </div>
-          <button id="locate" type="button" title="Use my location" aria-label="Use my location">◎</button>
+          <div class="topbar-actions">
+            <button id="info" type="button" title="About this app" aria-label="About this app" aria-haspopup="dialog">i</button>
+            <button id="locate" type="button" title="Use my location" aria-label="Use my location">◎</button>
+          </div>
         </div>
         <div class="controls">
           <label>
@@ -38,6 +46,15 @@
         <div id="map"></div>
       </section>
     </main>
+    <dialog id="about" class="about" aria-label="About Supermarket Size NL">
+      <form method="dialog" class="about-inner">
+        <button class="about-close" type="submit" value="close" aria-label="Close">×</button>
+        <h2>Supermarket Size NL</h2>
+        <p>Browse Dutch supermarkets sized by their real building footprint, using floor areas from the BAG registry. Bubbles on the map are scaled by store area, so big shops stand out at a glance.</p>
+        <p>Data from <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> and the Dutch <a href="https://www.kadaster.nl/zakelijk/registraties/basisregistraties/bag" target="_blank" rel="noopener">BAG</a>.</p>
+        <p class="about-link"><a href="https://github.com/rossng/supermarket-size" target="_blank" rel="noopener">View the source on GitHub →</a></p>
+      </form>
+    </dialog>
     <script src="https://unpkg.com/maplibre-gl@^5.24.0/dist/maplibre-gl.js"></script>
     <script src="./app.js" type="module"></script>
   </body>

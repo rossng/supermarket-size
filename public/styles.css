@@ -214,6 +214,75 @@ body {
   border-bottom: 1px solid var(--line);
 }
 
+.topbar-actions {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+}
+
+#info {
+  font-size: 18px;
+  font-weight: 700;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* The collapse handle only matters on the stacked mobile layout. */
+.sidebar-handle {
+  display: none;
+}
+
+.about {
+  width: min(420px, calc(100vw - 32px));
+  max-width: none;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel);
+  color: var(--text);
+  box-shadow: 0 18px 50px rgb(0 0 0 / 25%);
+}
+
+.about::backdrop {
+  background: rgb(0 0 0 / 35%);
+}
+
+.about-inner {
+  position: relative;
+  padding: 22px 24px 24px;
+}
+
+.about-inner h2 {
+  margin: 0 0 10px;
+  font-size: 19px;
+}
+
+.about-inner p {
+  margin: 0 0 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.about-inner a {
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+
+.about-link {
+  margin-top: 14px;
+}
+
+.about-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  font-size: 22px;
+  color: var(--muted);
+}
+
 h1 {
   margin: 0 0 4px;
   font-size: 22px;
@@ -413,12 +482,13 @@ select {
 @media (max-width: 760px) {
   .app {
     grid-template-columns: 1fr;
-    grid-template-rows: 48dvh 52dvh;
+    grid-template-rows: 45dvh 55dvh;
     height: 100dvh;
   }
 
   .sidebar {
-    height: 52dvh;
+    height: auto;
+    min-height: 0;
     grid-row: 2;
     border-top: 1px solid var(--line);
     border-right: 0;
@@ -429,15 +499,54 @@ select {
   }
 
   .topbar {
-    padding: 14px 16px 12px;
+    padding: 10px 16px 12px;
   }
 
   .controls {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 120px;
     padding: 12px 16px;
   }
 
   .result {
     padding: 12px 16px;
+  }
+
+  /* Tappable chevron the user taps to collapse the list and free up map. */
+  .sidebar-handle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    width: 100%;
+    height: 30px;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid var(--line);
+    background: var(--panel);
+    color: var(--muted);
+  }
+
+  /* Chevron points down to collapse the list; flips up to reveal it again. */
+  .sidebar-handle-chevron {
+    transition: transform 150ms ease;
+  }
+
+  .app.sidebar-collapsed .sidebar-handle-chevron {
+    transform: rotate(180deg);
+  }
+
+  /* Collapsed: hand the freed rows to the map, keep just the handle + title. */
+  .app.sidebar-collapsed {
+    grid-template-rows: 1fr auto;
+  }
+
+  .app.sidebar-collapsed .controls,
+  .app.sidebar-collapsed .results {
+    display: none;
+  }
+
+  .app.sidebar-collapsed .topbar {
+    border-bottom: 0;
   }
 }

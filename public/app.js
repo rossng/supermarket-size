@@ -69,6 +69,10 @@ const resultsEl = document.querySelector("#results");
 const searchEl = document.querySelector("#search");
 const sortEl = document.querySelector("#sort");
 const locateEl = document.querySelector("#locate");
+const sidebarToggleEl = document.querySelector("#sidebar-toggle");
+const infoEl = document.querySelector("#info");
+const aboutEl = document.querySelector("#about");
+const appEl = document.querySelector(".app");
 let overlayHandlersInstalled = false;
 let supermarketOverlayUpdateId = 0;
 
@@ -720,9 +724,31 @@ async function loadBuildings() {
   }
 }
 
+function toggleSidebar() {
+  const collapsed = appEl.classList.toggle("sidebar-collapsed");
+  sidebarToggleEl.setAttribute("aria-expanded", String(!collapsed));
+  sidebarToggleEl.title = collapsed ? "Show the list" : "Collapse the list";
+  // The map shares a CSS grid with the sidebar, so it needs to recompute its
+  // size once the rows have been reflowed.
+  requestAnimationFrame(() => map.resize());
+}
+
+function openAbout() {
+  if (typeof aboutEl.showModal === "function") {
+    aboutEl.showModal();
+  } else {
+    aboutEl.setAttribute("open", "");
+  }
+}
+
 searchEl.addEventListener("input", applyFilters);
 sortEl.addEventListener("change", applyFilters);
 locateEl.addEventListener("click", locateUser);
+sidebarToggleEl.addEventListener("click", toggleSidebar);
+infoEl.addEventListener("click", openAbout);
+aboutEl.addEventListener("click", (event) => {
+  if (event.target === aboutEl) aboutEl.close();
+});
 map.on("dblclick", (event) => setUserLocation(event.lngLat));
 map.on("moveend", () => {
   updateSupermarketOverlay();
