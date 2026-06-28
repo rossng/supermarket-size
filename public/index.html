@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Supermarket Size NL</title>
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@^5.24.0/dist/maplibre-gl.css">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="sidebar" aria-label="Nearby supermarkets">
+        <div class="topbar">
+          <div>
+            <h1>Supermarket Size NL</h1>
+            <p id="status">Loading data...</p>
+          </div>
+          <button id="locate" type="button" title="Use my location" aria-label="Use my location">◎</button>
+        </div>
+        <div class="controls">
+          <label>
+            Search
+            <input id="search" type="search" autocomplete="off" placeholder="City, street, or chain">
+          </label>
+          <label>
+            Sort
+            <select id="sort">
+              <option value="distance">Nearby</option>
+              <option value="area">Largest</option>
+              <option value="name">Name</option>
+            </select>
+          </label>
+        </div>
+        <ol id="results" class="results"></ol>
+      </section>
+      <section class="map-wrap" aria-label="Map">
+        <div id="map"></div>
+      </section>
+    </main>
+    <script src="https://unpkg.com/maplibre-gl@^5.24.0/dist/maplibre-gl.js"></script>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

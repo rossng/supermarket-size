@@ -1,0 +1,22 @@
+{
+  "name": "supermarket-size",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve.js",
+    "fetch:bag": "node scripts/fetch-bag.js",
+    "download:bag": "node scripts/fetch-bag.js --download",
+    "fetch:supermarkets": "node scripts/fetch-supermarkets.js",
+    "fetch:ah": "node scripts/fetch-supermarkets.js --chain \"Albert Heijn\" --out data/raw/albert-heijn-osm.geojson",
+    "fetch:chains": "node scripts/fetch-supermarkets.js --preset nl --out data/raw/supermarkets-osm.geojson",
+    "resolve:bag": "node scripts/resolve-bag-addresses.js --input data/raw/supermarkets-osm.geojson --out data/processed/supermarkets-bag-ids.geojson",
+    "overrides:apply": "node scripts/apply-bag-overrides.js --input data/processed/supermarkets-bag-ids.geojson --overrides data/manual/bag-overrides.csv",
+    "attach:area": "node scripts/attach-bag-area.js --input data/processed/supermarkets-bag-ids.geojson --bag data/raw/bag-light.gpkg --out public/data/supermarkets.geojson",
+    "match:pand": "node scripts/match-bag-pand-winkel.js --input public/data/supermarkets.geojson --bag data/raw/bag-light.gpkg --out public/data/supermarkets.geojson",
+    "export:buildings": "node scripts/export-supermarket-buildings.js --input public/data/supermarkets.geojson --bag data/raw/bag-light.gpkg --out public/data/supermarket-buildings.geojson --points-out public/data/supermarket-building-points.geojson && node scripts/split-building-chunks.js",
+    "split:buildings": "node scripts/split-building-chunks.js",
+    "collect:fuzzy": "node scripts/collect-nearby-bag-candidates.js --input public/data/supermarkets.geojson --bag data/raw/bag-light.gpkg --out data/processed/fuzzy-candidates.json",
+    "publish:resolved": "node scripts/copy-data.js --input data/processed/supermarkets-bag-ids.geojson --out public/data/supermarkets.geojson"
+  }
+}

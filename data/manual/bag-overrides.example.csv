@@ -1,0 +1,3 @@
+osm_type,osm_id,bag_addressable_object_id,decision,notes
+node,123456789,0363010000000000,accept,manual review from nearby BAG candidates
+way,987654321,,reject,no plausible BAG verblijfsobject found nearby
