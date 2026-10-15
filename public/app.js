@@ -7,31 +7,8 @@ const INITIAL_LNGLAT = [INITIAL_CENTER[1], INITIAL_CENTER[0]];
 const BUILDING_CHUNK_MANIFEST_URL = "./data/building-chunks/manifest.json";
 const BUILDING_POINTS_URL = "./data/supermarket-building-points.geojson";
 const BUILDINGS_FALLBACK_URL = "./data/supermarket-buildings.geojson";
-const BASEMAP_STYLE = {
-  version: 8,
-  sources: {
-    cartoLight: {
-      type: "raster",
-      tiles: [
-        "https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
-        "https://b.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
-        "https://c.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
-        "https://d.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"
-      ],
-      tileSize: 256,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    }
-  },
-  layers: [
-    {
-      id: "carto-light",
-      type: "raster",
-      source: "cartoLight",
-      minzoom: 0,
-      maxzoom: 19
-    }
-  ]
-};
+// OpenFreeMap: free, keyless vector tiles (CARTO raster tiles now require an API key).
+const BASEMAP_STYLE = "https://tiles.openfreemap.org/styles/positron";
 
 const state = {
   features: [],
@@ -340,8 +317,13 @@ function addSourceIfMissing(id, source) {
   if (!map.getSource(id)) map.addSource(id, source);
 }
 
+// Draw overlays beneath the basemap's labels so street and place names stay legible.
+function firstBasemapSymbolLayerId() {
+  return map.getStyle().layers.find((layer) => layer.type === "symbol")?.id;
+}
+
 function addLayerIfMissing(layer) {
-  if (!map.getLayer(layer.id)) map.addLayer(layer);
+  if (!map.getLayer(layer.id)) map.addLayer(layer, firstBasemapSymbolLayerId());
 }
 
 async function ensureOverlayLayers() {
