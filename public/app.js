@@ -254,6 +254,14 @@ function circlePolygonFeature(feature) {
   };
 }
 
+function glowPointFeature(feature) {
+  return {
+    type: "Feature",
+    geometry: displayFeature(feature).geometry,
+    properties: { circle_color: markerColor(feature) }
+  };
+}
+
 function stopMapLocationClick(event) {
   if (event.originalEvent) event.originalEvent.stopPropagation();
 }
@@ -330,6 +338,10 @@ async function ensureOverlayLayers() {
   if (!OVERLAYS_ENABLED) return;
   await mapReady;
 
+  addSourceIfMissing("supermarket-glow", {
+    type: "geojson",
+    data: collection([])
+  });
   addSourceIfMissing("supermarket-radius-polygons", {
     type: "geojson",
     data: collection([])
@@ -337,6 +349,33 @@ async function ensureOverlayLayers() {
   addSourceIfMissing("supermarket-buildings", {
     type: "geojson",
     data: collection([])
+  });
+
+  // Zoomed-out glow so stores are findable at country scale. Typical store
+  // circles reach ~2px at z10 and ~4px at z11, so the glow is nearly gone by then.
+  addLayerIfMissing({
+    id: "supermarkets-glow",
+    type: "circle",
+    source: "supermarket-glow",
+    maxzoom: 12,
+    paint: {
+      "circle-color": ["get", "circle_color"],
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 5, 4, 9, 9, 11.5, 5],
+      "circle-blur": 1,
+      "circle-opacity": ["interpolate", ["linear"], ["zoom"], 5, 0.45, 9, 0.3, 10.5, 0.08, 11.5, 0]
+    }
+  });
+
+  addLayerIfMissing({
+    id: "supermarkets-glow-core",
+    type: "circle",
+    source: "supermarket-glow",
+    maxzoom: 12,
+    paint: {
+      "circle-color": ["get", "circle_color"],
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 5, 1.2, 9, 2.2, 11.5, 1.5],
+      "circle-opacity": ["interpolate", ["linear"], ["zoom"], 5, 0.8, 9, 0.6, 10.5, 0.15, 11.5, 0]
+    }
   });
 
   addLayerIfMissing({
@@ -453,11 +492,22 @@ async function ensureOverlayLayers() {
   }
 }
 
+let glowOverlayInputs = null;
+
+function updateGlowOverlay() {
+  const source = map.getSource("supermarket-glow");
+  if (!source) return;
+  if (glowOverlayInputs?.features === state.features && glowOverlayInputs?.points === state.buildingPoints) return;
+  glowOverlayInputs = { features: state.features, points: state.buildingPoints };
+  source.setData(collection(state.features.map(glowPointFeature)));
+}
+
 async function updateSupermarketOverlay() {
   if (!OVERLAYS_ENABLED) return;
   const updateId = ++supermarketOverlayUpdateId;
   await ensureOverlayLayers();
   if (updateId !== supermarketOverlayUpdateId) return;
+  updateGlowOverlay();
   const source = map.getSource("supermarket-radius-polygons");
   if (!source) return;
   const visibleFirst = featuresNearCurrentView(state.features);
