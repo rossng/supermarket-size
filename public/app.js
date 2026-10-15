@@ -186,6 +186,53 @@ const BRAND_COLORS = [
 ];
 const DEFAULT_BRAND_COLOR = "#00a2e3";
 
+// Paint properties that dim to grey when one chain is highlighted from the legend.
+const HIGHLIGHT_LAYERS = {
+  "supermarkets-glow": { color: ["circle-color"], opacity: ["circle-opacity"] },
+  "supermarkets-glow-core": { color: ["circle-color"], opacity: ["circle-opacity"] },
+  "supermarkets-radius-fill": { color: ["fill-color"], opacity: ["fill-opacity"] },
+  "supermarkets-radius-line": { color: ["line-color"], opacity: ["line-opacity"] },
+  "supermarket-buildings-fill": { color: ["fill-color"], opacity: ["fill-opacity"] },
+  "supermarket-buildings-line": { color: ["line-color"], opacity: ["line-opacity"] }
+};
+const DIMMED_COLOR = "#9aa3ab";
+const DIMMED_OPACITY = 0.2;
+const basePaint = new Map();
+let highlightedBrand = null;
+
+// Zoom expressions must stay top-level, so dim each interpolation stop instead.
+function mapPaintOutputs(value, fn) {
+  if (Array.isArray(value) && value[0] === "interpolate" && value[2]?.[0] === "zoom") {
+    return value.map((item, index) => (index > 3 && index % 2 === 0 ? fn(item) : item));
+  }
+  return fn(value);
+}
+
+function highlightBrand(key) {
+  if (key === highlightedBrand) return;
+  highlightedBrand = key;
+  const isMatch = ["==", ["get", "brand_key"], key];
+  for (const [layerId, props] of Object.entries(HIGHLIGHT_LAYERS)) {
+    if (!map.getLayer(layerId)) continue;
+    for (const [kind, names] of Object.entries(props)) {
+      for (const name of names) {
+        const cacheKey = `${layerId}:${name}`;
+        if (!basePaint.has(cacheKey)) basePaint.set(cacheKey, map.getPaintProperty(layerId, name));
+        const base = basePaint.get(cacheKey);
+        const value =
+          key === null
+            ? base
+            : mapPaintOutputs(base, (output) =>
+                kind === "color"
+                  ? ["case", isMatch, output, DIMMED_COLOR]
+                  : ["case", isMatch, output, ["*", output, DIMMED_OPACITY]]
+              );
+        map.setPaintProperty(layerId, name, value);
+      }
+    }
+  }
+}
+
 // Map control that opens a colour key of the chains present in the data.
 class LegendControl {
   onAdd() {
@@ -205,6 +252,11 @@ class LegendControl {
     this.button = this.container.querySelector(".legend-toggle");
     this.panel = this.container.querySelector(".legend-panel");
     this.button.addEventListener("click", () => this.setOpen(this.panel.hidden));
+    this.panel.addEventListener("pointerover", (event) => {
+      const row = event.target.closest("[data-brand-key]");
+      if (row) highlightBrand(row.dataset.brandKey);
+    });
+    this.panel.addEventListener("pointerleave", () => highlightBrand(null));
     this.onDocumentClick = (event) => {
       if (!this.container.contains(event.target)) this.setOpen(false);
     };
@@ -216,11 +268,13 @@ class LegendControl {
 
   onRemove() {
     this.setOpen(false);
+    highlightBrand(null);
     this.container.remove();
   }
 
   setOpen(open) {
     if (open) this.render();
+    else highlightBrand(null);
     this.panel.hidden = !open;
     this.button.setAttribute("aria-expanded", String(open));
     const method = open ? "addEventListener" : "removeEventListener";
@@ -236,6 +290,7 @@ class LegendControl {
     }
     const rows = [...counts]
       .map(([entry, count]) => ({
+        key: entry?.[0] ?? "other",
         label: entry?.[2] ?? "Other",
         color: entry?.[1] ?? DEFAULT_BRAND_COLOR,
         count
@@ -247,7 +302,7 @@ class LegendControl {
         ${rows
           .map(
             (row) => `
-          <li>
+          <li data-brand-key="${escapeHtml(row.key)}">
             <span class="legend-swatch" style="--swatch: ${row.color}"></span>
             <span class="legend-label">${escapeHtml(row.label)}</span>
             <span class="legend-count">${row.count.toLocaleString("nl-NL")}</span>
@@ -276,6 +331,18 @@ function brandEntry(feature) {
 
 function brandColor(feature) {
   return brandEntry(feature)?.[1] ?? DEFAULT_BRAND_COLOR;
+}
+
+// Stable per-chain key used by map expressions, e.g. for legend highlighting.
+function brandKey(feature) {
+  return brandEntry(feature)?.[0] ?? "other";
+}
+
+function withBrandKeys(features) {
+  for (const feature of features) {
+    feature.properties = { ...feature.properties, brand_key: brandKey(feature) };
+  }
+  return features;
 }
 
 function markerColor(feature) {
@@ -331,7 +398,8 @@ function circlePolygonFeature(feature) {
       ...feature.properties,
       radius_m: radius,
       circle_color: markerColor(feature),
-      is_matched_area: Boolean(floorArea(feature))
+      is_matched_area: Boolean(floorArea(feature)),
+      brand_key: brandKey(feature)
     }
   };
 }
@@ -340,7 +408,7 @@ function glowPointFeature(feature) {
   return {
     type: "Feature",
     geometry: displayFeature(feature).geometry,
-    properties: { circle_color: markerColor(feature) }
+    properties: { circle_color: markerColor(feature), brand_key: brandKey(feature) }
   };
 }
 
@@ -786,7 +854,7 @@ async function loadBuildingChunk(chunk) {
 
   const promise = fetchJson(buildingChunkUrl(chunk))
     .then((chunkCollection) => {
-      state.loadedBuildingChunkFeatures.set(chunk.key, chunkCollection.features ?? []);
+      state.loadedBuildingChunkFeatures.set(chunk.key, withBrandKeys(chunkCollection.features ?? []));
       state.loadedBuildingChunkKeys.add(chunk.key);
     })
     .finally(() => {
@@ -820,6 +888,7 @@ async function loadVisibleBuildingChunks() {
 
 async function loadBuildingsFallback() {
   const collection = await fetchJson(BUILDINGS_FALLBACK_URL);
+  withBrandKeys(collection.features ?? []);
   map.getSource("supermarket-buildings")?.setData(collection);
 }
 

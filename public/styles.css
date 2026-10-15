@@ -386,6 +386,16 @@ button:hover {
   gap: 8px;
 }
 
+.legend-list li[data-brand-key] {
+  margin: 0 -6px;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.legend-list li[data-brand-key]:hover {
+  background: rgb(0 0 0 / 6%);
+}
+
 .legend-swatch {
   flex: 0 0 auto;
   width: 12px;
