@@ -7,7 +7,7 @@
       "x": 528,
       "y": 335
     },
-    "featureCount": 26
+    "featureCount": 27
   },
   "features": [
     {
@@ -1208,13 +1208,13 @@
         "osm_id": 3979435947,
         "name": "ALDI",
         "brand": "ALDI",
-        "bag_addressable_object_id": "0166010000025709",
+        "bag_addressable_object_id": "0166010000025704",
         "bag_pand_id": "0166100000000800",
         "bag_pand_status": "Pand in gebruik",
         "bag_pand_bouwjaar": 2014,
         "floor_area_m2": 1142,
         "bag_raw_area_m2": 1142,
-        "bag_display_name": "Zambonistraat 4F, 8263CE Kampen",
+        "bag_display_name": "Zambonistraat 4A, 8263CE Kampen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
         "has_area": true,
@@ -2568,6 +2568,97 @@
         "floor_area_m2": 1775,
         "bag_raw_area_m2": 1775,
         "bag_display_name": "Goudplevier 105, 8271GB IJsselmuiden",
+        "bag_match_status": "resolved",
+        "area_status": "area_attached",
+        "has_area": true,
+        "is_shared_pand": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.895405242384281,
+              52.566404411714984
+            ],
+            [
+              5.895719641487221,
+              52.56628262585938
+            ],
+            [
+              5.895801384336236,
+              52.56636097777231
+            ],
+            [
+              5.895861365396978,
+              52.566337731132755
+            ],
+            [
+              5.895910029456388,
+              52.56638437358607
+            ],
+            [
+              5.896136775073696,
+              52.56629457971271
+            ],
+            [
+              5.896173413608587,
+              52.566279449704474
+            ],
+            [
+              5.89630259215928,
+              52.566402696337605
+            ],
+            [
+              5.896429623803504,
+              52.56652388495105
+            ],
+            [
+              5.896575760273201,
+              52.566663298655534
+            ],
+            [
+              5.896533443048026,
+              52.56667841720387
+            ],
+            [
+              5.895933240807132,
+              52.5669105187928
+            ],
+            [
+              5.895788842713848,
+              52.56677210344277
+            ],
+            [
+              5.895662238048996,
+              52.566650759540096
+            ],
+            [
+              5.895535648726331,
+              52.566529406448055
+            ],
+            [
+              5.895405242384281,
+              52.566404411714984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2732405964,
+        "name": "Nettorama",
+        "brand": "Nettorama",
+        "bag_addressable_object_id": "0166010000012580",
+        "bag_pand_id": "0166100000003614",
+        "bag_pand_status": "Pand in gebruik",
+        "bag_pand_bouwjaar": 1996,
+        "floor_area_m2": 2577,
+        "bag_raw_area_m2": 2577,
+        "bag_display_name": "Industrieweg 12, 8263AD Kampen",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
         "has_area": true,

@@ -7,7 +7,7 @@
       "x": 526,
       "y": 341
     },
-    "featureCount": 7
+    "featureCount": 6
   },
   "features": [
     {
@@ -445,61 +445,6 @@
         "bag_display_name": "Sniederslaan 53A, 5531EH Bladel",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
-        "has_area": true,
-        "is_shared_pand": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.161204569901464,
-              51.36205444356521
-            ],
-            [
-              5.1612087817335395,
-              51.36205055061271
-            ],
-            [
-              5.161684969168087,
-              51.36218162956663
-            ],
-            [
-              5.161455194106729,
-              51.362510262916096
-            ],
-            [
-              5.160988267034123,
-              51.36235846395887
-            ],
-            [
-              5.161200588863791,
-              51.36205812123499
-            ],
-            [
-              5.161204569901464,
-              51.36205444356521
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "osm_type": "node",
-        "osm_id": 34045511,
-        "name": "Albert Heijn Jan Linders",
-        "brand": "Albert Heijn",
-        "bag_addressable_object_id": "1667010000006622",
-        "bag_pand_id": "1667100000009271",
-        "bag_pand_status": "Pand in gebruik",
-        "bag_pand_bouwjaar": 1970,
-        "floor_area_m2": 1330,
-        "bag_raw_area_m2": 1330,
-        "bag_display_name": "Markt 6a, 5541EA Reusel",
-        "bag_match_status": "ambiguous",
-        "area_status": "area_pand_match",
         "has_area": true,
         "is_shared_pand": false
       }

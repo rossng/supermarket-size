@@ -10149,32 +10149,24 @@
         "coordinates": [
           [
             [
-              5.0701975750747,
-              52.49935205939778
+              5.070369198138075,
+              52.499421666647045
+            ],
+            [
+              5.070164922613662,
+              52.49960925392216
             ],
             [
               5.069992750599871,
               52.49954015719431
             ],
             [
-              5.069920886402019,
-              52.49951131330482
-            ],
-            [
-              5.069819822993218,
-              52.49947176819673
-            ],
-            [
-              5.0700259672785455,
-              52.4992824519389
-            ],
-            [
-              5.07012393654079,
-              52.49932218632846
-            ],
-            [
               5.0701975750747,
               52.49935205939778
+            ],
+            [
+              5.070369198138075,
+              52.499421666647045
             ]
           ]
         ]
@@ -10184,15 +10176,15 @@
         "osm_id": 2846703089,
         "name": "Vomar",
         "brand": "Vomar",
-        "bag_addressable_object_id": "0385010000024658",
-        "bag_pand_id": "0385100000009112",
+        "bag_addressable_object_id": "0385010000025805",
+        "bag_pand_id": "0385100000009434",
         "bag_pand_status": "Pand in gebruik",
-        "bag_pand_bouwjaar": 1972,
+        "bag_pand_bouwjaar": 1974,
         "floor_area_m2": 1467,
         "bag_raw_area_m2": 1467,
         "bag_display_name": "Zonnebloemstraat 38, 1131WV Volendam",
         "bag_match_status": "resolved",
-        "area_status": "area_pand_match",
+        "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": false
       }

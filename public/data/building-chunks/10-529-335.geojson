@@ -285,8 +285,8 @@
         "bag_pand_bouwjaar": 1991,
         "floor_area_m2": 1575,
         "bag_raw_area_m2": 1575,
-        "bag_display_name": "Forelkolk 108T-1, 8017PK Zwolle",
-        "bag_match_status": "ambiguous",
+        "bag_display_name": "Forelkolk 108, 8017PK Zwolle",
+        "bag_match_status": "resolved",
         "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": false
@@ -5477,8 +5477,20 @@
               52.64725108176105
             ],
             [
+              6.2092804793495295,
+              52.64722959446226
+            ],
+            [
+              6.209364836442196,
+              52.64717102417713
+            ],
+            [
               6.209378037679261,
               52.647161855571696
+            ],
+            [
+              6.209828151842126,
+              52.64740168923924
             ],
             [
               6.20984259957308,
@@ -5499,6 +5511,46 @@
             [
               6.210005827428571,
               52.647566097610266
+            ],
+            [
+              6.209950615439508,
+              52.647604433656966
+            ],
+            [
+              6.209902127723803,
+              52.647638085628344
+            ],
+            [
+              6.209883383362781,
+              52.647651103321365
+            ],
+            [
+              6.209834545658971,
+              52.64768500933435
+            ],
+            [
+              6.20981607844676,
+              52.64769783636255
+            ],
+            [
+              6.2097425738150624,
+              52.6477488723028
+            ],
+            [
+              6.209723945876416,
+              52.64776179929005
+            ],
+            [
+              6.209674830736862,
+              52.64779589589091
+            ],
+            [
+              6.209656319611605,
+              52.6478087501596
+            ],
+            [
+              6.209605512346324,
+              52.64784402680348
             ],
             [
               6.209539665325443,
@@ -6092,8 +6144,8 @@
         "bag_pand_bouwjaar": 1960,
         "floor_area_m2": 410,
         "bag_raw_area_m2": 410,
-        "bag_display_name": "Vechtstraat 50G-1, 8021AX Zwolle",
-        "bag_match_status": "ambiguous",
+        "bag_display_name": "Vechtstraat 50, 8021AX Zwolle",
+        "bag_match_status": "resolved",
         "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": false
@@ -7634,15 +7686,15 @@
         "osm_id": 2866302302,
         "name": "Jumbo",
         "brand": "Jumbo",
-        "bag_addressable_object_id": "0193010000099955",
+        "bag_addressable_object_id": "0193010000109524",
         "bag_pand_id": "0193100000046608",
         "bag_pand_status": "Pand in gebruik",
         "bag_pand_bouwjaar": 2000,
-        "floor_area_m2": 1653,
-        "bag_raw_area_m2": 1653,
+        "floor_area_m2": 1816,
+        "bag_raw_area_m2": 1816,
         "bag_display_name": "Assendorperstraat 71A, 8012DG Zwolle",
         "bag_match_status": "ambiguous",
-        "area_status": "area_pand_match",
+        "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": false
       }
@@ -11320,14 +11372,14 @@
         "brand": "Nettorama",
         "bag_addressable_object_id": "0193010000107768",
         "bag_pand_id": "0193100000078574",
-        "bag_pand_status": "Bouw gestart",
-        "bag_pand_bouwjaar": 2023,
-        "floor_area_m2": null,
+        "bag_pand_status": "Pand in gebruik (niet ingemeten)",
+        "bag_pand_bouwjaar": 2026,
+        "floor_area_m2": 1923,
         "bag_raw_area_m2": 1923,
         "bag_display_name": "Deventerstraatweg 20, 8012AH Zwolle",
         "bag_match_status": "resolved",
-        "area_status": "area_rejected_status",
-        "has_area": false,
+        "area_status": "area_attached",
+        "has_area": true,
         "is_shared_pand": false
       }
     },

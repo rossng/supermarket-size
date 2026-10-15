@@ -194,7 +194,7 @@
         "floor_area_m2": 1058,
         "bag_raw_area_m2": 1058,
         "bag_display_name": "Veerhoeklaan 5A, 4501AE Oostburg",
-        "bag_match_status": "resolved",
+        "bag_match_status": "ambiguous",
         "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": false

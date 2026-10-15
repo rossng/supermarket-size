@@ -2207,12 +2207,12 @@
         "osm_id": 34044928,
         "name": "Albert Heijn XL",
         "brand": "Albert Heijn XL",
-        "bag_addressable_object_id": "0080010000431152",
+        "bag_addressable_object_id": "0080010000431158",
         "bag_pand_id": "0080100000370629",
         "bag_pand_status": "Pand in gebruik",
         "bag_pand_bouwjaar": 1973,
-        "floor_area_m2": 245,
-        "bag_raw_area_m2": 245,
+        "floor_area_m2": 1830,
+        "bag_raw_area_m2": 1830,
         "bag_display_name": "Tijnjedijk 76a, 8936AD Leeuwarden",
         "bag_match_status": "ambiguous",
         "area_status": "area_attached",
@@ -7961,12 +7961,20 @@
         "coordinates": [
           [
             [
-              5.759887920737784,
-              53.258336703276214
+              5.759893966495843,
+              53.258394784766026
             ],
             [
-              5.759906844633811,
-              53.25833825292947
+              5.759942220965511,
+              53.25839873233465
+            ],
+            [
+              5.759922759726634,
+              53.2584841999597
+            ],
+            [
+              5.759874505163204,
+              53.25848025238346
             ],
             [
               5.7598496586400065,
@@ -7999,6 +8007,14 @@
             [
               5.759887920737784,
               53.258336703276214
+            ],
+            [
+              5.759906844633811,
+              53.25833825292947
+            ],
+            [
+              5.759893966495843,
+              53.258394784766026
             ]
           ]
         ]
@@ -8010,14 +8026,14 @@
         "brand": "Poiesz",
         "bag_addressable_object_id": "0081010000004542",
         "bag_pand_id": "0081100000004985",
-        "bag_pand_status": "Pand in gebruik",
+        "bag_pand_status": "Verbouwing pand",
         "bag_pand_bouwjaar": 2009,
-        "floor_area_m2": 1528,
-        "bag_raw_area_m2": 1528,
+        "floor_area_m2": null,
+        "bag_raw_area_m2": 1553,
         "bag_display_name": "Uniawei 4, 9051BC Stiens",
         "bag_match_status": "resolved",
-        "area_status": "area_attached",
-        "has_area": true,
+        "area_status": "area_rejected_status",
+        "has_area": false,
         "is_shared_pand": false
       }
     },

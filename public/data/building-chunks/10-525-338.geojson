@@ -7365,133 +7365,6 @@
         "coordinates": [
           [
             [
-              4.680161508476935,
-              51.88567254058238
-            ],
-            [
-              4.680341317969935,
-              51.885740075172265
-            ],
-            [
-              4.680340122173757,
-              51.88574129941388
-            ],
-            [
-              4.680291644010812,
-              51.88579072359744
-            ],
-            [
-              4.680293824438173,
-              51.88579154568974
-            ],
-            [
-              4.680359513112724,
-              51.88581621908799
-            ],
-            [
-              4.680357844918507,
-              51.88581792587125
-            ],
-            [
-              4.680343334022005,
-              51.885832714675466
-            ],
-            [
-              4.680330697615401,
-              51.88584560917597
-            ],
-            [
-              4.680259663083778,
-              51.885918025260445
-            ],
-            [
-              4.680259215377896,
-              51.88591786077194
-            ],
-            [
-              4.680255504284884,
-              51.885916463187705
-            ],
-            [
-              4.680193902118978,
-              51.88589332440628
-            ],
-            [
-              4.680019074863537,
-              51.88607156751304
-            ],
-            [
-              4.679918662815189,
-              51.8861739273072
-            ],
-            [
-              4.679916756640635,
-              51.88617321472209
-            ],
-            [
-              4.679836396312623,
-              51.88614303262672
-            ],
-            [
-              4.67956754743825,
-              51.88604205379579
-            ],
-            [
-              4.679566854377884,
-              51.8860417889524
-            ],
-            [
-              4.6796979577307445,
-              51.88590812726702
-            ],
-            [
-              4.679699372897177,
-              51.88590865712719
-            ],
-            [
-              4.679722722724115,
-              51.88591742678061
-            ],
-            [
-              4.6800157499319255,
-              51.885618684574695
-            ],
-            [
-              4.680016384778623,
-              51.88561803222929
-            ],
-            [
-              4.680161508476935,
-              51.88567254058238
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "osm_type": "node",
-        "osm_id": 2728561792,
-        "name": "Aldi",
-        "brand": "Aldi",
-        "bag_addressable_object_id": "1927010000013975",
-        "bag_pand_id": "1927100000023316",
-        "bag_pand_status": "Pand in gebruik",
-        "bag_pand_bouwjaar": 2016,
-        "floor_area_m2": 1432,
-        "bag_raw_area_m2": 1432,
-        "bag_display_name": "Planetenlaan 80a, 2957SN Nieuw-Lekkerland",
-        "bag_match_status": "resolved",
-        "area_status": "area_attached",
-        "has_area": true,
-        "is_shared_pand": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               4.579750757516281,
               51.93753183873701
             ],
@@ -8363,6 +8236,121 @@
         "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.680019074863537,
+              51.88607156751304
+            ],
+            [
+              4.679918485698652,
+              51.88617410601264
+            ],
+            [
+              4.679845609195209,
+              51.88614649476955
+            ],
+            [
+              4.679873096263696,
+              51.88611848104391
+            ],
+            [
+              4.6796191067266335,
+              51.886023065839446
+            ],
+            [
+              4.679722722724115,
+              51.88591742678061
+            ],
+            [
+              4.6800157499319255,
+              51.885618684574695
+            ],
+            [
+              4.680016384778623,
+              51.88561803222929
+            ],
+            [
+              4.680161508476935,
+              51.88567254058238
+            ],
+            [
+              4.680341317969935,
+              51.885740075172265
+            ],
+            [
+              4.680340122173757,
+              51.88574129941388
+            ],
+            [
+              4.680291644010812,
+              51.88579072359744
+            ],
+            [
+              4.680293824438173,
+              51.88579154568974
+            ],
+            [
+              4.680359513112724,
+              51.88581621908799
+            ],
+            [
+              4.680357844918507,
+              51.88581792587125
+            ],
+            [
+              4.680343334022005,
+              51.885832714675466
+            ],
+            [
+              4.680330697615401,
+              51.88584560917597
+            ],
+            [
+              4.680259663083778,
+              51.885918025260445
+            ],
+            [
+              4.680259215377896,
+              51.88591786077194
+            ],
+            [
+              4.680255504284884,
+              51.885916463187705
+            ],
+            [
+              4.680193902118978,
+              51.88589332440628
+            ],
+            [
+              4.680019074863537,
+              51.88607156751304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2728561792,
+        "name": "ALDI",
+        "brand": "ALDI",
+        "bag_addressable_object_id": "1927010000013975",
+        "bag_pand_id": "1927100000023316",
+        "bag_pand_status": "Pand in gebruik",
+        "bag_pand_bouwjaar": 2016,
+        "floor_area_m2": 1360,
+        "bag_raw_area_m2": 1360,
+        "bag_display_name": "Planetenlaan 80a, 2957SN Nieuw-Lekkerland",
+        "bag_match_status": "resolved",
+        "area_status": "area_attached",
+        "has_area": true,
+        "is_shared_pand": false
       }
     },
     {
@@ -13403,8 +13391,8 @@
         "bag_pand_id": "0571100000000585",
         "bag_pand_status": "Pand in gebruik",
         "bag_pand_bouwjaar": 1989,
-        "floor_area_m2": 1644,
-        "bag_raw_area_m2": 1644,
+        "floor_area_m2": 1324,
+        "bag_raw_area_m2": 1324,
         "bag_display_name": "Planetenlaan 35, 2957SL Nieuw-Lekkerland",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
@@ -18791,8 +18779,8 @@
         "bag_pand_bouwjaar": 2005,
         "floor_area_m2": 1674,
         "bag_raw_area_m2": 1674,
-        "bag_display_name": "Amerstraat 2a, 2987CA Ridderkerk",
-        "bag_match_status": "ambiguous",
+        "bag_display_name": "Amerstraat 2, 2987CA Ridderkerk",
+        "bag_match_status": "resolved",
         "area_status": "area_attached",
         "has_area": true,
         "is_shared_pand": false
@@ -22905,8 +22893,8 @@
         "bag_pand_id": "0694100000002056",
         "bag_pand_status": "Pand in gebruik",
         "bag_pand_bouwjaar": 2002,
-        "floor_area_m2": 690,
-        "bag_raw_area_m2": 690,
+        "floor_area_m2": 1384,
+        "bag_raw_area_m2": 1384,
         "bag_display_name": "Margrietstraat 1, 2964CE Groot-Ammers",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
@@ -26368,8 +26356,8 @@
         "bag_pand_id": "0694100000002998",
         "bag_pand_status": "Pand in gebruik",
         "bag_pand_bouwjaar": 1974,
-        "floor_area_m2": 376,
-        "bag_raw_area_m2": 376,
+        "floor_area_m2": 406,
+        "bag_raw_area_m2": 406,
         "bag_display_name": "Kerkstraat 10, 2959BS Streefkerk",
         "bag_match_status": "resolved",
         "area_status": "area_attached",
