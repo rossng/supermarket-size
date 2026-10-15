@@ -1,18 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#f8fbfa"/>
-  <path
-    d="M5 10.5 14 5l12 3.5 1 12-8 6.5-12-2z"
-    fill="#21918c"
-    stroke="#3b528b"
-    stroke-linejoin="round"
-    stroke-width="3"
-  />
-  <path
-    d="M11 13.5 17 10l5 1.5.5 5.5-4.5 3.5-6-1z"
-    fill="none"
-    stroke="#ffffff"
-    stroke-linejoin="round"
-    stroke-width="2"
-    opacity=".85"
-  />
+  <defs>
+    <clipPath id="tile">
+      <rect x="1" y="1" width="30" height="30" rx="6.5"/>
+    </clipPath>
+  </defs>
+  <!-- Light map tile with a couple of streets, like the Positron basemap. -->
+  <rect x=".5" y=".5" width="31" height="31" rx="7" fill="#f2f3f0"/>
+  <g clip-path="url(#tile)">
+    <path d="M0 22.5 32 13.5M19.5 0 22.7 32" stroke="#ffffff" stroke-width="3.2"/>
+    <path d="M0 22.5 32 13.5M19.5 0 22.7 32" stroke="#dcdfda" stroke-width="1" opacity=".9"/>
+  </g>
+  <rect x=".5" y=".5" width="31" height="31" rx="7" fill="none" stroke="#c9ccc5"/>
+  <!-- Supermarkets as filled circles sized by floor area, in chain colours. -->
+  <g stroke="#ffffff" stroke-width="1.6">
+    <circle cx="12.5" cy="13" r="8.6" fill="#179eda"/>
+    <circle cx="24" cy="23.5" r="5.6" fill="#ffd400"/>
+    <circle cx="9.5" cy="25" r="4.2" fill="#e2001a"/>
+  </g>
 </svg>
