@@ -338,6 +338,83 @@ button:hover {
   border-top: 1px solid #ddd;
 }
 
+.legend-ctrl {
+  position: relative;
+}
+
+.legend-toggle {
+  color: var(--text) !important;
+}
+
+/* Opens to the left of the map buttons, bottom-aligned with them. */
+.legend-panel {
+  position: absolute;
+  right: calc(100% + 8px);
+  bottom: 0;
+  width: min(240px, calc(100vw - 80px));
+  max-height: min(440px, 60vh);
+  overflow-y: auto;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--text);
+  box-shadow: 0 8px 24px rgb(0 0 0 / 18%);
+  font-size: 13px;
+}
+
+.legend-panel[hidden] {
+  display: none;
+}
+
+.legend-panel h2 {
+  margin: 0 0 8px;
+  font-size: 14px;
+}
+
+.legend-list {
+  display: grid;
+  gap: 5px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.legend-list li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.legend-swatch {
+  flex: 0 0 auto;
+  width: 12px;
+  height: 12px;
+  border: 1.5px solid var(--swatch);
+  border-radius: 50%;
+  background: var(--swatch);
+}
+
+.legend-swatch-outline {
+  background: transparent;
+}
+
+.legend-label {
+  flex: 1 1 auto;
+}
+
+.legend-count {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.legend-notes {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
 .controls {
   flex: 0 0 auto;
   display: grid;
@@ -496,6 +573,11 @@ select {
 
   .map-wrap {
     grid-row: 1;
+  }
+
+  /* The stacked map is short; keep the legend inside it. */
+  .legend-panel {
+    max-height: calc(45dvh - 70px);
   }
 
   .topbar {

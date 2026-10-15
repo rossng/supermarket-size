@@ -152,48 +152,130 @@ function markerRadiusMeters(feature) {
   return Math.max(18, Math.min(55, Math.sqrt(area) * 0.55));
 }
 
-// Key brand colour per chain, matched as a lowercase substring of the OSM
+// Key brand colour and display label per chain, matched as a lowercase substring of the OSM
 // brand/name/operator. Verified against brand style guides / logo assets where
 // possible. Order matters: more specific needles first, and "ekoplaza" must
 // come before "marqt" because "Ekoplaza Foodmarqt" contains "marqt".
 const BRAND_COLORS = [
-  ["albert heijn", "#179eda"],
-  ["jumbo", "#ffd400"],
-  ["aldi", "#001e5e"],
-  ["plus", "#7dba30"],
-  ["lidl", "#015aa2"],
-  ["spar", "#e4002b"],
-  ["coop", "#da291c"],
-  ["dirk", "#e2001a"],
-  ["vomar", "#e3001b"],
-  ["hoogvliet", "#e30613"],
-  ["dekamarkt", "#e00614"],
-  ["deen", "#e2001a"],
-  ["nettorama", "#1d4e9a"],
-  ["poiesz", "#4c9a2a"],
-  ["boni", "#e2001a"],
-  ["jan linders", "#e2001a"],
-  ["mcd", "#003d7d"],
-  ["dagwinkel", "#4c9a2a"],
-  ["boon's", "#e2001a"],
-  ["troefmarkt", "#e2001a"],
-  ["attent", "#ee7203"],
-  ["ekoplaza", "#53a910"],
-  ["marqt", "#1a1a1a"],
-  ["odin", "#8c1d40"],
-  ["natuurwinkel", "#3aaa35"],
-  ["amazing oriental", "#c8102e"]
+  ["albert heijn", "#179eda", "Albert Heijn"],
+  ["jumbo", "#ffd400", "Jumbo"],
+  ["aldi", "#001e5e", "ALDI"],
+  ["plus", "#7dba30", "PLUS"],
+  ["lidl", "#015aa2", "Lidl"],
+  ["spar", "#e4002b", "SPAR"],
+  ["coop", "#da291c", "Coop"],
+  ["dirk", "#e2001a", "Dirk"],
+  ["vomar", "#e3001b", "Vomar"],
+  ["hoogvliet", "#e30613", "Hoogvliet"],
+  ["dekamarkt", "#e00614", "DekaMarkt"],
+  ["deen", "#e2001a", "Deen"],
+  ["nettorama", "#1d4e9a", "Nettorama"],
+  ["poiesz", "#4c9a2a", "Poiesz"],
+  ["boni", "#e2001a", "Boni"],
+  ["jan linders", "#e2001a", "Jan Linders"],
+  ["mcd", "#003d7d", "MCD"],
+  ["dagwinkel", "#4c9a2a", "Dagwinkel"],
+  ["boon's", "#e2001a", "Boon's"],
+  ["troefmarkt", "#e2001a", "Troefmarkt"],
+  ["attent", "#ee7203", "Attent"],
+  ["ekoplaza", "#53a910", "Ekoplaza"],
+  ["marqt", "#1a1a1a", "Marqt"],
+  ["odin", "#8c1d40", "Odin"],
+  ["natuurwinkel", "#3aaa35", "Natuurwinkel"],
+  ["amazing oriental", "#c8102e", "Amazing Oriental"]
 ];
 const DEFAULT_BRAND_COLOR = "#00a2e3";
 
-function brandColor(feature) {
+// Map control that opens a colour key of the chains present in the data.
+class LegendControl {
+  onAdd() {
+    this.container = document.createElement("div");
+    this.container.className = "maplibregl-ctrl legend-ctrl";
+    this.container.innerHTML = `
+      <div class="maplibregl-ctrl-group">
+        <button class="legend-toggle" type="button" title="Show colour legend" aria-label="Show colour legend" aria-expanded="false" aria-controls="legend-panel">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+            <circle cx="6" cy="7" r="2.6" fill="#179eda"/>
+            <circle cx="6" cy="17" r="2.6" fill="#ffd400"/>
+            <path d="M11 7h9M11 17h9" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <div id="legend-panel" class="legend-panel" role="dialog" aria-label="Supermarket colours" hidden></div>`;
+    this.button = this.container.querySelector(".legend-toggle");
+    this.panel = this.container.querySelector(".legend-panel");
+    this.button.addEventListener("click", () => this.setOpen(this.panel.hidden));
+    this.onDocumentClick = (event) => {
+      if (!this.container.contains(event.target)) this.setOpen(false);
+    };
+    this.onKeydown = (event) => {
+      if (event.key === "Escape") this.setOpen(false);
+    };
+    return this.container;
+  }
+
+  onRemove() {
+    this.setOpen(false);
+    this.container.remove();
+  }
+
+  setOpen(open) {
+    if (open) this.render();
+    this.panel.hidden = !open;
+    this.button.setAttribute("aria-expanded", String(open));
+    const method = open ? "addEventListener" : "removeEventListener";
+    document[method]("click", this.onDocumentClick);
+    document[method]("keydown", this.onKeydown);
+  }
+
+  render() {
+    const counts = new Map();
+    for (const feature of state.features) {
+      const entry = brandEntry(feature);
+      counts.set(entry, (counts.get(entry) ?? 0) + 1);
+    }
+    const rows = [...counts]
+      .map(([entry, count]) => ({
+        label: entry?.[2] ?? "Other",
+        color: entry?.[1] ?? DEFAULT_BRAND_COLOR,
+        count
+      }))
+      .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+    this.panel.innerHTML = `
+      <h2>Supermarket colours</h2>
+      <ul class="legend-list">
+        ${rows
+          .map(
+            (row) => `
+          <li>
+            <span class="legend-swatch" style="--swatch: ${row.color}"></span>
+            <span class="legend-label">${escapeHtml(row.label)}</span>
+            <span class="legend-count">${row.count.toLocaleString("nl-NL")}</span>
+          </li>`
+          )
+          .join("")}
+      </ul>
+      <ul class="legend-list legend-notes">
+        <li><span class="legend-swatch" style="--swatch: #7d8791"></span>Filled: known floor area</li>
+        <li><span class="legend-swatch legend-swatch-outline" style="--swatch: #7d8791"></span>Outline: floor area unknown</li>
+      </ul>`;
+  }
+}
+
+// Added after the zoom buttons so it stacks directly above them.
+map.addControl(new LegendControl(), "bottom-right");
+
+function brandEntry(feature) {
   const props = feature.properties ?? {};
   const haystack = [props.brand, props.name, props.operator]
     .filter(Boolean)
     .join(" | ")
     .toLowerCase();
-  const match = BRAND_COLORS.find(([needle]) => haystack.includes(needle));
-  return match ? match[1] : DEFAULT_BRAND_COLOR;
+  return BRAND_COLORS.find(([needle]) => haystack.includes(needle));
+}
+
+function brandColor(feature) {
+  return brandEntry(feature)?.[1] ?? DEFAULT_BRAND_COLOR;
 }
 
 function markerColor(feature) {
